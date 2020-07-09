@@ -1,4 +1,4 @@
-﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Associated_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
 0,RECORD KEY,,,,,,
 1,PX ID-RECORD KEY,,,,,,
 2,Transplant Center Code://Recipient Center:,,,,,,
