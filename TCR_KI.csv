@@ -71,7 +71,7 @@
 69,Specify Location and number of fractures//Other:,,,,,,
 70,Other//# of fractures:,,,,,,
 71,AVN (avascular necrosis):,,4287786,Avascular necrosis of bone,Condition,Clinical Finding,SNOMED
-72,Date of Measurement:,,4048365,Measurement,Measurement,Procedure,SNOMED
+72,Date of Measurement:,,,,,,
 73,Cognitive Development:,lkup_cognitive_development,4137543,Cognitive developmental delay,Condition,Clinical Finding,SNOMED
 74,Motor Development:,lkup_motor_development,44804870,Motor developmental delay,Condition,Clinical Finding,SNOMED
 75,Country of Permanent Residence:,lkup_ctry,,,,,
