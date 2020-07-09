@@ -1,0 +1,82 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,RECORD KEY,tcr_id,,,,,,
+1,PX ID-RECORD KEY,px_id,,,,,,
+2,Transplant Center Code://Recipient Center:,ctr_cd,,,,,,
+3,Transplant Center Type://Recipient Center,ctr_ty,,,,,,
+4,SSN:,ssn,,,,,,
+5,Organ Registered:,org_ty,lkup_wl_org,,,,,
+6,Date of Listing or Add:,listing_dt,,,,,,
+7,Last Name:,lname,,,,,,
+8,First Name:,fname,,,,,,
+9,Middle Initial://MI:,mi,,,,,,
+10,Previous Surname:,prev_surname,,,,,,
+11,Gender:,gender,,4135376,Gender,Observation,Observable Entity,SNOMED
+12,HIC:,hic,,,,,,
+13,Date of Birth://DOB:,dob,,4083587,Date of birth,Observation,Observable Entity,SNOMED
+14,State of Permanent Residence:,perm_state,lkup_state,,,,,
+15,Permanent ZIP Code:,perm_zip,,,,,,
+16,Ethnicity/Race:,race,lkup_race_subcat_multi,3050381,Race or ethnicity [OASIS],Observation,Survey,LOINC
+17,Citizenship:,citizenship,lkup_citizen_ldr_tcr,,,,,
+18,Year of Entry to the U.S.,yr_entry_us,,,,,,
+19,Highest Education Level:,education,lkup_ed_level,3005022,Highest level of education [Time] - Reported,Measurement,Clinical Observation,LOINC
+20,Functional Status:,func_stat,lkup_func_stat_2005,40757653,Functional status,Observation,Survey,LOINC
+21,Working for income:,work_income,,4126861,Working,Observation,Qualifier Value,SNOMED
+22,Academic Progress:,academic_prg,Lkup_academic_prg,4153214,Academic progress,Observation,Observable Entity,SNOMED
+23,Academic Activity Level:,academic_level,lkup_academic_activity_level_kip,,,,,
+24,Previous Transplant//Organ,don_org,,,,,,
+25,Previous Transplant//Date,tx_dt,,,,,,
+26,Previous Transplant//Graft Fail Date,grf_fail_dt,,,,,,
+27,Previous Transplant//Organ,don_org,,,,,,
+28,Previous Transplant//Date,tx_dt,,,,,,
+29,Previous Transplant//Graft Fail Date,grf_fail_dt,,,,,,
+30,Previous Transplant//Organ,don_org,,,,,,
+31,Previous Transplant//Date,tx_dt,,,,,,
+32,Previous Transplant//Graft Fail Date,grf_fail_dt,,,,,,
+33,Previous Pancreas Islet Infusion:,prev_pi_tx,,,,,,
+34,Source of Payment//Primary:,pri_payment,lkup_prim_src_pay,40771048,Payment source [ESRD],Observation,Survey,LOINC
+35,Foreign Government//Specify:,pri_payment_ctry,lkup_ctry,,,,,
+36,Height in cm://Height:,hgt_cm,,3036277,Body height,Measurement,Clinical Observation,LOINC
+37,Height Status//ST=,hgt_cm_i,lkup_field_stat_cd,,,,,
+38,Height Growth percentiles//%ile,cdc_growth_hgt,,3036798,Body height [Percentile],Measurement,Clinical Observation,LOINC
+39,Weight in kg://Weight:,wgt_kg,,3025315,Body weight,Measurement,Clinical Observation,LOINC
+40,Weight Status//ST=,wgt_kg_i,lkup_field_stat_cd,,,,,
+41,Weight Growth percentiles//%ile,cdc_growth_wgt,,3013131,Body weight [Percentile] Per age,Measurement,Clinical Observation,LOINC
+42,BMI:,bmi,,3038553,Body mass index,Measurement,Clinical Observation,LOINC
+43,BMI://%ile,cdc_growth_bmi,,,,,,
+44,ABO Blood Group:,abo,lkup_abo,3002529,ABO group [Type] in Blood,Measurement,Lab Test,LOINC
+45,Primary Kidney Diagnosis:,dgn,lkup_ki_dgn,,,,,
+46,Primary Kidney Diagnosis//Specify:,dgn_ostxt,,,,,,
+47,Primary Pancreas Diagnosis:,dgn2,lkup_pa_dgn,,,,,
+48,Primary Pancreas Diagnosis//Specify:,dgn2_ostxt,,,,,,
+49,Diabetes:,diab,lkup_diab_ty,201820,Diabetes mellitus,Condition,Clinical Finding,SNOMED
+50,Symptomatic Peripheral Vascular Disease:,perip_vasc,,,,,,
+51,Any previous Malignancy:,prev_malig,,4144289,H/O: malignant neoplasm,Observation,Context-dependent,SNOMED
+52,Any previous Malignancy//Specify Type:,prev_malig_ty,lkup_malig_multi,,,,,
+53,Any previous Malignancy//Specify:,prev_malig_ty_ostxt,,,,,,
+54,Total Serum Albumin:,tot_serum_album,,3024561,Albumin serum/plasma,Measurement,Lab Test,LOINC
+55,Total Serum Albumin//ST=,tot_serum_album_I,lkup_field_stat_cd,,,,,
+56,Exhausted Vascular Access:,exh_vasc_access,,,,,,
+57,Exhausted Peritoneal Access:,exh_perit_access,,,,,,
+58,Age of Diabetes Onset:,age_diab,,,,,,
+59,Age of Diabetes Onset//ST=,age_diab_i,lkup_field_stat_cd,,,,,
+60,Status,status,lkup_form_status,4138595,Status,Observation,Attribute,SNOMED
+61,Add Date,add_dt,,,,,,
+62,Change Date,chg_dt,,,,,,
+63,Otis Regid,otis_regid,,,,,,
+64,Recipient Center,provider_num,,,,,,
+65,Is growth hormone therapy used at time of listing:,growth_hormone,,,,,,
+66,Fracture in the past year (or since last follow-up):,frac_pastyr,,,,,,
+67,Specify Location and number of fractures//Spine-compression fracture:,frac_spine,,,,,,
+68,Spine-compression fracture//# of fractures:,frac_spine_num,,,,,,
+69,Specify Location and number of fractures//Extremity:,frac_extrem,,,,,,
+70,Extremity//# of fractures:,frac_extrem_num,,,,,,
+71,Specify Location and number of fractures//Other:,frac_other,,,,,,
+72,Other//# of fractures:,frac_other_num,,,,,,
+73,AVN (avascular necrosis):,avn,,4287786,Avascular necrosis of bone,Condition,Clinical Finding,SNOMED
+74,Date of Measurement:,measurement_dt,,,,,,
+75,Cognitive Development:,cognitive_dev,lkup_cognitive_development,4137543,Cognitive developmental delay,Condition,Clinical Finding,SNOMED
+76,Motor Development:,motor_dev,lkup_motor_development,44804870,Motor developmental delay,Condition,Clinical Finding,SNOMED
+77,Country of Permanent Residence:,citizen_country,lkup_ctry,,,,,
+78,C-peptide Value:,c_peptide,,3010084,C peptide [Mass/volume] in Serum or Plasma,Measurement,Lab Test,LOINC
+79,C-peptide Value://ST=,c_peptide_i,lkup_field_stat_cd,,,,,
+80,Year of Entry to the U.S//ST=,yr_entry_us_i,lkup_field_stat_cd,,,,,
