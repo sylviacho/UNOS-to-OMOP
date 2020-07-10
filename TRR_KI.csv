@@ -1,0 +1,141 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,TRR ID-RECORD KEY,trr_id,,,,,,
+1,Organ:,org_ty,lkup_wl_org,,,,,
+2,Recipient First Name//Name:,fname,,,,,,
+3,Recipient Last Name//Name:,lname,,,,,,
+4,Recipient Middle Initial//Name:,mi,,,,,,
+5,Recipient SSN//SSN:,ssn,,,,,,
+6,HIC:,hic,,,,,,
+7,DOB:,dob,,4083587,Date of birth,Observation,Observable Entity,SNOMED
+8,Gender:,gender,,4135376,Gender,Observation,Observable Entity,SNOMED
+9,Tx Date:,tx_dt,,,,,,
+10,State of Permanent Residence:,perm_state,lkup_state,,,,,
+11,Permanent ZIP Code//Permanent Zip:,perm_zip,,,,,,
+12,Transplant Center Code//Recipient Center:,ctr_cd,,,,,,
+13,Transplant Center Type//Recipient Center:,ctr_ty,,,,,,
+14,Surgeon Name:,surg_name,,,,,,
+15,NPI#:,surg_npi,,,,,,
+16,Donor Information Id//UNOS Donor ID #:,don_id,,,,,,
+17,Donor Type:,don_ty,,4118343,Donor status,Observation,Attribute,SNOMED
+18,Primary Diagnosis:,dgn,lkup_ki_dgn,3001410,Primary diagnosis,Observation,Claims Attachment,LOINC
+19,Primary Diagnosis//Specify:,dgn_ostxt,,,,,,
+20,"Patient Status//Date: Last Seen, Retransplanted or Death",px_stat_dt,,,,,,
+21,Patient Status:,px_stat,lkup_px_stat1,4077556,Patient status,Observation,Attribute,SNOMED
+22,Cause of Death//Primary Cause of Death:,cod,lkup_ki_cod,40770933,Primary cause of death,Observation,Survey,LOINC
+23,Cause of Death//Specify:,cod_ostxt,,,,,,
+24,Contributory Cause of Death:,cod2,lkup_ki_cod,40770935,Secondary cause of death,Observation,Survey,LOINC
+25,Contributory Cause of Death//Specify:,cod2_ostxt,,,,,,
+26,Contributory Cause of Death:,cod3,lkup_ki_cod,40770935,Secondary cause of death,Observation,Survey,LOINC
+27,Contributory Cause of Death//Specify:,cod3_ostxt,,,,,,
+28,Date of Admission to Tx Center:,admission_dt,,,,,,
+29,Date of Discharge from Tx Center:,discharge_dt,,,,,,
+30,Functional Status:,func_stat,lkup_func_stat_2005,40757653,Functional status,Observation,Survey,LOINC
+31,Working for income:,work_income,,4126861,Working,Observation,Qualifier Value,SNOMED
+32,Academic Progress:,academic_prg,lkup_academic_prg,4153214,Academic progress,Observation,Observable Entity,SNOMED
+33,Academic Activity Level:,academic_level,lkup_academic_activity_level_kip,,,,,
+34,Primary Source of Payment//Primary:,pri_payment,lkup_prim_src_pay,40771048,Payment source [ESRD],Observation,Survey,LOINC
+35,Specify Foreign Government//Specify:,pri_payment_ctry,lkup_ctry,,,,,
+36,Previous Transplant Organ,don_org,,,,,,
+37,Previous Transplant Date,tx_dt,,,,,,
+38,Previous Transplant Graft Fail Date,grf_fail_dt,,,,,,
+39,Previous Transplant Organ,don_org,,,,,,
+40,Previous Transplant Date,tx_dt,,,,,,
+41,Previous Transplant Graft Fail Date,grf_fail_dt,,,,,,
+42,Previous Transplant Organ,don_org,,,,,,
+43,Previous Transplant Date,tx_dt,,,,,,
+44,Previous Transplant Graft Fail Date,grf_fail_dt,,,,,,
+45,Pretransplant Dialysis:,pre_tx_dial,,,,,,
+46,"Date first Dialyzed// If Yes, Date of Most Recent Initiation of Chronic Maintenance Dialysis:",dial_dt,,,,,,
+47,Date First Dialyzed//ST=,dial_dt_i,lkup_field_stat_cd,,,,,
+48,Serum Creatinine at Time of Tx:,creat,,,,,,
+49,Serum Creatinine at Time of Tx//ST=,creat_i,lkup_field_stat_cd,,,,,
+50,HBV Core Antibody:,hbv_core,,,,,,
+51,HBV Surface Antigen:,hbv_sur_antigen,,3019284,Hepatitis B virus surface Ag [Presence] in Serum,Measurement,Lab Test,LOINC
+52,Previous Pregnancies:,prev_preg,lkup_prev_preg,4132561,Previous pregnancies,Observation,Clinical Finding,SNOMED
+53,Malignancies between listing and transplant:,malig,,,,,,
+54,"Malignancies//If yes, specify type:",malig_ty,lkup_malig_multi,,,,,
+55,Malignancies between listing and transplant//Specify:,malig_ostxt,,,,,,
+56,Multiple Organ Recipient,ki_tx,,44811577,Renal transplant recipient,Condition,Clinical Finding,SNOMED
+57,Multiple Organ Recipient,pa_tx,,,,,,
+58,Multiple Organ Recipient,li_tx,,45765761,Liver transplant recipient,Condition,Clinical Finding,SNOMED
+59,Multiple Organ Recipient,in_tx,,,,,,
+60,Multiple Organ Recipient,hr_tx,,45765760,Heart transplant recipient,Condition,Clinical Finding,SNOMED
+61,Multiple Organ Recipient,lu_tx,,45765759,Lung transplant recipient,Condition,Clinical Finding,SNOMED
+62,Multiple Organ Recipient,pi_tx,,,,,,
+63,Multiple Organ Recipient,bm_tx,,,,,,
+64,Procedure Type:,tx_procedur_ty,lkup_kp_proc,,,,,
+65,"TCI Right KI//Total Cold ischemia Time Right KI(OR EN-BLOC): (if pumped, include pump time):",cold_isch_pump_ki_rt,,,,,,
+66,Total Cold Ischemia Time//ST=,cold_isch_pump_ki_rt_i,lkup_field_stat_cd,,,,,
+67,"TCI Left KI//Total Cold ischemia Time Left KI (if pumped, include pump time):",cold_isch_pump_ki_lt,,,,,,
+68,Total Cold Ischemia Time//ST=,cold_isch_pump_ki_lt_i,lkup_field_stat_cd,,,,,
+69,Kidney(s) received on:,org_rec_on,lkup_org_rec_on,,,,,
+70,Received on ice:,rec_on_ice,lkup_rec_on_ice,,,,,
+71,Received on pump:,rec_on_pump,lkup_rec_on_pump,,,,,
+72,Resumed Maintenance Dialysis:,resum_maint_dial,,,,,,
+73,Date Maintenance Dialysis Resumed:,resum_maint_dial_dt,,,,,,
+74,Most Recent Serum Creatinine Prior to Discharge:,serum_creat,,,,,,
+75,Most Recent Serum Creatinine Prior to Disch.//ST=,serum_creat_i,lkup_field_stat_cd,,,,,
+76,Patient Need Dialysis within First Week:,first_wk_dial,,,,,,
+77,Did patient have any acute rejection episodes between transplant and discharge:,acute_rej_epi,Lkup_acute_rej_epi,4128371,Acute rejection of renal transplant,Condition,Clinical Finding,SNOMED
+78,cm//Height:,hgt_cm,,3036277,Body height,Measurement,Clinical Observation,LOINC
+79,Height in Centimeters//ST=,hgt_cm_i,lkup_field_stat_cd,,,,,
+80,Height Percentile//Growth Percentiles//%ile,cdc_growth_hgt,,3036798,Body height [Percentile],Measurement,Clinical Observation,LOINC
+81,kg//Weight:,wgt_kg,,3025315,Body weight,Measurement,Clinical Observation,LOINC
+82,Weight in Kilograms//ST=,wgt_kg_i,lkup_field_stat_cd,,,,,
+83,Weight Percentile//Growth Percentiles//%ile,cdc_growth_wgt,,3013131,Body weight [Percentile] Per age,Measurement,Clinical Observation,LOINC
+84,BMI:,bmi,,3038553,Body mass index,Measurement,Clinical Observation,LOINC
+85,BMI://%ile,cdc_growth_bmi,,,,,,
+86,Are any medications given currently for maintenance or anti-rejection:,immuno_maint_med,,4253378,Immunosuppressive therapy for transplant,Procedure,Procedure,SNOMED
+87,PX ID-RECORD KEY:,px_id,,,,,,
+88,TX ID-Record Key:,tx_id,,,,,,
+89,Transfer UNOS Provider Num:,provider_num,,,,,,
+90,Transfer Date:,txfer_dt,,,,,,
+91,Status:,status,lkup_form_status,4138595,Status,Observation,Attribute,SNOMED
+92,Add Date,add_dt,,,,,,
+93,Change Date,chg_dt,,,,,,
+94,TxCenter Provider Number,provider_num,,,,,,
+95,HIV Serostatus:,hiv_serostatus,,40758406,HIV status,Measurement,Clinical Observation,LOINC
+96,HCV Serostatus:,HCV_serostatus,,40758405,Hepatitis C virus status,Measurement,Clinical Observation,LOINC
+97,EBV Serostatus:,EBV_serostatus,,3053307,Epstein Barr virus Ab [Titer] in Serum,Measurement,Lab Test,LOINC
+98,Cognitive Development:,cognitive_dev,lkup_cognitive_development,4137543,Cognitive developmental delay,Condition,Clinical Finding,SNOMED
+99,Motor Development:,motor_dev,lkup_motor_development,44804870,Motor developmental delay,Condition,Clinical Finding,SNOMED
+100,Date of Measurement:,measurement_dt,,,,,,
+101,Fracture in the past year (or since last follow-up):,frac_pastyr,,,,,,
+102,Specify Location and number of fractures//Spine-compression fracture:,frac_spine,,,,,,
+103,Spine-compression fracture//# of fractures:,frac_spine_num,,,,,,
+104,Specify Location and number of fractures//Extremity:,frac_extrem,,,,,,
+105,Extremity//# of fractures:,frac_extrem_num,,,,,,
+106,Specify Location and number of fractures//Other:,frac_other,,,,,,
+107,Other//# of fractures:,frac_other_num,,,,,,
+108,AVN (avascular necrosis):,avn,,4287786,Avascular necrosis of bone,Condition,Clinical Finding,SNOMED
+109,Is growth hormone therapy used between listing and transplant:,growth_hormone,,,,,,
+110,CMV Status,cmv_status,,40758408,Cytomegalovirus status,Measurement,Clinical Observation,LOINC
+111,HBV Surface Antibody Total,hbv_surf_total,,3017797,Hepatitis B virus surface Ab [Presence] in Serum,Measurement,Lab Test,LOINC
+112,Recovering OPO:,opo_ctr_cd,,,,,,
+113,Left Kidney Final resistance at transplant:,l_fin_resist_tx,,,,,,
+114,Left Kidney Final resistance at tx//ST=,l_fin_resist_tx_i,lkup_field_stat_cd,,,,,
+115,Right Kidney Final resistance at transplant:,r_fin_resist_tx,,,,,,
+116,Right Kidney Final resistance at tx//ST=,r_fin_resist_tx_i,lkup_field_stat_cd,,,,,
+117,Left Kidney Final flow rate at transplant:,l_fin_flow_rate_tx,,,,,,
+118,Left Kidney Final flow rate at tx//ST=,l_fin_flow_rate_tx_i,lkup_field_stat_cd,,,,,
+119,Right Kidney Final flow rate at transplant:,r_fin_flow_rate_tx,,,,,,
+120,Right Kidney Final flow rate at tx//ST=,r_fin_flow_rate_tx_i,lkup_field_stat_cd,,,,,
+121,Primary Cause of Graft Failure//Specify:,grf_fail_cause_ostxt,,,,,,
+122,Graft Status:,grf_stat,,3043225,Functional status of graft,Measurement,Clinical Observation,LOINC
+123,Previous Transplant Graft Fail Date//Date of Graft Failure:,grf_fail_dt,,,,,,
+124,Primary Cause of Graft Failure:,grf_fail_cause_ty,lkup_ki_caus_grffail,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
