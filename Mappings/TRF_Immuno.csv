@@ -1,0 +1,8 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,FOREIGN RECORD KEY,trr_fol_id,,,,,,
+1,RECORD KEY,trr_fol_immuno_id,,,,,,
+2,Drug Code,drug_cd,lkup_drug,,,,,
+3,Drug Code Other Specify,drug_cd_ostxt,,,,,,
+4,Previous,drug_maint_prev,,40760315,Prior medication management,Observation,Survey,LOINC
+5,Current,drug_maint_cur,,4082382,Management of drug regimen,Procedure,Procedure,SNOMED
+6,Anti-Rejection,drug_antirej,,3038452,Immunosuppressive drugs,Observation,Claims Attachment,LOINC

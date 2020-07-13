@@ -1,0 +1,101 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,RECORD KEY,trr_fol_id,,,,,,
+1,Organ Type,org_ty,lkup_wl_org,,,,,
+2,Follow up code,fol_cd,lkup_folcd,,,,,
+3,Name:,fname,,,,,,
+4,Name:,lname,,,,,,
+5,Name:,mi,,,,,,
+6,SSN:,ssn,,,,,,
+7,HIC:,hic,,,,,,
+8,Transplant Discharge Date:,discharge_dt,,,,,,
+9,DOB:,dob,,4083587,Date of birth,Observation,Observable Entity,SNOMED
+10,Gender:,gender,,4135376,Gender,Observation,Observable Entity,SNOMED
+11,Tx Date:,tx_dt,,,,,,
+12,State of Permanent Residence:,perm_state,lkup_state,,,,,
+13,Zip Code:,perm_zip,,,,,,
+14,Recipient Center:,ctr_ty,,,,,,
+15,Recipient Center:,ctr_cd,,,,,,
+16,Followup Center Code//Followup Center:,fol_ctr_cd,,,,,,
+17,Followup Center Type//Followup Center:,fol_ctr_ty,,,,,,
+18,Physician Name:,phys_name,,,,,,
+19,NPI#:,phys_npi,,,,,,
+20,Follow-up Care Provided By:,care_provided_by,lkup_fol_care_prov,40757242,Provider type [CARE],Observation,Survey,LOINC
+21,Follow-up Care Provided By//Specify:,care_provided_by_ostxt,,,,,,
+22,UNOS Donor ID #:,don_id,,,,,,
+23,Donor Type:,don_ty,,4118343,Donor status,Observation,Attribute,SNOMED
+24,"Date: Last Seen, Retransplanted or Death",px_stat_dt,,,,,,
+25,Patient Status:,px_stat,lkup_px_stat1,,,,,
+26,Primary Cause of Death:,cod,lkup_th_cod,40770933,Primary cause of death,Observation,Survey,LOINC
+27,Primary Cause of Death//Specify:,cod_ostxt,,,,,,
+28,Contributory Cause of Death:,cod2,lkup_th_cod,40770935,Secondary cause of death,Observation,Survey,LOINC
+29,Contributory Cause of Death//Specify:,cod2_ostxt,,,,,,
+30,Contributory Cause of Death:,cod3,lkup_th_cod,40770935,Secondary cause of death,Observation,Survey,LOINC
+31,Contributory Cause of Death//Specify:,cod3_ostxt,,,,,,
+32,Has the patient been hospitalized since the last patient status date:,hosp,,,,,,
+33,Hospitalized for Rejection:,hosp_rej,,,,,,
+34,Hospitalized for Infection:,hosp_inf,,,,,,
+35,Functional Status:,func_stat,lkup_func_stat_2005,40757653,Functional status,Observation,Survey,LOINC
+36,Working for income:,work_income,,4126861,Working,Observation,Qualifier Value,SNOMED
+37,Academic Progress:,academic_prg,lkup_academic_prg,4153214,Academic progress,Observation,Observable Entity,SNOMED
+38,Academic Activity Level:,academic_level,lkup_academic_activity_level,,,,,
+39,Primary Insurance at Follow-up:,pri_payment,lkup_prim_src_pay,46235654,Primary insurance,Measurement,Clinical Observation,LOINC
+40,Foreign Government//Specify,pri_payment_ctry,lkup_ctry,,,,,
+41,Height:,hgt_cm,,3036277,Body height,Measurement,Clinical Observation,LOINC
+42,Height//ST=,hgt_cm_i,lkup_field_stat_cd,,,,,
+43,Height Percentile//Growth Percentiles//%ile,cdc_growth_hgt,,3036798,Body height [Percentile],Measurement,Clinical Observation,LOINC
+44,Weight:,wgt_kg,,3025315,Body weight,Measurement,Clinical Observation,LOINC
+45,Weight//ST=,wgt_kg_i,lkup_field_stat_cd,,,,,
+46,Weight Percentile//Growth Percentiles//%ile,cdc_growth_wgt,,3013131,Body weight [Percentile] Per age,Measurement,Clinical Observation,LOINC
+47,BMI:,bmi,,3038553,Body mass index,Measurement,Clinical Observation,LOINC
+48,BMI://%ile,cdc_growth_bmi,,,,,,
+49,Ejection Fraction:,ejfrac,,3027172,Cardiac ejection fraction,Measurement,Clinical Observation,LOINC
+50,Heart: Ejection Fraction//ST=,ejfrac_i,lkup_field_stat_cd,,,,,
+51,**Shortening Fraction:,shfrac,,,,,,
+52,**Shortening Fraction://ST=,shfrac_i,lkup_field_stat_cd,,,,,
+53,Pacemaker:,pace,,43020420,Permanent cardiac pacemaker,Observation,Clinical Finding,SNOMED
+54,Coronary Artery Disease:,corart,,317576,Coronary arteriosclerosis,Condition,Clinical Finding,SNOMED
+55,FeV1:,fev,,,,,,
+56,FeV1://ST=,fev_i,lkup_field_stat_cd,,,,,
+57,O2 Requirement at Rest:,o2_req,,,,,,
+58,O2 Requirement at Rest L/min//ST=,o2_req_i,lkup_field_stat_cd,,,,,
+59,Bronchiolitis Obliterans Syndrome:,bronc_oblit,lkup_bronc_oblit,4222731,Obliterative bronchiolitis,Condition,Clinical Finding,SNOMED
+60,Bronchial Stricture (Since last follow-up):,bronc_stric,,4196476,Stenosis of bronchus,Condition,Clinical Finding,SNOMED
+61,"If yes, Stent:",stent,,4304209,Placement of stent,Procedure,Procedure,SNOMED
+62,Did patient have any acute rejection episodes during the follow-up period:,acute_rej_epi,lkup_acute_rej_epi_fol,,,,,
+63,Chronic Dialysis:,chronic_dial,,,,,,
+64,Renal Tx since Thoracic Tx:,renal_tx,,,,,,
+65,Post Transplant Malignancy:,malig,,,,,,
+66,Donor Related:,malig_don_rel,,,,,,
+67,Recurrence of Pre-Tx Tumor:,malig_pretx_tumor,,4097297,Recurrent tumor,Measurement,Clinical Finding,SNOMED
+68,De Novo Solid Tumor:,malig_denovo_tumor,,,,,,
+69,De Novo Lymphoproliferative disease and Lymphoma:,malig_denovo_lymph,,42872948,Post transplant lymphoproliferative disorder,Observation,Morph Abnormality,SNOMED
+70,Were any medications given during the follow-up period for maintenance:,immuno_maint_med,lkup_immuno_maint_response,4253378,Immunosuppressive therapy for transplant,Procedure,Procedure,SNOMED
+71,PX ID-RECORD KEY,px_id,,,,,,
+72,TRR ID-RECORD KEY,trr_id,,,,,,
+73,Status,status,lkup_form_status,4138595,Status,Observation,Attribute,SNOMED
+74,Add Date,add_dt,,,,,,
+75,Change Date,chg_dt,,,,,,
+76,Follow-up Provider Number,provider_num,,,,,,
+77,Most Recent Serum Creatinine:,creat,,3016723,Creatinine serum/plasma,Measurement,Lab Test,LOINC
+78,Most Recent Serum Creatinine//ST=,creat_i,lkup_field_stat_cd,,,,,
+79,"Other, Specify:",grf_stat_cause_ostxt,,,,,,
+80,**Date of Measurement:,measurement_dt,,4048365,Measurement,Measurement,Procedure,SNOMED
+81,New diabetes onset between last follow-up to the current follow-up:,diabetes_during,,,,,,
+82,"If yes, insulin dependent:",insulin_dependent,,201254,Type 1 diabetes mellitus,Condition,Clinical Finding,SNOMED
+83,**Cognitive Development:,cognitive_dev,lkup_cognitive_development,4137543,Cognitive developmental delay,Condition,Clinical Finding,SNOMED
+84,**Motor Development:,motor_dev,lkup_motor_development,44804870,Motor developmental delay,Condition,Clinical Finding,SNOMED
+85,**Most Recent Anti-A Titer:,titerA,,,,,,
+86,**Most Recent Anti-A Titer://Sample Date:,titerA_dt,,,,,,
+87,**Most Recent Anti-B Titer:,titerB,,,,,,
+88,**Most Recent Anti-B Titer://Sample Date:,titerB_dt,,,,,,
+89,Recovering OPO:,opo_ctr_cd,,,,,,
+90,HIV Serology,HIV_Serology,lkup_serology_stat_fol,40758406,HIV status,Measurement,Clinical Observation,LOINC
+91,HIV NAT,HIV_NAT,lkup_serology_stat_fol,4160613,HIV 1 nucleic acid assay,Measurement,Procedure,SNOMED
+92,HbsAg,HbsAg,lkup_serology_stat_fol,4168615,Hepatitis B surface antigen measurement,Measurement,Procedure,SNOMED
+93,HBV DNA,HBV_DNA,lkup_serology_stat_fol,3045140,Hepatitis B virus DNA [Mass/volume] in Serum,Measurement,Lab Test,LOINC
+94,HBV Core Antibody,HBV_Core,lkup_serology_stat_fol,3021879,Hepatitis B virus core Ab [Presence] in Serum,Measurement,Lab Test,LOINC
+95,HCV Serology,HCV_Serology,lkup_serology_stat_fol,3007685,Hepatitis C virus Ab [Units/volume] in Serum,Measurement,Lab Test,LOINC
+96,HCV NAT,HCV_NAT,lkup_serology_stat_fol,4162833,Hepatitis C nucleic acid assay,Measurement,Procedure,SNOMED
+97,Graft Status:,grf_stat,,3043225,Functional status of graft,Measurement,Clinical Observation,LOINC
+98,Primary Cause of Graft Failure:,grf_stat_cause,Lkup_prim_graft_failure,3042748,Cause of graft failure,Measurement,Clinical Observation,LOINC
+99,Date of Graft Failure:,grf_fail_dt,,,,,,
