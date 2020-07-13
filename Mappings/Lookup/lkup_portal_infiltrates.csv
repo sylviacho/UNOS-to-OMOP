@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,None Noted,45883896,None noted,Meas Value,Answer,LOINC
+1,"Mild, some or all portal areas",,,,,
+2,"Moderate, some or all portal areas",,,,,
+3,Moderate/Marked,,,,,
+4,"Marked, all portal areas",,,,,

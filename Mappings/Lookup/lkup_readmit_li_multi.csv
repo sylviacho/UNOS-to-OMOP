@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Wound Infection,4297984,Local infection of wound,Condition,Clinical Finding,SNOMED
+2,Fever,437663,Fever,Condition,Clinical Finding,SNOMED
+4,Bowel Obstruction,193518,Intestinal obstruction,Condition,Clinical Finding,SNOMED
+8,Pleural Effusion,254061,Pleural effusion,Condition,Clinical Finding,SNOMED
+16,Biliary Complications,,,,,
+32,Vascular Complications,197444,Vascular complication of medical care,Condition,Clinical Finding,SNOMED
+64,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

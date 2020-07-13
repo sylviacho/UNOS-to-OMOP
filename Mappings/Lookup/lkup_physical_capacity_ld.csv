@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No Limitations,45876484,No limitation,Meas Value,Answer,LOINC
+2,Limited Mobility,4310235,Reduced mobility,Condition,Clinical Finding,SNOMED
+3,Wheelchair bound or more limited,4023190,Wheelchair bound,Condition,Clinical Finding,SNOMED
+998,Unknown,45877986,Unknown,Meas Value,Answer,LOINC

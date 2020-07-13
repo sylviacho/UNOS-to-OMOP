@@ -1,0 +1,13 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+A,Living,4230556,Alive,Condition,Clinical Finding,SNOMED
+D,Dead,434489,Dead,Condition,Clinical Finding,SNOMED
+L,Lost,45882967,Lost,Meas Value,Answer,LOINC
+N,Not Seen,4165520,Not seen,Meas Value,Qualifier Value,SNOMED
+1,Living: Donor seen at transplant center,,,,,
+2,Living: Donor status update by verbal or written communication between transplant center and donor,,,,,
+3,Living: Donor status update by other health care facility,,,,,
+4,Living; Donor status update via other source (example; recipient),,,,,
+5,"Living: Donor contacted, declined follow-up with transplant center",,,,,
+6,Dead,434489,Dead,Condition,Clinical Finding,SNOMED
+7,Lost: No attempt to contact donor,,,,,
+8,Lost: Unable to contact donor,,,,,

@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Primary Non-Function,4170587,Non-functional,Observation,Qualifier Value,SNOMED
+2,Acute Rejection,,,,,
+3,Chronic Rejection/Atherosclerosis,4306703,Atherosclerosis,Observation,Morph Abnormality,SNOMED
+999,"Other, Specify",45883153,"Other, specify",Meas Value,Answer,LOINC

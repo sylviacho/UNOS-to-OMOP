@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,ENTERIC W/ROUX-EN-Y,,,,,
+2,ENTERIC W/O ROUX-EN-Y,,,,,
+3,CYSTOSTOMY,4221381,Incision of bladder,Procedure,Procedure,SNOMED
+4,DUCT INJECTION IMMEDIATE,,,,,
+5,DUCT INJECTION DELAYED,,,,,
+999,OTHER SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC

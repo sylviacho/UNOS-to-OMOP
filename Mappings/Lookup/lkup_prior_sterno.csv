@@ -1,0 +1,9 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Unknown if there were prior sternotomies,4287024,Medical history unknown,Observation,Context-dependent,SNOMED
+2,0,45878582,None,Meas Value,Answer,LOINC
+3,1,45880754,1 time,Meas Value,Answer,LOINC
+4,2,46237354,2 times,Meas Value,Answer,LOINC
+5,3,46238127,3 times,Meas Value,Answer,LOINC
+6,4,21498429,4 times,Meas Value,Answer,LOINC
+7,5+,21499051,5 or more times,Meas Value,Answer,LOINC
+8,Unknown number of prior sternotomies,,,,,

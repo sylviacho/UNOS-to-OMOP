@@ -1,0 +1,12 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,NO PREVIOUS PREGNANCY,,,,,
+1,1 PREVIOUS PREGNANCY,4049024,Previous pregnancy 1,Observation,Clinical Finding,SNOMED
+2,2 PREVIOUS PREGNANCIES,4119100,Previous pregnancies 2,Observation,Clinical Finding,SNOMED
+3,3 PREVIOUS PREGNANCIES,4205452,Previous pregnancies 3,Observation,Clinical Finding,SNOMED
+4,4 PREVIOUS PREGNANCIES,4244737,Previous pregnancies 4,Observation,Clinical Finding,SNOMED
+5,5 PREVIOUS PREGNANCIES,4148926,Previous pregnancies 5,Observation,Clinical Finding,SNOMED
+6,MORE THAN 5 PREVIOUS PREGNANCIES,,,,,
+7,YES,45877994,Yes,Meas Value,Answer,LOINC
+8,NO,45878245,No,Meas Value,Answer,LOINC
+996,NOT APPLICABLE: < 10 years old,45882470,Not Applicable,Meas Value,Answer,LOINC
+998,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC

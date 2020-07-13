@@ -1,0 +1,46 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,American Indian,38003572,American Indian,Race,Race,Race
+2,Eskimo,,,,,
+4,Aleutian,,,,,
+8,Alaska Indian,38003573,Alaska Native,Race,Race,Race
+16,American Indian or Alaska Native: Other,,,,,
+32,American Indian or Alaska Native: Not Specified/Unknown,,,,,
+64,Asian Indian/Indian Sub-Continent,,,,,
+128,Chinese,38003579,Chinese,Race,Race,Race
+256,Filipino,38003581,Filipino,Race,Race,Race
+512,Japanese,38003584,Japanese,Race,Race,Race
+1024,Korean,38003585,Korean,Race,Race,Race
+2048,Vietnamese,38003592,Vietnamese,Race,Race,Race
+4096,Asian: Other,,,,,
+8192,Asian: Not Specified/Unknown,,,,,
+16384,African American,38003599,African American,Race,Race,Race
+32768,African (Continental),38003600,African,Race,Race,Race
+65536,West Indian,38003609,West Indian,Race,Race,Race
+131072,Haitian,38003605,Haitian,Race,Race,Race
+262144,Black or African American: Other,,,,,
+524288,Black or African American: Not Specified/Unknown,,,,,
+1048576,Mexican,45878460,Mexican,Meas Value,Answer,LOINC
+2097152,Puerto Rican (Mainland),45878458,Puerto Rican,Meas Value,Answer,LOINC
+4194304,Puerto Rican (Island),,,,,
+8388608,Cuban,45880060,Cuban,Meas Value,Answer,LOINC
+16777216,Hispanic/Latino: Other,,,,,
+33554432,Hispanic/Latino: Not Specified/Unknown,,,,,
+67108864,Native Hawaiian,45884422,Native Hawaiian,Meas Value,Answer,LOINC
+134217728,Guamanian or Chamorro,45879987,Guamanian or Chamorro,Meas Value,Answer,LOINC
+268435456,Samoan,45885214,Samoan,Meas Value,Answer,LOINC
+536870912,Native Hawaiian or Other Pacific Islander: Other,,,,,
+1073741824,Native Hawaiian or Other Pacific Islander: Not Specified/Unknown,,,,,
+2147483648,European Descent,38003614,European,Race,Race,Race
+4294967296,Arab or Middle Eastern,,,,,
+8589934592,North African (non-Black),,,,,
+17179869184,White: Other,,,,,
+34359738368,White: Not Specified/Unknown,,,,,
+1.37439E+11,White,8527,White,Race,Race,Race
+2.74878E+11,Black or African American,8516,Black or African American,Race,Race,Race
+5.49756E+11,American Indian or Alaska Native,8657,American Indian or Alaska Native,Race,Race,Race
+1.09951E+12,Asian,8515,Asian,Race,Race,Race
+2.19902E+12,Native Hawaiian or Other Pacific Islander,8557,Native Hawaiian or Other Pacific Islander,Race,Race,Race
+4.39805E+12,Arab or Middle Eastern,,,,,
+8.79609E+12,Indian Sub-continent,,,,,
+1.75922E+13,Hispanic/Latino,45882065,Hispanic or Latino,Meas Value,Answer,LOINC
+68719476736,Unknown (for Donor Referral only),,,,,

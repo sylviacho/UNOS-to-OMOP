@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+A,Living,4230556,Alive,Condition,Clinical Finding,SNOMED
+D,Dead,434489,Dead,Condition,Clinical Finding,SNOMED
+L,Lost,45882967,Lost,Meas Value,Answer,LOINC
+N,Not Seen,4165520,Not seen,Meas Value,Qualifier Value,SNOMED

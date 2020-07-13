@@ -1,0 +1,12 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,GRAFT/VASCULAR THROMBOSIS,4120280,Vascular graft thrombosis,Condition,Clinical Finding,SNOMED
+2,INFECTION,45885195,Infection,Meas Value,Answer,LOINC
+3,BLEEDING,4319445,Hemorrhage of pancreas,Condition,Clinical Finding,SNOMED
+4,ANASTOMOTIC LEAK,4341772,Pancreatic anastomotic leak,Condition,Clinical Finding,SNOMED
+5,PRIMARY NON-FUNCTION (GRAFT NEVER FUNCTIONED POST-TRANSPLANT),,,,,
+6,ACUTE REJECTION,4200464,Acute rejection of pancreas transplant,Condition,Clinical Finding,SNOMED
+7,CHRONIC REJECTION,4198472,Chronic rejection of pancreas transplant,Condition,Clinical Finding,SNOMED
+8,HYPERACUTE REJECTION,4198456,Hyperacute rejection of pancreas transplant,Condition,Clinical Finding,SNOMED
+9,BIOPSY PROVEN ISLETITIS,,,,,
+10,PANCREATITIS,4192640,Pancreatitis,Condition,Clinical Finding,SNOMED
+999,OTHER SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC

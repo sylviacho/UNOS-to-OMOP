@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,SYSTEMIC SYSTEM (ILIAC:CAVA),4232222,Systemic venous structure,Spec Anatomic Site,Body Structure,SNOMED
+2,PORTAL SYSTEM (PORTAL OR TRIBUTARIES),4336535,Portal venous system structure,Spec Anatomic Site,Body Structure,SNOMED
+3,NA/Multi-organ cluster,,,,,

@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,PANCREAS ALONE,,,,,
+2,SIMULTANEOUS KIDNEY-PANCREAS,2721092,Simultaneous pancreas kidney transplantation,Procedure,HCPCS,HCPCS
+3,PANCREAS AFTER KIDNEY,,,,,
+4,CLUSTER,,,,,
+5,MULTI-ORGAN NON-CLUSTER,,,,,
+6,PANCREAS WITH KIDNEY DIFFERENT DONOR,,,,,

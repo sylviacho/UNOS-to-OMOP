@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+A,LIVING,4230556,Alive,Condition,Clinical Finding,SNOMED
+D,DEAD,434489,Dead,Condition,Clinical Finding,SNOMED
+R,RETRANSPLANTED,,,,,
+L,LOST,45882967,Lost,Meas Value,Answer,LOINC
+U,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC
+X,NATURAL DISASTER,,,,,

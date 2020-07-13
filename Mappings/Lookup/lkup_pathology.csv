@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Polymorphic Hyperplasia,,,,,
+2,Polymorphic PTLD(lymphoma),,,,,
+3,Monomorphic PTLD(lymphoma),40493283,Monomorphic posttransplant lymphoproliferative disorder,Condition,Clinical Finding,SNOMED
+4,"Mutiple Myeloma, Plasmacytoma",437233,Multiple myeloma,Condition,Clinical Finding,SNOMED
+5,Hodgkin's Disease,4038835,Hodgkin's disease,Condition,Clinical Finding,SNOMED
+6,"Other, Specify",45883153,"Other, specify",Meas Value,Answer,LOINC

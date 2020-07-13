@@ -1,0 +1,16 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Private insurance,45877444,Private insurance,Meas Value,Answer,LOINC
+2,Public insurance - Medicaid,45885112,Medicaid,Meas Value,Answer,LOINC
+3,Public insurance - Medicare FFS (Fee for Service),,,,,
+4,Public insurance - Medicare & Choice,,,,,
+5,Public insurance - CHIP (Children's Health Insurance Program),45883719,SCHIP (CHIP/Children's health insurance program),Meas Value,Answer,LOINC
+6,Public insurance - Department of VA,45885312,Department of veteran's affairs,Meas Value,Answer,LOINC
+7,Public insurance - Other government,45876762,Other government program,Meas Value,Answer,LOINC
+8,Self,45884467,Self,Meas Value,Answer,LOINC
+9,Donation,21498430,Donation,Meas Value,Answer,LOINC
+10,Free Care,,,,,
+11,Pending,,,,,
+12,Foreign Government Specify,,,,,
+13,Public insurance - Medicare Unspecified,,,,,
+14,US/State Govt Agency,,,,,
+15,Unknown,45877986,Unknown,Meas Value,Answer,LOINC

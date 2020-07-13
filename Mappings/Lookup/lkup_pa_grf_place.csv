@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,INTRA-PERITONEAL,4134042,Intraperitoneal,Observation,Qualifier Value,SNOMED
+2,RETRO-PERITONEAL,4125707,Retroperitoneal,Observation,Qualifier Value,SNOMED
+3,PARTIAL INTRA/RETRO-PERITONEAL,,,,,
