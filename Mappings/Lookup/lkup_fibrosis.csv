@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,No Fibrosis,45881815,No fibrosis,Meas Value,Answer,LOINC
+1,"Fibrosis expansion of some portal areas, with or without short fibrous septa",,,,,
+2,"Fibrosis expansion of most portal areas, with or without short fibrous septa",,,,,
+3,"Fibrosis expansion of most portal areas, with occasional portal to portal bridging",,,,,
+4,"Fibrosis expansion of portal areas, with marked bridging (portal to portal as well as portal to central)",,,,,
+5,Marked bridging with occasional nodules (incomplete cirrhosis),,,,,
+6,"Cirrhosis, probable or definite",,,,,

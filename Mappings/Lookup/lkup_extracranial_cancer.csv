@@ -1,0 +1,10 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Kidney,4271678,Kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+2,Breast,4298444,Breast structure,Spec Anatomic Site,Body Structure,SNOMED
+3,Thyroid,4321375,Thyroid structure,Spec Anatomic Site,Body Structure,SNOMED
+4,Tongue/Throat/Larynx,,,,,
+5,Lung,4213162,Lung structure,Spec Anatomic Site,Body Structure,SNOMED
+6,Leukemia/Lymphoma,132853,Lymphoid leukemia,Condition,Clinical Finding,SNOMED
+7,Liver,4009105,Liver structure,Spec Anatomic Site,Body Structure,SNOMED
+9,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+999,Other specify,45883153,"Other, specify",Meas Value,Answer,LOINC

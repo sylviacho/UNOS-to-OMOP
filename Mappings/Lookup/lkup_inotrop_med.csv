@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Dopamine,1337860,Dopamine,Drug,Ingredient,RxNorm
+2,Dobutamine,1337720,Dobutamine,Drug,Ingredient,RxNorm
+3,Epinephrine,1343916,Epinephrine,Drug,Ingredient,RxNorm
+4,Levophed,35603732,Norepinephrine Injection [Levophed],Drug,Branded Drug Form,RxNorm
+5,Neosynephrine,46287599,Phenylephrine Injection [Neo-Synephrine],Drug,Branded Drug Form,RxNorm
+6,Isoproterenol (Isuprel),35603336,Isoproterenol Injection [Isuprel],Drug,Branded Drug Form,RxNorm
+999,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

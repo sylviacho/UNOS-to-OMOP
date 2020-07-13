@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,0-5,,,,,
+2,6-10,,,,,
+3,11-15,,,,,
+4,16-20,,,,,
+5,20+,,,,,
+6,Indeterminate,45884091,Indeterminate,Meas Value,Answer,LOINC

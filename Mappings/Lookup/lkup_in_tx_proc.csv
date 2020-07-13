@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+401,Whole Intestine,4104286,Entire intestine,Spec Anatomic Site,Body Structure,SNOMED
+402,Intestine Segment,4269656,Segmental,Observation,Qualifier Value,SNOMED
+403,Whole Intestine with Pancreas (Technical Reasons),,,,,
+404,Intestine Segment with Pancreas (Technical Reasons),,,,,

@@ -1,0 +1,16 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Skin Melanoma,141232,Malignant melanoma of skin,Condition,Clinical Finding,SNOMED
+2,Skin Non-Melanoma,,,,,
+4,CNS Tumor,4100553,Central nervous system tumor morphology,Observation,Morph Abnormality,SNOMED
+8,Genitourinary,4069509,Structure of genitourinary system,Spec Anatomic Site,Body Structure,SNOMED
+16,Breast,4298444,Breast structure,Spec Anatomic Site,Body Structure,SNOMED
+32,Thyroid,4321375,Thyroid structure,Spec Anatomic Site,Body Structure,SNOMED
+64,Tongue/Throat/Larynx,,,,,
+128,Lung,4213162,Lung structure,Spec Anatomic Site,Body Structure,SNOMED
+256,Leukemia/Lymphoma,,,,,
+2048,Liver,4009105,Liver structure,Spec Anatomic Site,Body Structure,SNOMED
+8192,Hepatoblastoma,4261495,Hepatoblastoma,Observation,Morph Abnormality,SNOMED
+4096,Hepatocellular Carcinoma,4101758,Hepatocellular carcinoma,Observation,Morph Abnormality,SNOMED
+16384,Cholangiocarcinoma,4321680,Cholangiocarcinoma,Observation,Morph Abnormality,SNOMED
+512,Type Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+1024,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

@@ -1,0 +1,11 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,HYPERACUTE REJECTION,4131784,Hyperacute graft rejection,Condition,Clinical Finding,SNOMED
+2,ACUTE REJECTION,4128371,Acute rejection of renal transplant,Condition,Clinical Finding,SNOMED
+3,PRIMARY FAILURE,4087398,Primary graft failure,Condition,Clinical Finding,SNOMED
+9,PRIMARY NON-FUNCTION (GRAFT NEVER FUNCTIONED POST-TRANSPLANT),4032294,Primary non-function of renal transplant,Condition,Clinical Finding,SNOMED
+4,GRAFT THROMBOSIS,4310122,Graft failure due to thrombosis,Condition,Clinical Finding,SNOMED
+5,INFECTION,192964,Infectious disorder of kidney,Condition,Clinical Finding,SNOMED
+6,SURGICAL COMPLICATIONS,434547,Complication of surgical procedure,Condition,Clinical Finding,SNOMED
+7,UROLOGICAL COMPLICATIONS,44809014,Urological complication of renal transplant,Condition,Clinical Finding,SNOMED
+8,RECURRENT DISEASE,440059,Recurrent disease,Condition,Clinical Finding,SNOMED
+999,OTHER SPECIFY CAUSE,45883153,"Other, specify",Meas Value,Answer,LOINC

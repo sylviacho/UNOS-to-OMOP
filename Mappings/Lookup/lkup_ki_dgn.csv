@@ -1,0 +1,77 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+3000,IDIO/POST-INF CRESCENTIC GLOMERULONEPHRI,4126301,Idiopathic crescentic glomerulonephritis,Condition,Clinical Finding,SNOMED
+3001,MEMBRANOUS GLOMERULONEPHRITIS,252365,Membranous glomerulonephritis,Condition,Clinical Finding,SNOMED
+3002,MESANGIO-CAPILLARY 1 GLOMERULONEPHRITIS,4294813,"Mesangiocapillary glomerulonephritis, type I",Condition,Clinical Finding,SNOMED
+3003,MESANGIO-CAPILLARY 2 GLOMERULONEPHRITIS,4241966,"Mesangiocapillary glomerulonephritis, type II",Condition,Clinical Finding,SNOMED
+3004,IGA NEPHROPATHY,4128061,IgA nephropathy,Condition,Clinical Finding,SNOMED
+3005,ANTI-GBM,4126115,Goodpasture's disease,Condition,Clinical Finding,SNOMED
+3006,FOCAL GLOMERULAR SCLEROSIS (FOCAL SEGMENTAL - FSG),4030513,Focal segmental glomerulosclerosis,Condition,Clinical Finding,SNOMED
+3007,CHRONIC PYELONEPHRITIS/REFLUX NEPHROPATH,4269363,Chronic pyelonephritis,Condition,Clinical Finding,SNOMED
+3008,POLYCYSTIC KIDNEYS,4220238,Multiple congenital cysts of kidney,Condition,Clinical Finding,SNOMED
+3009,NEPHRITIS,193253,Nephritis,Condition,Clinical Finding,SNOMED
+3010,NEPHRONOPHTHISIS,4004449,Nephronophthisis,Condition,Clinical Finding,SNOMED
+3011,DIABETES - TYPE I INSULIN DEP/JUV ONSET,,,,,
+3012,DIABETES - TYPE II NON-INSULIN DEP/ADULT,,,,,
+3013,OXALATE NEPHROPATHY (INCLUDES HEREDITARY OXALOSIS),4288991,Oxalate nephropathy,Condition,Clinical Finding,SNOMED
+3014,CYSTINOSIS,4100827,Cystinosis,Condition,Clinical Finding,SNOMED
+3015,FABRY'S DISEASE,4042934,Fabry's disease,Condition,Clinical Finding,SNOMED
+3016,AMYLOIDOSIS,432595,Amyloidosis,Condition,Clinical Finding,SNOMED
+3017,GOUT,440674,Gout,Condition,Clinical Finding,SNOMED
+3018,SYSTEMIC LUPUS ERYTHEMATOSUS,257628,Systemic lupus erythematosus,Condition,Clinical Finding,SNOMED
+3019,PROGRESSIVE SYSTEMIC SCLEROSIS,40485046,Progressive systemic sclerosis,Condition,Clinical Finding,SNOMED
+3020,WILMS' TUMOR,4096089,Nephroblastoma,Observation,Morph Abnormality,SNOMED
+3021,RENAL CELL CARCINOMA,45765451,Renal cell carcinoma,Condition,Clinical Finding,SNOMED
+3022,INCIDENTAL CARCINOMA,,,,,
+3023,MYELOMA,437233,Multiple myeloma,Condition,Clinical Finding,SNOMED
+3024,HEMOLYTIC UREMIC SYNDROME,197253,Hemolytic uremic syndrome,Condition,Clinical Finding,SNOMED
+3025,HYPOPLASIA/DYSPLASIA/DYSGENSIS/AGENESIS,,,,,
+3026,CORTICAL NECROSIS,40480627,Renal cortical necrosis,Condition,Clinical Finding,SNOMED
+3027,ACUTE TUBULAR NECROSIS,444044,Acute tubular necrosis,Condition,Clinical Finding,SNOMED
+3028,MEDULLARY CYSTIC DISEASE,197656,Medullary cystic disease of the kidney,Condition,Clinical Finding,SNOMED
+3029,SICKLE CELL ANEMIA,22281,Hb SS disease,Condition,Clinical Finding,SNOMED
+3030,ACQUIRED OBSTRUCTIVE NEPHROPATHY,,,,,
+3031,ALPORT'S SYNDROME,4161421,Hereditary nephritis,Condition,Clinical Finding,SNOMED
+3032,FAMILIAL NEPHROPATHY,4125967,Progressive hereditary glomerulonephritis without deafness,Condition,Clinical Finding,SNOMED
+3033,GOODPASTURE'S SYNDROME,195289,Goodpasture's syndrome,Condition,Clinical Finding,SNOMED
+3034,MALIGNANT HYPERTENSION,4289933,Malignant hypertension,Condition,Clinical Finding,SNOMED
+3035,HENOCH-SCHOENLEIN PURPURA,4101602,Henoch-Schonlein purpura,Condition,Clinical Finding,SNOMED
+3036,PRUNE BELLY SYNDROME,201397,Prune belly syndrome,Condition,Clinical Finding,SNOMED
+3037,RETRANSPLANT/GRAFT FAILURE,4127554,Failed renal transplant,Condition,Clinical Finding,SNOMED
+3038,DIABETES - TYPE I NON-INSULIN DEP/JUV ON,,,,,
+3039,DIABETES - TYPE II INSULIN DEP/ADULT ONS,,,,,
+3040,HYPERTENSIVE NEPHROSCLEROSIS,43021748,Hypertensive nephrosclerosis,Condition,Clinical Finding,SNOMED
+3041,CHRONIC GLOMERULONEPHRITIS UNSPECIFIED,,,,,
+3042,MEMBRANOUS NEPHROPATHY,,,,,
+3043,CHRONIC GLOMERULOSCLEROSIS UNSPECIFIED,,,,,
+3044,ANALGESIC NEPHROPATHY,4244418,Analgesic nephropathy,Condition,Clinical Finding,SNOMED
+3045,RADIATION NEPHRITIS,4299498,Radiation nephritis,Condition,Clinical Finding,SNOMED
+3046,ANTIBIOTIC-INDUCED NEPHRITIS,,,,,
+3047,CANCER CHEMOTHERAPY INDUCED NEPHRITIS,,,,,
+3048,CALCINEURIN INHIBITOR NEPHROTOXICITY,45765696,Calcineurin inhibitor poisoning,Condition,Clinical Finding,SNOMED
+3049,HEROIN NEPHROTOXICITY,433919,Poisoning by heroin,Condition,Clinical Finding,SNOMED
+3050,RENAL ARTERY THROMBOSIS,4316367,Thrombosis of renal artery,Condition,Clinical Finding,SNOMED
+3051,CHRONIC NEPHROSCLEROSIS-UNSPECIFIED,,,,,
+3052,CONGENITAL OBSTRUCTIVE UROPATHY,4173748,Congenital obstruction of urethra,Condition,Clinical Finding,SNOMED
+3053,SCLERODERMA,134442,Systemic sclerosis,Condition,Clinical Finding,SNOMED
+3054,WEGENERS GRANULOMATOSIS,313223,Granulomatosis with polyangiitis,Condition,Clinical Finding,SNOMED
+3055,POLYARTERITIS,4067424,Polyarteritis,Condition,Clinical Finding,SNOMED
+3056,RHEUMATOID ARTHRITIS,80809,Rheumatoid arthritis,Condition,Clinical Finding,SNOMED
+3057,SARCOIDOSIS,438688,Sarcoidosis,Condition,Clinical Finding,SNOMED
+3058,LYMPHOMA,432571,Malignant lymphoma,Condition,Clinical Finding,SNOMED
+3059,NEPHROLITHIASIS,201620,Kidney stone,Condition,Clinical Finding,SNOMED
+3060,UROLITHIASIS,4319447,Urolithiasis,Condition,Clinical Finding,SNOMED
+3061,DYSPLASIA,201111,Renal dysplasia,Condition,Clinical Finding,SNOMED
+3062,PRE-BMTRANSPLANTATION TOTAL BODY IRRADIATION,,,,,
+3063,DRUG RELATED INTERSTITIAL NEPHRITIS,4208918,Drug-induced interstitial nephritis,Condition,Clinical Finding,SNOMED
+3064,THIN BASEMENT MEMBRANE DISEASE,4128064,Thin basement membrane disease,Condition,Clinical Finding,SNOMED
+3065,HEREDITARY OXALOSIS (PEDIATRIC PATIENTS),,,,,
+3066,CHOLESTEROL EMBOLIZATION,321037,Cholesterol embolus syndrome,Condition,Clinical Finding,SNOMED
+3067,FSG - FOCAL SEGMENTAL GLOMERULOSCLEROSIS,4030513,Focal segmental glomerulosclerosis,Condition,Clinical Finding,SNOMED
+3068,RAPID PROGRESSIVE GLOMERULONEPHRITIS (RPGN),196464,Rapidly progressive glomerulonephritis,Condition,Clinical Finding,SNOMED
+3069,DIABETES MELLITUS - TYPE I,201254,Type 1 diabetes mellitus,Condition,Clinical Finding,SNOMED
+3070,DIABETES MELLITUS - TYPE II,201826,Type 2 diabetes mellitus,Condition,Clinical Finding,SNOMED
+3071,DIABETES MELLITUS - TYPE OTHER / UNKNOWN,,,,,
+3072,HEPATORENAL SYNDROME,196455,Hepatorenal syndrome,Condition,Clinical Finding,SNOMED
+3073,LITHIUM TOXICITY,4096572,Lithium poisoning,Condition,Clinical Finding,SNOMED
+3074,HIV NEPHROPATHY,,,,,
+999,OTHER SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC

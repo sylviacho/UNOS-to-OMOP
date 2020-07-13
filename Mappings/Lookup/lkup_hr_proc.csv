@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Orthotopic Bicaval,,,,,
+2,Orthotopic Traditional,,,,,
+3,"Orthotopic Total (Bicaval, PV)",,,,,
+4,Heterotopic,,,,,

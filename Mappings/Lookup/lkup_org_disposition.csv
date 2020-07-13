@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+501,Organ Transplanted Locally,,,,,
+502,Organ Transplanted Shared,,,,,
+522,"Exported Out of U.S., transplanted",,,,,
+521,Islet Cells Transplanted,4027241,Islet cell transplant,Procedure,Procedure,SNOMED

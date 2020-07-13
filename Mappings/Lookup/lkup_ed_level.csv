@@ -1,0 +1,9 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,NONE,45878582,None,Meas Value,Answer,LOINC
+2,GRADE SCHOOL (0-8),,,,,
+3,HIGH SCHOOL (9-12) or GED,45876261,High school,Meas Value,Answer,LOINC
+4,ATTENDED COLLEGE/TECHNICAL SCHOOL,,,,,
+5,ASSOCIATE/BACHELOR DEGREE,,,,,
+6,POST-COLLEGE GRADUATE DEGREE,45880652,Graduate degree,Meas Value,Answer,LOINC
+996,N/A (< 5 YRS OLD),,,,,
+998,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC

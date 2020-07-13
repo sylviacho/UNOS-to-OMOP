@@ -1,0 +1,16 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+D,Donation Related,,,,,
+O,Other Cause,40770936,Other cause of death,Observation,Survey,LOINC
+3,Infection: Donation/Surgery Related,,,,,
+4,Infection: Not Donation/Surgery Related,,,,,
+5,Pulmonary Embolism,440417,Pulmonary embolism,Condition,Clinical Finding,SNOMED
+6,Malignancy,4312326,"Neoplasm, malignant",Observation,Morph Abnormality,SNOMED
+7,Domino Liver Donor-Transplant Related Death (Liver donors only),,,,,
+8,Cardiovascular,134057,Disorder of cardiovascular system,Condition,Clinical Finding,SNOMED
+9,CVA,381316,Cerebrovascular accident,Condition,Clinical Finding,SNOMED
+10,Hemorrhage: Donation/Surgery Related,,,,,
+11,Hemorrhage: Not Donation/Surgery Related,,,,,
+12,Homicide,4101415,Homicide,Observation,Clinical Finding,SNOMED
+13,Suicide,440925,Suicide,Observation,Clinical Finding,SNOMED
+14,Accidental,4203308,Accidental,Observation,Qualifier Value,SNOMED
+15,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

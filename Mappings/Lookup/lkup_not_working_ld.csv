@@ -1,0 +1,9 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Disability,4052648,Disability,Condition,Clinical Finding,SNOMED
+3,Insurance Conflict,,,,,
+4,Inability to Find Work,,,,,
+5,Donor Choice - Homemaker,40485425,Homemaker,Observation,Social Context,SNOMED
+6,Donor Choice - Student Full Time/Part Time,4277918,Student,Observation,Social Context,SNOMED
+7,Donor Choice - Retired,4022069,Retired,Observation,Clinical Finding,SNOMED
+8,Donor Choice - Other,45878142,Other,Meas Value,Answer,LOINC
+998,Unknown,45877986,Unknown,Meas Value,Answer,LOINC

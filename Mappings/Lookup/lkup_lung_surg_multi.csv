@@ -1,0 +1,9 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Pneumoreduction,4323902,Lung volume reduction surgery,Procedure,Procedure,SNOMED
+2,Pneumothorax Surgery-Nodule,,,,,
+4,Pneumothorax Decortication,4074687,Decortication of lung,Procedure,Procedure,SNOMED
+8,Lobectomy,4054047,Lobectomy,Procedure,Procedure,SNOMED
+16,Pneumonectomy,4172438,Total pneumonectomy,Procedure,Procedure,SNOMED
+32,Left Thoracotomy,,,,,
+64,Right Thoracotomy,,,,,
+128,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

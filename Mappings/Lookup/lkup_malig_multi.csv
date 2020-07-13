@@ -1,0 +1,13 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Skin Melanoma,141232,Malignant melanoma of skin,Condition,Clinical Finding,SNOMED
+2,Skin Non-Melanoma,,,,,
+4,CNS Tumor,4131770,Neoplasm of central nervous system,Condition,Clinical Finding,SNOMED
+8,Genitourinary,4171379,Disorder of the genitourinary system,Condition,Clinical Finding,SNOMED
+16,Breast,77030,Disorder of breast,Condition,Clinical Finding,SNOMED
+32,Thyroid,141253,Disorder of thyroid gland,Condition,Clinical Finding,SNOMED
+64,Tongue/Throat/Larynx,,,,,
+128,Lung,257907,Disorder of lung,Condition,Clinical Finding,SNOMED
+256,Leukemia/Lymphoma,,,,,
+2048,Liver,194984,Disease of liver,Condition,Clinical Finding,SNOMED
+512,Type Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+1024,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

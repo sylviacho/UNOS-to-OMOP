@@ -1,0 +1,27 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+301,Pancreas segment / Kidney Right,,,,,
+302,Pancreas segment / Kidney Left,,,,,
+303,Pancreas segment / En-bloc Kidney,,,,,
+304,Pancreas Segment/Sequential Kidney,,,,,
+305,Pancreas segment / Hemi-Renal,,,,,
+105,Hemi-Renal,4157469,Half of kidney,Spec Anatomic Site,Body Structure,SNOMED
+306,Whole pancreas with duodenum / left kidney,,,,,
+307,Whole pancreas with duodenum / right kidney,,,,,
+308,Whole pancreas with duodenum / en-bloc kidneys,,,,,
+309,Pancreas with duodenum/sequential kidney,,,,,
+311,Whole pancreas with duodenal patch / left kidney,,,,,
+312,Whole pancreas with duodenal patch / right kidney,,,,,
+313,Whole pancreas with duodenal patch / en-bloc kidneys,,,,,
+314,Pancreas with duodenal patch/sequential kidney,,,,,
+316,Whole pancreas / left kidney,,,,,
+317,Whole pancreas / right kidney,,,,,
+318,Whole pancreas / en-bloc kidneys,,,,,
+319,Whole pancreas/sequential kidney,,,,,
+101,LEFT KIDNEY,4088232,Left kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+102,RIGHT KIDNEY,4321753,Right kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+103,EN-BLOC,4056077,Entire kidney,Spec Anatomic Site,Body Structure,SNOMED
+104,Sequential Kidney,4224491,Structure of renal segment,Spec Anatomic Site,Body Structure,SNOMED
+201,Pancreas Segment,4079549,Part organ pancreatic transplant,Procedure,Procedure,SNOMED
+202,Whole Pancreas with Duodenum,4068884,Transplantation of pancreas and duodenum,Procedure,Procedure,SNOMED
+203,Whole Pancreas with Duodenal Patch,,,,,
+204,Whole Pancreas,4068885,Whole organ pancreatic transplant,Procedure,Procedure,SNOMED

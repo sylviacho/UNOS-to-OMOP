@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Insulin,4024603,Insulin regime,Procedure,Procedure,SNOMED
+2,Oral medication,4302259,Medication administration: oral,Procedure,Procedure,SNOMED
+8,Diet,4056973,Dietary regime,Procedure,Procedure,LOINC
+16,No Treatment,45880556,No Treatment,Meas Value,Answer,SNOMED
+4,"Unknown, converted",45877986,Unknown,Meas Value,Answer,LOINC

@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No chest x-ray,45877950,No test,Meas Value,Answer,LOINC
+2,Normal,45884153,Normal,Meas Value,Answer,LOINC
+3,Abnormal-left,,,,,
+4,Abnormal-right,,,,,
+5,Abnormal-both,,,,,
+998,Results Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+999,Unknown if chest x-ray performed,45882798,Unknown if Recommended or Performed,Meas Value,Answer,LOINC

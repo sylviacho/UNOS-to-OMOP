@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Normothermic,4119019,Normothermia,Observation,Qualifier Value,SNOMED
+2,Hypothermic,435371,Hypothermia,Condition,Clinical Finding,SNOMED
+999,Other/Specify,45883153,"Other, specify",Meas Value,Answer,LOINC

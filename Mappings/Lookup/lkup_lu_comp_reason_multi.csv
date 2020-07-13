@@ -1,0 +1,26 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Arrhythmia requiring therapy,,,,,
+2,Bleeding requiring surgical or therapeutic bronchoscopic intervention,,,,,
+4,Bowel obstruction or ileus not requiring surgical intervention,,,,,
+8,Bowel obstruction or ileus requiring surgical intervention,,,,,
+16,Bronchial Stenosis/Stricture not requiring surgical or therapeutic bronchoscopic intervention,,,,,
+32,Bronchial Stenosis/Stricture requiring surgical or therapeutic bronchoscopic intervention,,,,,
+64,Bronchopleural Fistula requiring surgical or therapeutic bronchoscopic intervention,,,,,
+128,Cerebrovascular Accident,381316,Cerebrovascular accident,Condition,Clinical Finding,SNOMED
+256,Deep Vein Thrombosis,4133004,Deep venous thrombosis,Condition,Clinical Finding,SNOMED
+512,Empyema requiring therapeutic surgical intervention,,,,,
+1024,Epidural-Related Complication,45880018,Epidural,Meas Value,Answer,LOINC
+2048,Line or IV Complication,4160027,Complication of intravascular line,Condition,Clinical Finding,SNOMED
+4096,Loculated pleural effusion requiring surgical intervention,,,,,
+8192,Pericardial tamponade or pericarditis requiring surgical intervention,,,,,
+16384,Pericarditis not requiring surgical intervention,,,,,
+32768,Peripheral Nerve Injury,4248551,Peripheral nerve injury,Condition,Clinical Finding,SNOMED
+65536,Phrenic Nerve Injury,,,,,
+131072,"Placement of Additional Thoracostomy Tube(s), Specify Indication",,,,,
+262144,Pneumonia/Atelectasis,,,,,
+524288,Prolonged (>14days) Thoracostomy Tube Requirement,,,,,
+1048576,Pulmonary Artery Embolus or Thrombosis,4240612,Pulmonary artery thrombosis,Condition,Clinical Finding,SNOMED
+2097152,Pulmonary Vein or Left Atrial Thrombosis,,,,,
+4194304,Wound Complication,,,,,
+8388608,Wound infection requiring surgical intervention,,,,,
+16777216,Other Specify,45883153,"Other, specify",Meas Value,Answer,LOINC

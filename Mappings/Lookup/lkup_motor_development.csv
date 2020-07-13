@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Definite Motor delay/impairment,45881627,Definite,Meas Value,Answer,LOINC
+2,Probable Motor delay/impairment,,,,,
+3,Questionable Motor delay/impairment,,,,,
+4,No Motor delay/impairment,45878245,No,Meas Value,Answer,LOINC
+998,Not Assessed,45881531,Not assessed,Meas Value,Answer,LOINC

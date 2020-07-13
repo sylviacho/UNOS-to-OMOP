@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,NO,45878245,No,Meas Value,Answer,LOINC
+2,"YES, 0-5 YEARS",,,,,
+3,"YES, 6-10 YEARS",,,,,
+4,"YES, >10 YEARS",,,,,
+5,"YES, DURATION UNKNOWN",,,,,
+998,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC
+,,,,,,

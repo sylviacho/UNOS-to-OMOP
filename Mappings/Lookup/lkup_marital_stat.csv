@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Single,45879879,Single,Meas Value,Answer,LOINC
+2,Married,45876756,Married,Meas Value,Answer,LOINC
+3,Divorced,45883375,Divorced,Meas Value,Answer,LOINC
+4,Separated,45884459,Separated,Meas Value,Answer,LOINC
+5,Life Partner,4135263,Partner in relationship,Observation,Social Context,SNOMED
+6,Widowed,45883711,Widowed,Meas Value,Answer,LOINC
+998,Unknown,45877986,Unknown,Meas Value,Answer,LOINC

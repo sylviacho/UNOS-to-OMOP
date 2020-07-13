@@ -1,0 +1,10 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Sacrifice of Second Lobe Specify,,,,,
+2,Anesthetic Complication Specify,,,,,
+4,Arrhythmia Requiring Therapy,,,,,
+8,Cerebrovasular Accident,381316,Cerebrovascular accident,Condition,Clinical Finding,SNOMED
+16,Phrenic Nerve Injury,,,,,
+32,Brachial Plexus Injury,374221,Injury of brachial plexus,Condition,Clinical Finding,SNOMED
+64,Breast Implant Rupture,4034233,Rupture of breast implant,Condition,Clinical Finding,SNOMED
+128,Other Specify,45883153,"Other, specify",Meas Value,Answer,LOINC
+,,,,,,

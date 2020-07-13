@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Simultaneous Kidney-Pancreas,2721092,Simultaneous pancreas kidney transplantation,Procedure,HCPCS,HCPCS
+2,Cluster,2721088,Transplantation of multivisceral organs,Procedure,HCPCS,HCPCS
+3,Multi-Organ Non-Cluster,,,,,

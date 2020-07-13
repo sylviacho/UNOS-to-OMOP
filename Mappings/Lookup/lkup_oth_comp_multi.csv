@@ -1,0 +1,9 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Renal insufficiency requiring dialysis,,,,,
+2,Ascites,200528,Ascites,Condition,Clinical Finding,SNOMED
+4,Line or IV complication,4160027,Complication of intravascular line,Condition,Clinical Finding,SNOMED
+8,Pneumothorax,253796,Pneumothorax,Condition,Clinical Finding,SNOMED
+16,Pneumonia,255848,Pneumonia,Condition,Clinical Finding,SNOMED
+32,Wound Complication,,,,,
+64,Brachial Nerve Injury,,,,,
+128,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

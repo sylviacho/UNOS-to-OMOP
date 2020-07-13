@@ -1,0 +1,14 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,"Biological, blood related Parent",4029630,Natural parent,Relationship,Social Context,SNOMED
+2,"Biological, blood related Child",4326600,Natural child,Relationship,Social Context,SNOMED
+3,"Biological, blood related Identical Twin",4193698,Identical twin,Relationship,Social Context,SNOMED
+4,"Biological, blood related Full Sibling",4218412,Natural sibling,Relationship,Social Context,SNOMED
+5,"Biological, blood related Half Sibling",4050684,Half-sibling,Relationship,Social Context,SNOMED
+6,"Biological, blood related Other Relative: SPECIFY",,,,,
+7,"Non-Biological, Spouse",4132413,Spouse,Relationship,Social Context,SNOMED
+8,"Non-Biological, Life Partner",4212893,Domestic partner,Observation,Social Context,SNOMED
+9,"Non-Biological, Unrelated: Paired Donation",,,,,
+10,"Non-Biological, Unrelated: Non-Directed Donation (Anonymous)",,,,,
+11,"Non-Biological, Living/Deceased Donation",,,,,
+12,"Non-Biological, Unrelated: Domino",,,,,
+999,"Non-Biological, Other Unrelated Directed Donation: Specify",,,,,

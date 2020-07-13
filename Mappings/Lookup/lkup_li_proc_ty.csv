@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+701,Whole Liver,4108406,Entire liver,Spec Anatomic Site,Body Structure,SNOMED
+702,"Partial Liver, remainder not Tx or Living Transplant",,,,,
+703,Split Liver,,,,,
+704,Whole Liver with Pancreas (Technical Reasons),,,,,
+705,Partial Liver with Pancreas (Technical Reasons),,,,,
+706,Split Liver with Pancreas (Technical Reasons),,,,,

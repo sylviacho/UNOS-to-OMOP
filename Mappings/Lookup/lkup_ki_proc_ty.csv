@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Transabdominal,4282932,Abdominal approach,Observation,Qualifier Value,SNOMED
+2,Flank(retroperitoneal),4125707,Retroperitoneal,Observation,Qualifier Value,SNOMED
+3,Laparoscopic Not Hand-assisted,,,,,
+4,Laparoscopic Hand-assisted,,,,,
+5,Laparoscopic Unknown (inactive),,,,,
+6,Natural Orifice,4240533,Anatomical orifice,Spec Anatomic Site,Body Structure,SNOMED
+,,,,,,

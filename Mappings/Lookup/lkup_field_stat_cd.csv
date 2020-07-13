@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+M,Missing,45882933,Missing,Meas Value,Answer,LOINC
+U,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+A,N/A,45880107,N/A,Meas Value,Answer,LOINC
+D,Not Done,45878559,Not done,Meas Value,Answer,LOINC

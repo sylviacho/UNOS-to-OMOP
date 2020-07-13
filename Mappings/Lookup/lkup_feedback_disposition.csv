@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Authorization Not Requested,,,,,
+2,Authorization Not Obtained,,,,,
+3,Organ Not Recovered,,,,,
+4,Recovered Not for Tx,,,,,
+5,Recovered for TX but Not Tx,,,,,
+6,Transplanted,,,,,
+7,N/A,45880107,N/A,Meas Value,Answer,LOINC

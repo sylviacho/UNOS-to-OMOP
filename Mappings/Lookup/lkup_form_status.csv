@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+R,Received,,,,,
+E,Expected,,,,,
+S,Suspended,4295936,Suspended,Observation,Qualifier Value,SNOMED
+V,Validated,,,,,
+A,Amnesty,,,,,
+N,Returned,,,,,

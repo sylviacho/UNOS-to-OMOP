@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+4,"Yes, same as validated TRR form",,,,,
+1,"Yes, same as previous validated report",,,,,
+2,"Yes, but different than previous validated report",,,,,
+3,None given,45878582,None,Meas Value,Answer,LOINC
+5,"Yes, but different than validated TRR form",,,,,

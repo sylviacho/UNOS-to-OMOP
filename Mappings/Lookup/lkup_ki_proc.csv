@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+101,LEFT KIDNEY,4088232,Left kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+102,RIGHT KIDNEY,4321753,Right kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+103,EN-BLOC,4056077,Entire kidney,Spec Anatomic Site,Body Structure,SNOMED
+104,Sequential Kidney,,,,,
+105,Hemi-Renal,4157469,Half of kidney,Spec Anatomic Site,Body Structure,SNOMED

@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Mild,45883535,Mild,Meas Value,Answer,LOINC
+2,Moderate,45877983,Moderate,Meas Value,Answer,LOINC
+3,Severe,45883536,Severe,Meas Value,Answer,LOINC
+4,Unknown,45877986,Unknown,Meas Value,Answer,LOINC

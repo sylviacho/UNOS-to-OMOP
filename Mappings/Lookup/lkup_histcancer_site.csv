@@ -1,0 +1,35 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,NO,45878245,No,Meas Value,Answer,LOINC
+2,"SKIN - SQUAMOUS, BASAL CELL",,,,,
+3,SKIN - MELANOMA,141232,Malignant melanoma of skin,Condition,Clinical Finding,SNOMED
+4,CNS TUMOR - ASTROCYTOMA,4298902,Astrocytoma,Observation,Morph Abnormality,SNOMED
+5,CNS TUMOR - GLIOBLASTOMA MULTIFORME,40571980,Glioblastoma multiforme,Condition,Clinical Finding,SNOMED
+6,CNS TUMOR - MEDULLOBLASTOMA,40481031,Medulloblastoma,Condition,Clinical Finding,SNOMED
+7,CNS TUMOR - NEUROBLASTOMA,4337398,Neuroblastoma,Observation,Morph Abnormality,SNOMED
+8,CNS TUMOR - ANGIOBLASTOMA,4215906,Hemangioblastoma,Observation,Morph Abnormality,SNOMED
+9,CNS TUMOR - MENINGIOMA,4024298,Meningioma,Observation,Morph Abnormality,SNOMED
+12,CNS TUMOR - OTHER,,,,,
+13,GENITOURINARY - BLADDER,4232481,Urinary bladder structure,Spec Anatomic Site,Body Structure,SNOMED
+14,GENITOURINARY - UTERINE CERVIX,4325271,Cervix uteri structure,Spec Anatomic Site,Body Structure,SNOMED
+15,GENITOURINARY - UTERINE BODY ENDOMETRIAL,4099331,Endometrial structure,Spec Anatomic Site,Body Structure,SNOMED
+16,GENITOURINARY - UTERINE BODY CHORIOCARCINOMA,4092517,Choriocarcinoma,Condition,Clinical Finding,SNOMED
+17,GENITOURINARY - VULVA,4166066,Vulval structure,Spec Anatomic Site,Body Structure,SNOMED
+18,GENITOURINARY - OVARIAN,4049448,Ovarian structure,Spec Anatomic Site,Body Structure,SNOMED
+19,"GENITOURINARY - PENIS, TESTICULAR",,,,,
+20,GENITOURINARY - PROSTATE,4165732,Prostatic structure,Spec Anatomic Site,Body Structure,SNOMED
+21,GENITOURINARY - KIDNEY,4271678,Kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+22,GENITOURINARY - UNKNOWN,,,,,
+23,GASTROINTESTINAL - ESOPHAGEAL,4140098,Esophageal structure,Spec Anatomic Site,Body Structure,SNOMED
+24,GASTROINTESTINAL - STOMACH,4288283,Stomach structure,Spec Anatomic Site,Body Structure,SNOMED
+25,GASTROINTESTINAL - SMALL INTESTINE,4146765,Small intestinal structure,Spec Anatomic Site,Body Structure,SNOMED
+26,GASTROINTESTINAL - COLO-RECTAL,4141331,Colorectal,Observation,Qualifier Value,SNOMED
+27,GASTROINTESTINAL - LIVER & BILIARY TRACT,4117423,Liver and/or biliary structure,Spec Anatomic Site,Body Structure,SNOMED
+28,GASTROINTESTINAL - PANCREAS,4049768,Pancreatic structure,Spec Anatomic Site,Body Structure,SNOMED
+29,BREAST,4298444,Breast structure,Spec Anatomic Site,Body Structure,SNOMED
+30,THYROID,4321375,Thyroid structure,Spec Anatomic Site,Body Structure,SNOMED
+32,TONGUE/THROAT,,,,,
+33,LARYNX,4262229,Laryngeal structure,Spec Anatomic Site,Body Structure,SNOMED
+34,LUNG (include bronchial),4248032,Bronchopulmonary segment structure,Spec Anatomic Site,Body Structure,SNOMED
+35,LEUKEMIA/LYMPHOMA,,,,,
+998,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC
+999,"OTHER, SPECIFY",45883153,"Other, specify",Meas Value,Answer,LOINC

@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Echo,4230911,Echocardiography,Procedure,Procedure,SNOMED
+2,MUGA,4223321,Multiple gated acquisition scanning,Procedure,Procedure,SNOMED
+3,Angiogram,4299523,Angiography,Procedure,Procedure,SNOMED

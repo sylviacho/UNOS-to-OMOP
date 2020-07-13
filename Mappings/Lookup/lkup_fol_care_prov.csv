@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Transplant Center,,,,,
+2,Non Transplant Center Specialty Physician,,,,,
+3,Primary Care Physician,2615414,Primary physician,Observation,HCPCS Modifier,HCPCS
+4,Other Specify,45883153,"Other, specify",Meas Value,Answer,LOINC

@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,IN INTENSIVE CARE UNIT,4046295,Care of intensive care unit patient,Observation,Procedure,SNOMED
+2,HOSPITALIZED NOT IN ICU,,,,,
+3,NOT HOSPITALIZED,,,,,

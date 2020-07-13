@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Ice,4232960,Ice,Observation,Substance,SNOMED
+2,Pump,4260370,Pump,Device,Physical Object,SNOMED
+3,N/A,45880107,N/A,Meas Value,Answer,LOINC

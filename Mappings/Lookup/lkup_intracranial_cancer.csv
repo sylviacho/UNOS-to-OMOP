@@ -1,0 +1,11 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Astrocytoma,4298902,Astrocytoma,Observation,Morph Abnormality,SNOMED
+2,Medulloblastoma,40481031,Medulloblastoma,Condition,Clinical Finding,SNOMED
+3,Glioblastoma Multiforme,40571980,Glioblastoma multiforme,Condition,Clinical Finding,SNOMED
+4,Neuroblastoma,4333766,Neuroblastoma,Condition,Clinical Finding,SNOMED
+5,Meningioma,4024298,Meningioma,Observation,Morph Abnormality,SNOMED
+6,Malignant Meningioma,4042194,Malignant meningitis,Condition,Clinical Finding,SNOMED
+7,Benign Angioblastoma,,,,,
+8,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+999,Other specify,45883153,"Other, specify",Meas Value,Answer,LOINC
+,,,,,,
