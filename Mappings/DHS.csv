@@ -1,0 +1,57 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,RECORD KEY,donor_histo_id,,,,,,
+1,Lab Center Code//Lab:,lab_ctr_cd,,,,,,
+2,Lab Center Type//Lab:,lab_ctr_ty,,,,,,
+3,OPO Center Code//OPO:,opo_ctr_cd,,,,,,
+4,OPO Center Type//OPO:,opo_ctr_ty,,,,,,
+5,Donor Last Name//Donor Name:,lname,,,,,,
+6,Donor First Name//Donor Name:,fname,,,,,,
+7,UNOS Donor ID//UNOS Donor ID #:,don_id,,,,,,
+8,Donor Type:,don_ty,,4118343,Donor status,Observation,Attribute,SNOMED
+9,Donor HLA Typed:,hla_typing,,,,,,
+10,Date Typing Complete Class I:,meth_cls1_typ_dt,,,,,,
+11,Target Source for Class I:,target_src_1,lkup_tgt_cell_src_multi,,,,,
+12,Typing Method Class I:,ty_meth_cls1,lkup_hla_ty_meth_multi,,,,,
+13,A,a1,lkup_alocus,3053072,HLA-A locus [Type],Measurement,Lab Test,LOINC
+14,A,a2,lkup_alocus,3053072,HLA-A locus [Type],Measurement,Lab Test,LOINC
+15,B,b1,lkup_blocus,3049984,HLA-B locus [Type],Measurement,Lab Test,LOINC
+16,B,b2,lkup_blocus,3049984,HLA-B locus [Type],Measurement,Lab Test,LOINC
+17,Bw4,bw4,lkup_wkgrp_hla,3027773,HLA-B w4 [Presence],Measurement,Lab Test,LOINC
+18,Bw6,bw6,lkup_wkgrp_hla,3034085,HLA-B w6 [Presence],Measurement,Lab Test,LOINC
+19,C,c1,lkup_cwhla,3026777,HLA-C [Type],Measurement,Lab Test,LOINC
+20,C,c2,lkup_cwhla,3026777,HLA-C [Type],Measurement,Lab Test,LOINC
+21,Date Typing Complete Class II:,meth_cls2_typ_dt,,,,,,
+22,Target Source for Class II:,target_src_2,lkup_tgt_cell_src_multi,,,,,
+23,Typing Method Class II:,ty_meth_cls2,lkup_hla_ty_meth_multi,,,,,
+24,DR,dr1,lkup_drlocus,3021667,HLA-DR locus [Type],Measurement,Lab Test,LOINC
+25,DR,dr2,lkup_drlocus,3005338,HLA-DR locus 2 [Type],Measurement,Lab Test,LOINC
+26,DR51,dr51,lkup_wkgrp_hla,4124133,Human leukocyte antigen DR51,Observation,Substance,SNOMED
+27,DR52,dr52,lkup_wkgrp_hla,3028015,HLA-DR52 [Presence],Measurement,Lab Test,LOINC
+28,DR53,dr53,lkup_wkgrp_hla,3018501,HLA-DR53 [Presence],Measurement,Lab Test,LOINC
+29,DQB1,dq1,lkup_dqhla,3038881,HLA-DQB1 [Type],Measurement,,
+30,DQB1,dq2,lkup_dqhla,,,,Lab Test,LOINC
+31,Living Recipient Last Name//Name:,lname,,,,,,
+32,Living Recipient First Name//Name:,fname,,,,,,
+33,SSN:,pxssn,,,,,,
+34,Organ:,don_org,,4078655,Type of donor organ,Observation,Qualifier Value,SNOMED
+35,Transplant Date:,tx_dt,,,,,,
+36,LAB Provider Number//Transplant Center,Provider_Num,,,,,,
+37,Transplant Center//Transplant Center:,ctr_cd,,,,,,
+38,Status,status,lkup_form_status,4138595,Status,Observation,Attribute,SNOMED
+39,Add Date,add_dt,,,,,,
+40,Change Date,chg_dt,,,,,,
+41,DQA1,dqa1,lkup_dqahla,4094298,Human leukocyte antigen DQA1 genotype determination,Measurement,Procedure,SNOMED
+42,DQA1,dqa2,lkup_dqahla,4094298,Human leukocyte antigen DQA1 genotype determination,Measurement,Procedure,SNOMED
+43,DPA1,dpa1,lkup_dpahla,4095329,Human leukocyte antigen DPA1 genotype determination,Measurement,Procedure,SNOMED
+44,DPA1,dpa2,lkup_dpahla,4095329,Human leukocyte antigen DPA1 genotype determination,Measurement,Procedure,SNOMED
+45,DPB1,dp1,lkup_dphla,4094300,Human leukocyte antigen DPB1 genotype determination,Measurement,Procedure,SNOMED
+46,DPB1,dp2,lkup_dphla,4094300,Human leukocyte antigen DPB1 genotype determination,Measurement,Procedure,SNOMED
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

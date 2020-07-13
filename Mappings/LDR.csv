@@ -1,0 +1,236 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,RECORD KEY,donor_liv_id,,,,,,
+1,Center Code Type//Recipient Center:,ctr_ty,,,,,,
+2,Center Code//Recipient Center:,ctr_cd,,,,,,
+3,Donor Last Name//Donor Name:,lname,,,,,,
+4,Donor First Name//Donor Name:,fname,,,,,,
+5,UNOS Donor ID #:,don_id,,,,,,
+6,Home Address//Address:,street_add,,,,,,
+7,Home City:,home_city,,,,,,
+8,Home State//State:,home_state,lkup_state,,,,,
+9,Home Zip//Zip Code:,home_zip,,,,,,
+10,Home Phone:,home_phone,,,,,,
+11,Work Phone:,work_phone,,,,,,
+12,Email:,email,,,,,,
+13,Donor SSN//SSN:,ssn,,,,,,
+14,Donor Date of Birth//Date of Birth:,dob,,,,,,
+15,Donor Gender//Gender:,gender,,,,,,
+16,Marital Status at Time of Donation:,marital_stat,lkup_marital_stat,40766231,Marital status,Measurement,Clinical Observation,LOINC
+17,ABO Blood Group:,abo,lkup_abo,3002529,ABO group [Type] in Blood,Measurement,Lab Test,LOINC
+18,Living Donor Type//Donor Type:,liv_don_ty,lkup_liv_don_rel,4119046,Donor relationship,Observation,Attribute,SNOMED
+19,Living Donor Type Other Specify//Specify:,liv_don_ty_ostxt,,,,,,
+20,Ethnicity/Race:,race,lkup_race_subcat_multi,3050381,Race or ethnicity [OASIS],Observation,Survey,LOINC
+21,Citizenship:,citizenship,lkup_citizen_ldr_tcr,,,,,
+22,Year of Entry into U.S.:,yr_entry_us,,,,,,
+23,Highest Education Level:,education,lkup_ed_level,3005022,Highest level of education [Time] - Reported,Measurement,Clinical Observation,LOINC
+24,Did the donor have health insurance:,health_ins,,40766240,Are you covered by health insurance or some other kind of health care plan [PhenX],Measurement,Clinical Observation,LOINC
+25,Functional Status:,func_stat,lkup_func_stat_2005,40757653,Functional status,Observation,Survey,LOINC
+26,Physical Capacity: (check one),physical_capacity,lkup_physical_capacity_ld,4103497,Ability to mobilize,Observation,Observable Entity,SNOMED
+27,Working for Income:,work_income,,4126861,Working,Observation,Qualifier Value,SNOMED
+28,"Working for Income//If No, Not Working Due To: (check one)",work_no_status,lkup_not_working_ld,,,,,
+29,Working for Income//If Yes:,work_yes_status,lkup_work_income_ld,,,,,
+30,"Viral Detection://Have any of the following viruses ever been tested for: HIV, CMV, HBV, HCV, EBV",viruses_tested,,,,,,
+31,Total:,cmv_total,,40758408,Cytomegalovirus status,Measurement,Clinical Observation,LOINC
+32,CMV//IgG:,cmv_igg,,3016816,Cytomegalovirus IgG Ab [Presence] in Serum,Measurement,Lab Test,LOINC
+33,CMV//IgM:,cmv_igm,,3013332,Cytomegalovirus IgM Ab [Presence] in Serum,Measurement,Lab Test,LOINC
+34,CMV//Nucleic Acid Testing:,cmv_nucleic,,4162526,Nucleic acid assay,Measurement,Procedure,SNOMED
+35,HBV//Core Antibody:,hbv_core,,3021879,Hepatitis B virus core Ab [Presence] in Serum,Measurement,Lab Test,LOINC
+36,HBV//Surface Antigen:,hbv_sur_antigen,,3019284,Hepatitis B virus surface Ag [Presence] in Serum,Measurement,Lab Test,LOINC
+37,DNA (NAT/PCR):,hbv_dna,,3045140,Hepatitis B virus DNA [Mass/volume] in Serum,Measurement,Lab Test,LOINC
+38,HCV//Antibody:,hcv_antibody,,4273104,Hepatitis C antibody measurement,Measurement,Procedure,SNOMED
+39,HCV//RIBA:,hcv_riba,,4081594,Hepatitis C virus recombinant immunoblot measurement,Measurement,Procedure,SNOMED
+40,RNA (NAT/PCR):,hcv_rna,,,,,,
+41,EBV//IgG:,ebv_igg,,3021849,Epstein Barr virus nuclear IgG Ab [Presence] in Serum,Measurement,Lab Test,LOINC
+42,EBV//IgM:,ebv_igm,,3012732,Epstein Barr virus nuclear IgM Ab [Presence] in Serum,Measurement,Lab Test,LOINC
+43,Pre-Donation//Height:,predon_hgt,,,,,,
+44,Pre-Donation Height//ST=,predon_hgt_i,lkup_field_stat_cd,,,,,
+45,Pre-Donation//Weight:,predon_wgt,,,,,,
+46,Pre-Donation Weight//ST=,predon_wgt_i,lkup_field_stat_cd,,,,,
+47,History of Cancer:,hist_cancer,lkup_histcancer_site,4144289,H/O: malignant neoplasm,Observation,Context-dependent,SNOMED
+48,History of Cancer Specify//Specify:,hist_cancer_ostxt,,,,,,
+49,Cancer Free Interval:,cancer_free,,,,,,
+50,Diabetes:,diabetes,,201820,Diabetes mellitus,Condition,Clinical Finding,SNOMED
+51,Diabetes Treatment//Treatment:,diab_treat,lkup_diab_treat_multi,,,,,
+52,History of Hypertension:,hist_hyper,lkup_histhype_dur,4058286,H/O: hypertension,Observation,Context-dependent,SNOMED
+53,History of Hypertension Diet//Diet:,hyper_diet,,,,,,
+54,History of Hypertension Diuretics//Diuretics:,hyper_diur,,,,,,
+55,History of Hypertension Other Hypertensive Medication//Other Hypertensive Medication:,hyper_meds,,,,,,
+56,Kidney Preoperative Creatinine//Serum Creatinine:,ki_creat_preop,,3016723,Creatinine serum/plasma,Measurement,Lab Test,LOINC
+57,Kidney Preoperative Creatinine//ST=,ki_creat_preop_I,lkup_field_stat_cd,,,,,
+58,Preoperative Blood Pressure Systolic:,bp_preop_syst,,,,,,
+59,Preoperative Blood Pressure Systolic//ST=,bp_preop_syst_I,lkup_field_stat_cd,,,,,
+60,Preoperative Blood Pressure Diastolic:,bp_preop_diast,,,,,,
+61,Preoperative Blood Pressure Diastolic//ST=,bp_preop_diast_I,lkup_field_stat_cd,,,,,
+62,Preoperative Urinalysis//Protein-Creatinine Ratio:,preop_urine_ratio,,,,,,
+63,Preoperative Urinalysis//Urine Protein:,preop_urine_protein,lkup_urine_protein,,,,,
+64,Total Bilirubin:,preop_bili,,3024128,Total Bilirubin serum/plasma,Measurement,Lab Test,LOINC
+65,Total Bilirubin//ST=,preop_bili_i,lkup_field_stat_cd,,,,,
+66,SGOT/AST:,preop_sgot_ast,,,,,,
+67,SGOT/AST//ST=,preop_sgot_ast_i,lkup_field_stat_cd,,,,,
+68,SGPT/ALT:,preop_sgpt_alt,,,,,,
+69,SGPT/ALT//ST=,preop_sgpt_alt_i,lkup_field_stat_cd,,,,,
+70,Alkaline Phosphatase:,preop_alk_phos,,3035995,Alkaline phosphatase serum/plasma,Measurement,Lab Test,LOINC
+71,Alkaline Phosphatase//ST=,preop_alk_phos_i,lkup_field_stat_cd,,,,,
+72,Serum Albumin:,preop_album,,3024561,Albumin serum/plasma,Measurement,Lab Test,LOINC
+73,Serum Albumin//ST=,preop_album_i,lkup_field_stat_cd,,,,,
+74,Serum Creatinine:,preop_creat_li,,3016723,Creatinine serum/plasma,Measurement,Lab Test,LOINC
+75,Serum Creatinine//ST=,preop_creat_li_i,lkup_field_stat_cd,,,,,
+76,INR:,preop_inr,,3022217,INR,Measurement,Lab Test,LOINC
+77,INR//ST=,preop_inr_i,lkup_field_stat_cd,,,,,
+78,Liver Biopsy:,biopsy_li,,4314001,Biopsy of liver,Procedure,Procedure,SNOMED
+79,% Macro vesicular fat:,macro_fat,,,,,,
+80,% Macro/intermediate vesicular fat Status //ST=,macro_fat_i,lkup_field_stat_cd,,,,,
+81,% Micro vesicular fat:,micro_fat,,,,,,
+82,% Micro/intermediate vesicular fat Status //ST=,micro_fat_i,lkup_field_stat_cd,,,,,
+83,FVC % predicted before//FVC % predicted:,preop_fvc_before,,,,,,
+84,FVC % predicted before//ST=,preop_fvc_before_i,lkup_field_stat_cd,,,,,
+85,FVC % predicted after//FVC % predicted:,preop_fvc_after,,,,,,
+86,FVC % predicted after//ST=,preop_fvc_after_i,lkup_field_stat_cd,,,,,
+87,FEV1 % predicted before//FEV1 % predicted:,preop_fev1_before,,,,,,
+88,FEV1 % predicted before//ST=,preop_fev1_before_i,lkup_field_stat_cd,,,,,
+89,FEV1 % predicted after//FEV1 % predicted:,preop_fev1_after,,,,,,
+90,FEV1 % predicted after//ST=,preop_fev1_after_i,lkup_field_stat_cd,,,,,
+91,FEF (25-75%) % predicted before//FEF (25-75%) % predicted:,preop_fef_before,,,,,,
+92,FEF (25-75%) % predicted before//ST=,preop_fef_before_i,lkup_field_stat_cd,,,,,
+93,FEF (25-75%) % predicted after//FEF (25-75%) % predicted:,preop_fef_after,,,,,,
+94,FEF (25-75%) % predicted after//ST=,preop_fef_after_i,lkup_field_stat_cd,,,,,
+95,TLC % predicted before//TLC % predicted:,preop_tlc_before,,,,,,
+96,TLC % predicted before//ST=,preop_tlc_before_i,lkup_field_stat_cd,,,,,
+97,TLC % predicted after//TLC % predicted:,preop_tlc_after,,,,,,
+98,TLC % predicted after//ST=,preop_tlc_after_i,lkup_field_stat_cd,,,,,
+99,Diffusing lung capacity corrected for alveolar volume % predicted:,preop_lung_cap,,,,,,
+100,Diffusing lung capacity corrected for alveolar volume % predicted//ST=,preop_lung_cap_i,lkup_field_stat_cd,,,,,
+101,PaO2 on room air:,preop_pao2,,,,,,
+102,PaO2 on room air//ST=,preop_pao2_i,lkup_field_stat_cd,,,,,
+103,History of Cigarette Use:,hist_cig,,46274087,History of smoking,Observation,Context-dependent,SNOMED
+104,"History of Cigarette Use Pack Years//If Yes, Check # pack years:",pack_yrs,lkup_cig_pack_yrs,4269183,Cigarette pack-years,Observation,Observable Entity,SNOMED
+105,Duration of Abstinence:,dur_abstinence,lkup_cig_dur_abstinence,4043050,Time since stopped smoking,Observation,Observable Entity,SNOMED
+106,Other Tobacco Used:,tobacco_use,,,,,,
+107,Type of Transplant Graft:,li_proc_ty,lkup_ldr_li_proc,4013302,Type of graft,Observation,Qualifier Value,SNOMED
+108,Kidney//Intended Procedure Type:,ki_proc_ty,lkup_ki_proc_ty,4040570,Procedure on kidney,Procedure,Procedure,SNOMED
+109,Conversion from Laparoscopic to Open:,convert_open_ki,,45882426,Laparoscopic converted to open.,Meas Value,Answer,LOINC
+110,Lung//Procedure Type:,lu_proc_ty,lkup_ldr_lu_proc,4040549,Procedure on lung,Procedure,Procedure,SNOMED
+111,Conversion from Thoracoscopic to Open:,convert_open_lu,,,,,,
+112,Intra-operative Complications:,intraop_comp,,,,,,
+113,"Intra-operative Complications Specify//If Yes, Specify:",intraop_comp_reason,lkup_intraop_comp_multi,,,,,
+114,"Sacrifice of Second Lobe, Specify:",sacrifice_lobe,lkup_sacrifice_lobe,,,,,
+115,Anesthetic Complication Specify:,anesthetic_comp,,4142195,Complication of anesthesia,Condition,Clinical Finding,SNOMED
+116,Arrhythmia requiring therapy:,arrhythmia,lkup_arrhythmia,,,,,
+117,Intra-operative Complications Other//Other Specify:,intraop_comp_ostxt,,,,,,
+118,Date of Initial Discharge:,init_discharge_dt,,,,,,
+119,Date Last Seen or Death:,death_dt,,,,,,
+120,Cause of Death:,cod,lkup_liv_don_cod,4083743,Cause of death,Observation,Clinical Finding,SNOMED
+121,Cause of Death//Other Specify:,cod_ostxt,,,,,,
+122,Non-Autologous Blood Administration:,non_auto_blood,,,,,,
+123,"PRBC Units//If Yes, Number of Units:",prbc_units,,4323715,Transfusion of packed red blood cells,Procedure,Procedure,SNOMED
+124,"Platelets Units//If Yes, Number of Units:",platelets_units,,3039683,Transfuse platelet concentrate units [#],Measurement,Lab Test,LOINC
+125,"FF Units//If Yes, Number of Units:",ffp_units,,3040962,Transfuse fresh frozen plasma units [#],Measurement,Lab Test,LOINC
+126,Kidney Vascular Complications Requiring Intervention//Vascular Complications Requiring Intervention:,vasc_comp_ki,,,,,,
+127,"Kidney Vascular Complications//If Yes, Specify:",vasc_comp_ki_inter,lkup_vasc_comp_ki_multi,,,,,
+128,Kidney Vascular Complications Other//Specify:,vasc_comp_ki_inter_ostxt,,,,,,
+129,Kidney Other Complications Requiring Intervention//Other Complications Requiring Intervention:,oth_comp_ki,,,,,,
+130,"Kidney Other Complications//If Yes, Specify:",oth_comp_ki_inter,lkup_oth_comp_multi,,,,,
+131,Kidney Other Complications Other//Other Specify:,oth_comp_ki_inter_ostxt,,,,,,
+132,Kidney Reoperation//Reoperation:,reoperation_ki,,,,,,
+133,Kidney Reoperation Bleeding//Bleeding,reop_bleed_ki,,,,,,
+134,Kidney Reoperation Bleeding Date//Date:,reop_bleed_ki_dt,,,,,,
+135,Kidney Reoperation Hernia Repair//Hernia Repair,reop_hernia_ki,,,,,,
+136,Kidney Reoperation Hernia Repair Date//Date:,reop_hernia_ki_dt,,,,,,
+137,Kidney Reoperation Bowel Obstruction//Bowel Obstruction,reop_bowel_ki,,,,,,
+138,Kidney Reoperation Bowel Obstruction Date//Date:,reop_bowel_ki_dt,,,,,,
+139,Kidney Reoperation Vascular//Vascular,reop_vasc_ki,,,,,,
+140,Kidney Reoperation Vascular Date//Date:,reop_vasc_ki_dt,,,,,,
+141,Kidney Reoperation Other//Other Specify,reop_oth_ki,,,,,,
+142,Kidney Reoperation Other Specify//Other Specify:,reop_oth_ki_ostxt,,,,,,
+143,Kidney Reoperation Other Date//Date:,reop_oth_ki_dt,,,,,,
+144,Kidney Readmission//Any Readmission After Initial Discharge:,readmission_ki,,,,,,
+145,"Kidney Readmission Reason//If yes, specify reason for readmission (during first six weeks):",readmission_ki_reason,lkup_readmit_multi,,,,,
+146,Kidney Readmission Reason Other//Other Specify:,readmission_ki_ostxt,,,,,,
+147,"Kidney Readmission Date//If Yes, Date of First Readmission:",readmission_ki_dt,,,,,,
+148,Kidney Other Interventional Procedures//Other Interventional Procedures:,oth_inter_proc_ki,,,,,,
+149,"Kidney Other Interventional Procedures//If Yes, Specify Procedure:",oth_inter_proc_ki_ostxt,,,,,,
+150,Kidney Other Interventional Procedures Date//Date of Procedure:,oth_inter_proc_ki_dt,,,,,,
+151,Biliary Complications:,biliary_comp,,,,,,
+152,"Biliary Complications//If Yes, Specify:",biliary_comp_grade,lkup_biliary_comp_multi,,,,,
+153,"Biliary Complications//If Yes, Specify://Date of surgery:",reop_biliary_dt,,,,,,
+154,Liver Vascular Complications Requiring Intervention//Vascular Complications Requiring Intervention:,vasc_comp_li,,,,,,
+155,"Liver Vascular Complications//If Yes, Specify:",vasc_comp_li_inter,lkup_vasc_comp_li_multi,,,,,
+156,Liver Vascular Complications Other//Specify:,vasc_comp_li_inter_ostxt,,,,,,
+157,Liver Other Complications Requiring Intervention//Other Complications Requiring Intervention:,oth_comp_li,,,,,,
+158,"Liver Other Complications//If Yes, Specify:",oth_comp_li_inter,lkup_oth_comp_multi,,,,,
+159,Liver Other Complications Other//Specify:,oth_comp_li_inter_ostxt,,,,,,
+160,Liver Reoperation//Reoperation:,reoperation_li,,,,,,
+161,Liver Reoperation Liver Failure///Liver Failure Requiring Transplant,reop_li_fail,,4245975,Hepatic failure,Condition,Clinical Finding,SNOMED
+162,Liver Reoperation Liver Failure Date//Date:,reop_li_fail_dt,,,,,,
+163,Liver Reoperation Bleeding Complications//Bleeding Complications,reop_bleed_li,,4043254,Hemorrhage of liver,Condition,Clinical Finding,SNOMED
+164,Liver Reoperation Bleeding Date//Date:,reop_bleed_li_dt,,,,,,
+165,Liver Reoperation Hernia Repair//Hernia Repair,reop_hernia_li,,4196678,Hernia repair,Procedure,Procedure,SNOMED
+166,Liver Reoperation Hernia Repair Date//Date:,reop_hernia_li_dt,,,,,,
+167,Liver Reoperation Bowel Obstruction//Bowel Obstruction,reop_bowel_li,,193518,Intestinal obstruction,Condition,Clinical Finding,SNOMED
+168,Liver Reoperation Bowel Obstruction Date//Date:,reop_bowel_li_dt,,,,,,
+169,Liver Reoperation Vascular Complications//Vascular Complications,reop_vasc_li,,197444,Vascular complication of medical care,Condition,Clinical Finding,SNOMED
+170,Liver Reoperation Vascular Date//Date:,reop_vasc_li_dt,,,,,,
+171,Liver Reoperation Other//Other Specify,reop_oth_li,,,,,,
+172,Liver Reoperation Other Specify//Other Specify:,reop_oth_li_ostxt,,,,,,
+173,Liver Reoperation Other Date//Date:,reop_oth_li_dt,,,,,,
+174,Liver Readmission//Any Readmission After Initial Discharge:,readmission_li,,4213258,Hospital re-admission,Observation,Procedure,SNOMED
+175,"Liver Readmission Reason//If yes, specify reason for readmission (during first six weeks):",readmission_li_reason,lkup_readmit_li_multi,,,,,
+176,Liver Readmission Reason Other//Other Specify:,readmission_li_ostxt,,,,,,
+177,"Liver Readmission Date//If Yes, Date of First Readmission:",readmission_li_dt,,,,,,
+178,Liver Other Interventional Procedures//Other Interventional Procedures:,oth_inter_proc_li,,2000086,Other procedures and interventions,Procedure,3-dig nonbill code,ICD9Proc
+179,"Liver Other Interventional Procedures//If Yes, Specify Procedure:",oth_inter_proc_li_ostxt,,,,,,
+180,Liver Other Interventional Procedures Date//Date of Procedure:,oth_inter_proc_li_dt,,,,,,
+181,Post-operative complications during the initial hospitalization:,lu_comp,,,,,,
+182,"Post-operative Complications//If Yes, Specify:",lu_comp_reason,lkup_lu_comp_reason_multi,4300243,Postoperative complication,Condition,Clinical Finding,SNOMED
+183,Arrhythmia requiring therapy:,arrhythmia_postop,lkup_arrhythmia_postop,,,,,
+184,"Placement of Additional Thoracostomy Tube(s), Indication:",thorac_tubes,lkup_thorac_tubes,,,,,
+185,Post-operative Complications Other//Other Specify:,lu_comp_ostxt,,,,,,
+186,Lung Readmission//Any Readmission After Initial Discharge:,readmission_lu,,4213258,Hospital re-admission,Observation,Procedure,SNOMED
+187,"Lung Readmission Reason//If yes, specify reason for readmission (during first six weeks):",readmission_lu_reason,lkup_readmit_multi,,,,,
+188,Lung Readmission Reason Other//Specify:,readmission_lu_ostxt,,,,,,
+189,"Lung Readmission Date//If Yes, Date of First Readmission:",readmission_lu_dt,,,,,,
+190,Most Recent Date of Tests:,postop_test_dt,,,,,,
+191,Kidney Serum Creatinine//Serum Creatinine:,ki_creat_postop,,4013964,"Creatinine measurement, serum",Measurement,Procedure,SNOMED
+192,Kidney Serum Creatinine//ST=,ki_creat_postop_i,lkup_field_stat_cd,,,,,
+193,Post-Op Blood Pressure Systolic:,bp_postop_syst,,,,,,
+194,Post-Op Blood Pressure Systolic//ST=,bp_postop_syst_i,lkup_field_stat_cd,,,,,
+195,Post-Op Blood Pressure Diastolic:,bp_postop_diast,,,,,,
+196,Post-Op Blood Pressure Diastolic//ST=,bp_postop_diast_i,lkup_field_stat_cd,,,,,
+197,Post-Operative Urinalysis//Protein-Creatinine Ratio:,postop_urine_ratio,,,,,,
+198,Post-Operative Urinalysis//Urine Protein:,postop_urine_protein,lkup_urine_protein,,,,,
+199,Donor Developed Hypertension Requiring Medication:,hypertension,,,,,,
+200,Total Bilirubin:,postop_bili,,3024128,Total Bilirubin serum/plasma,Measurement,Lab Test,LOINC
+201,Total Bilirubin//ST=,postop_bili_i,lkup_field_stat_cd,,,,,
+202,SGOT/AST:,postop_sgot_ast,,,,,,
+203,SGOT/AST//ST=,postop_sgot_ast_i,lkup_field_stat_cd,,,,,
+204,SGPT/ALT:,postop_sgpt_alt,,,,,,
+205,SGPT/ALT//ST=,postop_sgpt_alt_i,lkup_field_stat_cd,,,,,
+206,Alkaline Phosphatase:,postop_alk_phos,,4210900,Alkaline phosphatase,Observation,Substance,SNOMED
+207,Alkaline Phosphatase//ST=,postop_alk_phos_i,lkup_field_stat_cd,,,,,
+208,Serum Albumin:,postop_album,,4017497,"Albumin measurement, serum",Measurement,Procedure,SNOMED
+209,Serum Albumin//ST=,postop_album_i,lkup_field_stat_cd,,,,,
+210,Serum Creatinine:,postop_creat_li,,4013964,"Creatinine measurement, serum",Measurement,Procedure,SNOMED
+211,Serum Creatinine//ST=,postop_creat_li_i,lkup_field_stat_cd,,,,,
+212,INR:,postop_inr,,3022217,INR,Measurement,Lab Test,LOINC
+213,INR//ST=,postop_inr_i,lkup_field_stat_cd,,,,,
+214,Post-Operative//Weight:,wgt_kg,,,,,,
+215,Post-Operative Weight//ST=,wgt_kg_i,lkup_field_stat_cd,,,,,
+216,Organ Recovery Date:,org_recovery_dt,,,,,,
+217,Organ(s) Recovered,don_org,lkup_don_org_liv,4078655,Type of donor organ,Observation,Qualifier Value,SNOMED
+218,"Recipient Last Name//Recipient Name (Last, First)",lname,,,,,,
+219,"Recipient First Name//Recipient Name (Last, First)",fname,,,,,,
+220,Recipient SSN#,ssn,,,,,,
+221,Donor Recovery Facility Center Code//Donor Recovery Facility:,recov_facility_cd,,,,,,
+222,Donor Recovery Facility Center Type//Donor Recovery Facility:,recov_facility_ty,,,,,,
+223,Donor Workup Facility Center Code//Donor Workup Facility:,wu_facility_cd,,,,,,
+224,Donor Workup Facility Center Type//Donor Workup Facility:,wu_facility_ty,,,,,,
+225,Status,status,lkup_form_status,4138595,Status,Observation,Attribute,SNOMED
+226,Kidney//Type of Transplant Graft:,tx_procedur_ty,lkup_ki_proc,,,,,
+227,Lung//Type of Transplant Graft:,tx_procedur_ty,lkup_lu_proc_ldr,,,,,
+228,Cancer Free Interval Status//ST=,cancer_free_i,lkup_field_stat_cd,,,,,
+229,Add Date,add_dt,,,,,,
+230,Change Date,chg_dt,,,,,,
+231,Donor Status:,px_stat,lkup_px_stat_don,4118343,Donor status,Observation,Attribute,SNOMED
+232,Country of Permanent Residence:,citizen_country,lkup_ctry,,,,,
+233,HIV Status:,hiv_status,,40758406,HIV status,Measurement,Clinical Observation,LOINC
+234,Total:,ebv_total,,3022222,Epstein Barr virus Ab [Units/volume] in Serum,Measurement,Lab Test,LOINC

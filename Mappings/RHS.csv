@@ -1,0 +1,112 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,RECORD KEY,rec_histo_id,,,,,,
+1,Lab Center Code//Lab:,lab_ctr_cd,,,,,,
+2,Lab Center Type//Lab:,lab_ctr_ty,,,,,,
+3,Transplant Center Code//TX Center:,ctr_cd,,,,,,
+4,Transplant Center Type//TX Center:,ctr_ty,,,,,,
+5,SSN:,ssn,,,,,,
+6,Recipient Last Name//Name:,lname,,,,,,
+7,Recipient First Name//Name:,fname,,,,,,
+8,Recipient Middle Int//Name:,mi,,,,,,
+9,HIC:,hic,,,,,,
+10,DOB:,dob,,4083587,Date of birth,Observation,Observable Entity,SNOMED
+11,Gender:,gender,,4135376,Gender,Observation,Observable Entity,SNOMED
+12,Transplant Date:,tx_dt,,,,,,
+13,Organ(s):,org_ty,,,,,,
+14,UNOS Donor ID#:,don_id,,,,,,
+15,Donor Type:,don_ty,,4118343,Donor status,Observation,Attribute,SNOMED
+16,HLA Typing Done:,hla_typ_done,,4262296,HLA antigen typing,Measurement,Procedure,SNOMED
+17,HLA Antibody Screening Done:,pra_test_done,,4209259,Human leukocyte antigen antibody measurement,Measurement,Procedure,SNOMED
+18,Physical Crossmatch Done:,crsmatch_done,,4217958,Histocompatibility crossmatch,Measurement,Procedure,SNOMED
+19,"If yes, was the crossmatch prospective to transplant:",crsmatch_done_period,,,,,,
+20,Donor Retyped at Your Center:,don_retyp,,,,,,
+21,Date Typing Completed Class I:,rec_hla1_dt,,,,,,
+22,Typing Method Class I:,hla_ty_meth_cls1,lkup_hla_ty_meth_multi,,,,,
+23,A,ra1,lkup_alocus,3053072,HLA-A locus [Type],Measurement,Lab Test,LOINC
+24,A,ra2,lkup_alocus,3053072,HLA-A locus [Type],Measurement,Lab Test,LOINC
+25,B,rb1,lkup_blocus,3049984,HLA-B locus [Type],Measurement,Lab Test,LOINC
+26,B,rb2,lkup_blocus,3049984,HLA-B locus [Type],Measurement,Lab Test,LOINC
+27,Bw4,rbw4,lkup_wkgrp_hla,3027773,HLA-B w4 [Presence],Measurement,Lab Test,LOINC
+28,Bw6,rbw6,lkup_wkgrp_hla,3034085,HLA-B w6 [Presence],Measurement,Lab Test,LOINC
+29,C,rcw1,lkup_cwhla,3026777,HLA-C [Type],Measurement,Lab Test,LOINC
+30,C,rcw2,lkup_cwhla,3026777,HLA-C [Type],Measurement,Lab Test,LOINC
+31,Date Typing Completed Class II:,rec_hla2_dt,,,,,,
+32,Typing Method Class II:,hla_ty_meth_cls2,lkup_hla_ty_meth_multi,,,,,
+33,DR,rdr1,lkup_drlocus,3021667,HLA-DR locus [Type],Measurement,Lab Test,LOINC
+34,DR,rdr2,lkup_drlocus,3005338,HLA-DR locus 2 [Type],Measurement,Lab Test,LOINC
+35,DR51,rdrw51,lkup_wkgrp_hla,4124133,Human leukocyte antigen DR51,Observation,Substance,SNOMED
+36,DR52,rdrw52,lkup_wkgrp_hla,3028015,HLA-DR52 [Presence],Measurement,Lab Test,LOINC
+37,DR53,rdrw53,lkup_wkgrp_hla,3018501,HLA-DR53 [Presence],Measurement,Lab Test,LOINC
+38,DQB1,rdqw1,lkup_dqhla,3038881,HLA-DQB1 [Type],Measurement,Lab Test,LOINC
+39,DQB1,rdqw2,lkup_dqhla,3038881,HLA-DQB1 [Type],Measurement,Lab Test,LOINC
+40,DPB1,rdpw1,lkup_dphla,4094300,Human leukocyte antigen DPB1 genotype determination,Measurement,Procedure,SNOMED
+41,DPB1,rdpw2,lkup_dphla,4094300,Human leukocyte antigen DPB1 genotype determination,Measurement,Procedure,SNOMED
+42,Date of the most recent crossmatch serum:,serum_dt_recent,,,,,,
+43,Donor Retyped Class I:,don_retyp_class1,,,,,,
+44,Date Typing Completed Class I:,don_retyp1_dt,,,,,,
+45,Typing Method Class I:,don_retyp_ty_meth1,lkup_hla_ty_meth_multi,,,,,
+46,A,da1,lkup_alocus,3053072,HLA-A locus [Type],Measurement,Lab Test,LOINC
+47,A,da2,lkup_alocus,3053072,HLA-A locus [Type],Measurement,Lab Test,LOINC
+48,B,db1,lkup_blocus,3049984,HLA-B locus [Type],Measurement,Lab Test,LOINC
+49,B,db2,lkup_blocus,3049984,HLA-B locus [Type],Measurement,Lab Test,LOINC
+50,Bw4,dbw4,lkup_wkgrp_hla,3027773,HLA-B w4 [Presence],Measurement,Lab Test,LOINC
+51,Bw6,dbw6,lkup_wkgrp_hla,3034085,HLA-B w6 [Presence],Measurement,Lab Test,LOINC
+52,C,dcw1,lkup_cwhla,3026777,HLA-C [Type],Measurement,Lab Test,LOINC
+53,C,dcw2,lkup_cwhla,3026777,HLA-C [Type],Measurement,Lab Test,LOINC
+54,Donor Retyped Class II:,don_retyp_class2,,,,,,
+55,Date Typing Completed Class II:,don_retyp2_dt,,,,,,
+56,Typing Method Class II:,don_retyp_ty_meth2,lkup_hla_ty_meth_multi,,,,,
+57,DR,ddr1,lkup_drlocus,3021667,HLA-DR locus [Type],Measurement,Lab Test,LOINC
+58,DR,ddr2,lkup_drlocus,3005338,HLA-DR locus 2 [Type],Measurement,Lab Test,LOINC
+59,DR51,ddrw51,lkup_wkgrp_hla,4124133,Human leukocyte antigen DR51,Observation,Substance,SNOMED
+60,DR52,ddrw52,lkup_wkgrp_hla,3028015,HLA-DR52 [Presence],Measurement,Lab Test,LOINC
+61,DR53,ddrw53,lkup_wkgrp_hla,3018501,HLA-DR53 [Presence],Measurement,Lab Test,LOINC
+62,DQB1,ddqw1,lkup_dqhla,3038881,HLA-DQB1 [Type],Measurement,Lab Test,LOINC
+63,DQB1,ddqw2,lkup_dqhla,3038881,HLA-DQB1 [Type],Measurement,Lab Test,LOINC
+64,DPB1,ddpw1,lkup_dphla,4094300,Human leukocyte antigen DPB1 genotype determination,Measurement,Procedure,SNOMED
+65,DPB1,ddpw2,lkup_dphla,4094300,Human leukocyte antigen DPB1 genotype determination,Measurement,Procedure,SNOMED
+66,TX ID-Record Key,tx_id,,,,,,
+67,Status,status,lkup_form_status,4138595,Status,Observation,Attribute,SNOMED
+68,Change Date,chg_dt,,,,,,
+69,Add Date,add_dt,,,,,,
+70,DQA1,rdqa1,lkup_dqahla,4094298,Human leukocyte antigen DQA1 genotype determination,Measurement,Procedure,SNOMED
+71,DQA1,rdqa2,lkup_dqahla,4094298,Human leukocyte antigen DQA1 genotype determination,Measurement,Procedure,SNOMED
+72,DPA1,rdpa1,lkup_dpahla,4095329,Human leukocyte antigen DPA1 genotype determination,Measurement,Procedure,SNOMED
+73,DPA1,rdpa2,lkup_dpahla,4095329,Human leukocyte antigen DPA1 genotype determination,Measurement,Procedure,SNOMED
+74,DQA1,ddqa1,lkup_dqahla,4094298,Human leukocyte antigen DQA1 genotype determination,Measurement,Procedure,SNOMED
+75,DQA1,ddqa2,lkup_dqahla,4094298,Human leukocyte antigen DQA1 genotype determination,Measurement,Procedure,SNOMED
+76,DPA1,ddpa1,lkup_dpahla,4095329,Human leukocyte antigen DPA1 genotype determination,Measurement,Procedure,SNOMED
+77,DPA1,ddpa2,lkup_dpahla,4095329,Human leukocyte antigen DPA1 genotype determination,Measurement,Procedure,SNOMED
+78,HLA Antibody Screening Done//Cytotoxicity:,cytotoxicity,lkup_ynunknd,4284543,Cytotoxic antibody,Observation,Substance,SNOMED
+79,HLA Antibody Screening Done//Solid-phase:,solid_phase,lkup_ynunknd,,,,,
+80,HLA Antibody Screening Done//Were there current donor specific HLA antibodies?,specific_hla_antibody,,,,,,
+81,HLA Antibody Screening Done//Were there historical donor specific HLA antibodies?,historic_hla_antibody,,,,,,
+82,HLA Antibody Screening Done//CPRA (%) - Most Recent:,cpra,,,,,,
+83,HLA Antibody Screening Done//CPRA (%) - Most Recent//ST=,cpra_st,lkup_field_stat_cd,,,,,
+84,HLA Antibody Screening Done//CPRA (%) - Peak:,cpra_peak,,,,,,
+85,HLA Antibody Screening Done//CPRA (%) - Peak//ST=,cpra_peak_st,lkup_field_stat_cd,,,,,
+86,Physical Crossmatch Done//Cell Source:,cell_src,lkup_tgt_cell_src_multi,,,,,
+87,Physical Crossmatch Done//Which T-cell crossmatch tests were performed?,t_cell_done,Lkup_crossmatch_src_multi,4098034,T-cell cross-match,Measurement,Procedure,SNOMED
+88,Physical Crossmatch Done//Which B-cell crossmatch tests were performed?,b_cell_done,Lkup_crossmatch_src_multi,4098192,B-cell cross-match,Measurement,Procedure,SNOMED
+89,Physical Crossmatch Done//Which historical crossmatch tests were performed?,h_cell_done,Lkup_crossmatch_src_multi,,,,,
+90,Physical Crossmatch Done//Which T-cell crossmatch tests were performed?//T-cell Result:,t_cell_done_xmat_No_AHG,lkup_crossmatch,3052274,T cell crossmatch [Presence] in Blood,Measurement,Lab Test,LOINC
+91,Physical Crossmatch Done//Which T-cell crossmatch tests were performed?//T-cell Result:,t_cell_done_xmat_AHG,lkup_crossmatch,3052274,T cell crossmatch [Presence] in Blood,Measurement,Lab Test,LOINC
+92,Physical Crossmatch Done//Which T-cell crossmatch tests were performed?//T-cell Result:,t_cell_done_xmat_Flow_Cytometry,lkup_crossmatch,3052274,T cell crossmatch [Presence] in Blood,Measurement,Lab Test,LOINC
+93,Physical Crossmatch Done//Which T-cell crossmatch tests were performed?//T-cell Result:,t_cell_done_xmat_Solid_Phase,lkup_crossmatch,3052274,T cell crossmatch [Presence] in Blood,Measurement,Lab Test,LOINC
+94,Physical Crossmatch Done//Which B-cell crossmatch tests were performed?//B-cell Result:,b_cell_done_xmat_No_AHG,lkup_crossmatch,3048723,B cell crossmatch [Presence] in Blood,Measurement,Lab Test,LOINC
+95,Physical Crossmatch Done//Which B-cell crossmatch tests were performed?//B-cell Result:,b_cell_done_xmat_AHG,lkup_crossmatch,3048723,B cell crossmatch [Presence] in Blood,Measurement,Lab Test,LOINC
+96,Physical Crossmatch Done//Which B-cell crossmatch tests were performed?//B-cell Result:,b_cell_done_xmat_Flow_Cytometry,lkup_crossmatch,3048723,B cell crossmatch [Presence] in Blood,Measurement,Lab Test,LOINC
+97,Physical Crossmatch Done//Which B-cell crossmatch tests were performed?//B-cell Result:,b_cell_done_xmat_Solid_Phase,lkup_crossmatch,3048723,B cell crossmatch [Presence] in Blood,Measurement,Lab Test,LOINC
+98,Physical Crossmatch Done//Which historical crossmatch tests were performed?//Historical Result:,h_cell_done_xmat_No_AHG,lkup_crossmatch,,,,,
+99,Physical Crossmatch Done//Which historical crossmatch tests were performed?//Historical Result:,h_cell_done_xmat_AHG,lkup_crossmatch,,,,,
+100,Physical Crossmatch Done//Which historical crossmatch tests were performed?//Historical Result:,h_cell_done_xmat_Flow_Cytometry,lkup_crossmatch,,,,,
+101,Physical Crossmatch Done//Which historical crossmatch tests were performed?//Historical Result:,h_cell_done_xmat_Solid_Phase,lkup_crossmatch,,,,,
+102,Unacceptable Antigens:,unacceptable_antigen,,,,,,
+103,Most Recent CPRA:,Most_Recent_CPRA,,21493706,Calculated panel reactive antibody - Serum,Measurement,Lab Test,LOINC
+104,Peak CPRA:,peak_CPRA,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

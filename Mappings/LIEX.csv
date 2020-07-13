@@ -1,0 +1,34 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,Liver_explant_IDRECORD KEY,liver_explant_id,,,,,,
+1,Transplant Center Code//Recipient Center:,ctr_cd,,,,,,
+2,Transplant Center Type//Recipient Center:,ctr_ty,,,,,,
+3,Recipient First Name//Name:,fname,,,,,,
+4,Recipient Last Name//Name:,lname,,,,,,
+5,Recipient Middle Initial//Name:,mi,,,,,,
+6,Tx Date:,tx_dt,,,,,,
+7,Recipient SSN//SSN:,ssn,,,,,,
+8,DOB:,dob,,4083587,Date of birth,Observation,Observable Entity,SNOMED
+9,Gender:,gender,,4135376,Gender,Observation,Observable Entity,SNOMED
+10,Was evidence of HCC (viable or non-viable tumor) found in the explant?:,EvidenceOfHCC,,,,,,
+11,Number of Tumors:,NumberOfTumors,lkup_number_of_tumors,4078513,Number of tumors,Observation,Observable Entity,SNOMED
+12,Tumor #1//Size:,TumorSize,,4139794,Tumor size,Observation,Observable Entity,SNOMED
+13,Tumor #1//Location:,TumorLocation,lkup_tumor_location,,,,,
+14,Tumor #1//Tumor Necrosis:,TumorNecrosis,lkup_tumor_necrosis,4147451,Tumor necrosis,Observation,Morph Abnormality,SNOMED
+15,Tumor #2//Size:,TumorSize,,4139794,Tumor size,Observation,Observable Entity,SNOMED
+16,Tumor #2//Location:,TumorLocation,lkup_tumor_location,,,,,
+17,Tumor #2//Tumor Necrosis:,TumorNecrosis,lkup_tumor_necrosis,4147451,Tumor necrosis,Observation,Morph Abnormality,SNOMED
+18,Tumor #3//Size:,TumorSize,,4139794,Tumor size,Observation,Observable Entity,SNOMED
+19,Tumor #3//Location:,TumorLocation,lkup_tumor_location,,,,,
+20,Tumor #3//Tumor Necrosis:,TumorNecrosis,lkup_tumor_necrosis,4147451,Tumor necrosis,Observation,Morph Abnormality,SNOMED
+21,Tumor #4//Size:,TumorSize,,4139794,Tumor size,Observation,Observable Entity,SNOMED
+22,Tumor #4//Location:,TumorLocation,lkup_tumor_location,,,,,
+23,Tumor #4//Tumor Necrosis:,TumorNecrosis,lkup_tumor_necrosis,4147451,Tumor necrosis,Observation,Morph Abnormality,SNOMED
+24,Tumor #5//Size:,TumorSize,,4139794,Tumor size,Observation,Observable Entity,SNOMED
+25,Tumor #5//Location:,TumorLocation,lkup_tumor_location,,,,,
+26,Tumor #5//Tumor Necrosis:,TumorNecrosis,lkup_tumor_necrosis,4147451,Tumor necrosis,Observation,Morph Abnormality,SNOMED
+27,Worst Tumor Differentiation:,WorstTumorDifferentiation,lkup_worst_tumor_differentiation,,,,,
+28,Vascular Invasion:,VascularInvasion,lkup_vascular_invasion,4164478,Vascular invasion of tumor present,Condition,Clinical Finding,SNOMED
+29,Lymph Node Involvement:,LymphNodeInvolvement,,46235893,Lymph node involvement,Measurement,Lab Test,LOINC
+30,Other Extrahepatic Spread:,ExtraHepaticSpread,,,,,,
+31,Satellite Lesions:,SatelliteLesions,,,,,,
+32,Pre-transplant treatment for HCC?:,TreatmentForHCC,,,,,,

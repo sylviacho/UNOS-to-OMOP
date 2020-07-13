@@ -1,0 +1,113 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,RECORD KEY,don_fol_id,,,,,,
+1,Recipient Center Type//Recipient Center:,ctr_ty,,,,,,
+2,Recipient Center Code//Recipient Center:,ctr_cd,,,,,,
+3,Follow-Up Center Code//Followup Center:,fol_ctr_cd,,,,,,
+4,Follow-Up Center Type//Followup Center:,fol_ctr_ty,,,,,,
+5,Last Name//Name:,lname,,,,,,
+6,First Name//Name:,fname,,,,,,
+7,DOB:,dob,,4083587,Date of birth,Observation,Observable Entity,SNOMED
+8,SSN:,ssn,,,,,,
+9,Gender:,gender,,4135376,Gender,Observation,Observable Entity,SNOMED
+10,Donor ID:,don_id,,,,,,
+11,Recovery Date:,org_recovery_dt,,,,,,
+12,Date of Initial Discharge:,init_discharge_dt,,,,,,
+13,Most Recent Donor Status since:,px_stat,lkup_px_stat_don_ldf,0,,,,
+14,Most Recent Donor Status since//Date of last contact or death:,px_stat_dt,,,,,,
+15,Cause of Death:,cod,lkup_liv_don_cod,4083743,Cause of death,Observation,Clinical Finding,SNOMED
+16,Cause of Death//Specify:,cod_ostxt,,,,,,
+17,Functional Status:,func_stat,lkup_func_stat_2005,40757653,Functional status,Observation,Survey,LOINC
+18,Physical Capacity:,physical_capacity,lkup_physical_capacity_ld,4103497,Ability to mobilize,Observation,Observable Entity,SNOMED
+19,Working for Income:,work_income,,4126861,Working,Observation,Qualifier Value,SNOMED
+20,"Working for Income//If No, Not Working Due To:",work_no_status,lkup_not_working_ld,0,,,,
+21,Working for Income//If Yes:,work_yes_status,lkup_work_income_ld,,,,,
+22,Current weight:,wgt_kg,,3025315,Body weight,Measurement,Clinical Observation,LOINC
+23,Weight Status//ST=,wgt_kg_i,lkup_field_stat_cd,,,,,
+24,Total Bilirubin:,bilirub,,3024128,Total Bilirubin serum/plasma,Measurement,Lab Test,LOINC
+25,Total Bilirubin Status//ST=,bilirub_i,lkup_field_stat_cd,,,,,
+26,SGOT/AST:,ast,,0,,,,
+27,SGOT/AST Status//ST=,ast_i,lkup_field_stat_cd,,,,,
+28,SGPT/ALT:,sgpt_alt,,0,,,,
+29,SGPT/ALT Status//ST=,sgpt_alt_i,lkup_field_stat_cd,,,,,
+30,Alkaline Phosphatase:,alkphos,,4210900,Alkaline phosphatase,Observation,Substance,SNOMED
+31,Alkaline Phosphatase Status//ST=,alkphos_i,lkup_field_stat_cd,,,,,
+32,Serum Albumin:,album,,40769423,Albumin in pericardial fld/Albumin in Serum or Plasma,Measurement,Lab Test,LOINC
+33,Serum Albumin Status//ST=,album_i,lkup_field_stat_cd,,,,,
+34,Serum Creatinine:,creat_li,,3016723,Creatinine serum/plasma,Measurement,Lab Test,LOINC
+35,Serum Creatinine Status//ST=,creat_li_i,lkup_field_stat_cd,,,,,
+36,INR:,inr,,3022217,INR,Measurement,Lab Test,LOINC
+37,INR Status//ST=,inr_i,lkup_field_stat_cd,,,,,
+38,Kidney//Serum Creatinine:,creat,,0,,,,
+39,Kidney Serum Creatinine Status//ST=,creat_i,lkup_field_stat_cd,,,,,
+40,Blood Pressure Systolic:,bp_syst,,3004249,BP systolic,Measurement,Clinical Observation,LOINC
+41,Blood Pressure Systolic Status//ST=,bp_syst_i,lkup_field_stat_cd,,,,,
+42,Blood Pressure Diastolic:,bp_diast,,3012888,BP diastolic,Measurement,Clinical Observation,LOINC
+43,Blood Pressure Diastolic Status//ST=,bp_diast_i,lkup_field_stat_cd,,,,,
+44,Donor Developed Hypertension Requiring Medication:,hypertension,,0,,,,
+45,Protein-Creatinine Ratio:,urine_ratio,,3045462,Protein/Creatinine [Ratio] in Urine,Measurement,Lab Test,LOINC
+46,Urine Protein:,urine_protein,lkup_urine_protein,4041881,Urine protein test,Measurement,Procedure,SNOMED
+47,Maintenance Dialysis:,dialysis,,0,,,,
+48,"Maintenance Dialysis//If Yes, Date First Dialyzed:",dialysis_dt,,,,,,
+49,Diabetes:,diabetes,,201820,Diabetes mellitus,Condition,Clinical Finding,SNOMED
+50,Diabetes//Treatment:,diab_treat,lkup_diab_treat_multi,,,,,
+51,Activity Level:,activity_level,lkup_activity_level,44808782,Level of physical activity,Observation,Observable Entity,SNOMED
+52,Chronic Incisional Pain:,incision_pain,lkup_incision_pain,43531612,Chronic postoperative pain,Condition,Clinical Finding,SNOMED
+53,Has the donor been readmitted since:,readmit,,0,,,,
+54,"If Yes, Date of First Readmission:",readmit_dt,,,,,,
+55,Date of First Readmission Status//ST=,readmit_dt_i,lkup_field_stat_cd,,,,,
+56,Specify Reason for First Readmission:,readmit_ostxt,,0,,,,
+57,Kidney Complications since:,complications_ki,,0,,,,
+58,Kidney Complications Status//If Yes:,complications_ki_status,lkup_comp_ki_multi,0,,,,
+59,Kidney Complications//Specify:,complications_ki_ostxt,,,,,,
+60,Liver Complications since:,complications_li,,0,,,,
+61,Liver Complicatons Status//If Yes:,complications_li_status,lkup_comp_li_multi,0,,,,
+62,Liver Complications//Specify:,complications_li_ostxt,,,,,,
+63,Complications since:,complications,,0,,,,
+64,Complications//Specify:,complications_ostxt,,,,,,
+65,Recipient's Last Name//Name:,lname,,,,,,
+66,Recipient's First Name//Name:,fname,,,,,,
+67,Recipient's SSN//SSN:,ssn,,,,,,
+68,Recipient Center Provider Number//Provider Number:,provider_num,,0,,,,
+69,Status:,status,lkup_form_status,4138595,Status,Observation,Attribute,SNOMED
+70,Add Date,add_dt,,,,,,
+71,Change Date,chg_dt,,,,,,
+72,Follow Up Code,fol_cd,,0,,,,
+73,Organ(s) Recovered,don_org,lkup_don_org_liv,4078655,Type of donor organ,Observation,Qualifier Value,SNOMED
+74,Donor Status//Attempts to Collect:,px_stat_coll_atmpt,,0,,,,
+75,Loss of Insurance Due to Donation:,loss_insurance_dueto_don,,0,,,,
+76,Date:,weight_dt,,,,,,
+77,ER or urgent care visit related to donation since last follow-up:,ERVisit_since_don,,0,,,,
+78,Total Bilirubin://Date:,bilirub_dt,,,,,,
+79,SGOT/AST://Date:,ast_dt,,,,,,
+80,SGPT/ALT://Date:,sgpt_alt_dt,,,,,,
+81,Alkaline Phosphatase://Date:,alkphos_dt,,,,,,
+82,Serum Albumin://Date:,album_dt,,,,,,
+83,Serum Creatinine://Date:,creat_li_dt,,,,,,
+84,INR://Date:,inr_dt,,,,,,
+85,Platelet count:,platelet_count,,,,,,
+86,Platelet count://Date:,platelet_count_dt,,,,,,
+87,Kidney-Serum Creatinine://Date:,creat_dt,,,,,,
+88,Blood Pressure Systolic://Date:,bp_syst_dt,,,,,,
+89,Blood Pressure Diastolic://Date:,bp_diast_dt,,,,,,
+90,Platelet count Status//ST=,platelet_count_i,lkup_field_stat_cd,,,,,
+91,Loss of Insurance Due to Donation//If Yes:,loss_insurance_dueto_don_ty,lkup_insurance_loss_multi,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

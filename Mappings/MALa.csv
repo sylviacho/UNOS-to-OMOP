@@ -1,0 +1,76 @@
+﻿UNOS_Field_#,UNOS_Source_Concept,UNOS_Name,UNOS_Lookup,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,RECORD KEY:,malig_id,,,,,,
+1,FOREIGN KEY:,trr_fol_id,,,,,,
+2,RECORD KEY:,malig_don_id,,,,,,
+3,RECORD KEY:,malig_recurr_id,,,,,,
+4,Type of pre-existing tumor:,pre_tumor_ty,lkup_tumor_ty,,,,,
+5,"If other cancer, specify:",pre_tumor_ostxt,,,,,,
+6,Date of recurrence (post tx):,recur_dt,,,,,,
+7,RECORD KEY:,malig_tumor_id,,,,,,
+8,Tumor Types:// Skin: squamous cell,skin_squamous,,4111921,Squamous cell carcinoma of skin,Condition,Clinical Finding,SNOMED
+9,Tumor Types:// Skin: basal cell,skin_basal,,4148464,Basal cell tumor,Observation,Morph Abnormality,SNOMED
+10,Tumor Types:// Skin: melanoma,skin_melanoma,,141232,Malignant melanoma of skin,Condition,Clinical Finding,SNOMED
+11,Tumor Types: //Kaposi's sarcoma: cutaneous,kaposi_cutaneous,,258981,Kaposi's sarcoma of skin,Condition,Clinical Finding,SNOMED
+12,Tumor Types: //Kaposi's sarcoma: visceral,kaposi_visceral,,37018567,Kaposi sarcoma of viscus,Condition,Clinical Finding,SNOMED
+13,Tumor Types: //Brain:,tumor_brain,lkup_brain_tumor,4116092,Intracranial tumor,Condition,Clinical Finding,SNOMED
+14,Tumor Types: Brain: //Other specify:,tumor_brain_ostxt,,,,,,
+15,Tumor Types: //Renal carcinoma,renal_car,,45765451,Renal cell carcinoma,Condition,Clinical Finding,SNOMED
+16,"Tumor Types: //Carcinoma of vulva, perineum or penis, scrotum",vul_per_penis_scrot_carcinoma,,,,,,
+17,Tumor Types: //Carcinoma of the uterus,uterus_car,,40485978,Carcinoma of uterus,Condition,Clinical Finding,SNOMED
+18,Tumor Types: //Ovarian,ovarian,,4047650,Neoplasm of ovary,Condition,Clinical Finding,SNOMED
+19,Tumor Types: //Testicular,testicular,,,,,,
+20,Tumor Types: //Esophagus,esophagus,,4130990,Neoplasm of esophagus,Condition,Clinical Finding,SNOMED
+21,Tumor Types: //Stomach,stomach,,4131611,Neoplasm of stomach,Condition,Clinical Finding,SNOMED
+22,Tumor Types: //Small intestine,sm_intest,,4131614,Neoplasm of small intestine,Condition,Clinical Finding,SNOMED
+23,Tumor Types: //Pancreas,pancreas,,4129886,Neoplasm of pancreas,Condition,Clinical Finding,SNOMED
+24,Tumor Types: //Larynx,larynx,,4055265,Neoplasm of larynx,Condition,Clinical Finding,SNOMED
+25,"Tumor Types: //Tongue, throat",tongue_throat,,,,,,
+26,Tumor Types: //Thyroid,thyroid,,4131909,Neoplasm of thyroid gland,Condition,Clinical Finding,SNOMED
+27,Tumor Types: //Bladder,bladder,,200680,Neoplasm of bladder,Condition,Clinical Finding,SNOMED
+28,Tumor Types: //Breast,breast,,81251,Neoplasm of breast,Condition,Clinical Finding,SNOMED
+29,Tumor Types: //Prostate,prostate,,4129902,Neoplasm of prostate,Condition,Clinical Finding,SNOMED
+30,Tumor Types: //Colo-rectal,colorectal,,,,,,
+31,Tumor Types: //Primary hepatic tumor,prim_hepatic,,,,,,
+32,Tumor Types: //Metastatic liver tumor,met_liver,,198700,Secondary malignant neoplasm of liver,Condition,Clinical Finding,SNOMED
+33,Tumor Types: //Lung,lung,,4128888,Neoplasm of lung,Condition,Clinical Finding,SNOMED
+34,Tumor Types://Leukemia,leuk,,317510,Leukemia,Condition,Clinical Finding,SNOMED
+35,Tumor Types: //Sarcomas,sarcoma,,4311439,Sarcoma,Condition,Clinical Finding,SNOMED
+36,Tumor Types: //Other cancers,oth_cancer,,45884514,Other cancer,Meas Value,Answer,LOINC
+37,Other Cancers: //Site(s):,oth_cancer_sites,,40766634,Site of other cancer [PhenX],Measurement,Clinical Observation,LOINC
+38,Tumor Types: //Primary unknown,prim_unk,,4114221,Malignant tumor of unknown origin,Condition,Clinical Finding,SNOMED
+39,RECORD KEY:,malig_lymph_id,,,,,,
+40,PTLD: //Diagnosis date:,lymph_dx_dt,,,,,,
+41,PTLD: //Pathology:,pathology,lkup_pathology,42872948,Post transplant lymphoproliferative disorder,Observation,Morph Abnormality,SNOMED
+42,PTLD: Pathology: //Other Specify:,path_ostxt,,,,,,
+43,Status:,status,lkup_form_status,4138595,Status,Observation,Attribute,SNOMED
+44,Tumor Types: //Bladder,bladder_donor,,,,,,
+45,Tumor Types: //Breast,breast_donor,,81251,Neoplasm of breast,Condition,Clinical Finding,SNOMED
+46,Tumor Types: //Colo-rectal,colorectal_donor,,,,,,
+47,Tumor Types: //Esophagus,esophagus_donor,,4130990,Neoplasm of esophagus,Condition,Clinical Finding,SNOMED
+48,Tumor Types: //Kaposi's sarcoma: cutaneous,kaposi_cutaneous_donor,,258981,Kaposi's sarcoma of skin,Condition,Clinical Finding,SNOMED
+49,Tumor Types: //Kaposi's sarcoma: visceral,kaposi_visceral_donor,,37018567,Kaposi sarcoma of viscus,Condition,Clinical Finding,SNOMED
+50,Tumor Types: //Larynx,larynx_donor_donor,,4055265,Neoplasm of larynx,Condition,Clinical Finding,SNOMED
+51,Tumor Types://Leukemia,leuk_donor,,4314535,Leukemia,Observation,Morph Abnormality,SNOMED
+52,Tumor Types: //Lung,lung_donor,,4128888,Neoplasm of lung,Condition,Clinical Finding,SNOMED
+53,Tumor Types: //Metastatic liver tumor,met_liver_donor,,198700,Secondary malignant neoplasm of liver,Condition,Clinical Finding,SNOMED
+54,Tumor Types: //Other cancers,oth_cancer_donor,,45884514,Other cancer,Meas Value,Answer,LOINC
+55,Other Cancers: //Specify type:,oth_cancer_donor_ty,,45884514,Other cancer,Meas Value,Answer,LOINC
+56,Tumor Types: //Pancreas,pancreas_donor,,4129886,Neoplasm of pancreas,Condition,Clinical Finding,SNOMED
+57,Tumor Types: //Primary hepatic tumor,prim_hepatic_donor,,,,,,
+58,Tumor Types: //Primary unknown,prim_unk_donor,,,,,,
+59,Tumor Types: //Renal carcinoma,renal_car_donor,,4131748,Neoplasm of kidney,Condition,Clinical Finding,SNOMED
+60,Tumor Types: //Sarcomas,sarcoma_donor,,4311439,Sarcoma,Condition,Clinical Finding,SNOMED
+61,Tumor Types:// Skin: basal cell,skin_basal_donor,,4179980,Malignant basal cell neoplasm of skin,Condition,Clinical Finding,SNOMED
+62,Tumor Types:// Skin: melanoma,skin_melanoma_donor,,141232,Malignant melanoma of skin,Condition,Clinical Finding,SNOMED
+63,Tumor Types:// Skin: squamous cell,skin_squamous_donor,,4111921,Squamous cell carcinoma of skin,Condition,Clinical Finding,SNOMED
+64,Tumor Types: //Small intestine,sm_intest_donor,,4131614,Neoplasm of small intestine,Condition,Clinical Finding,SNOMED
+65,Tumor Types: //Stomach,stomach_donor,,4131611,Neoplasm of stomach,Condition,Clinical Finding,SNOMED
+66,Tumor Types: //Thyroid,thyroid_donor,,4131909,Neoplasm of thyroid gland,Condition,Clinical Finding,SNOMED
+67,"Tumor Types: //Tongue, throat",tongue_throat_donor,,,,,,
+68,Tumor Types: //Brain:,tumor_brain_donor,lkup_brain_tumor,4116092,Intracranial tumor,Condition,Clinical Finding,SNOMED
+69,Tumor Types: Brain: //Other specify:,tumor_brain_donor_ostxt,,,,,,
+70,"Tumor Types: //Carcinoma of vulva, perineum or penis, scrotum",vul_per_penis_scrot_carcinoma_donor,,,,,,
+71,Tumor Types: //Carcinoma of the uterus,uterus_carcinoma_donor,,4131007,Neoplasm of uterus,Condition,Clinical Finding,SNOMED
+72,Tumor Types: //Ovarian,ovarian_donor,,4047650,Neoplasm of ovary,Condition,Clinical Finding,SNOMED
+73,Tumor Types: //Testicular,testicular_donor,,,,,,
+74,Tumor Types: //Prostate,prostate_donor,,4129902,Neoplasm of prostate,Condition,Clinical Finding,SNOMED
