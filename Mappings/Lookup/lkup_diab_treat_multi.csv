@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Insulin,4024603,Insulin regime,Procedure,Procedure,SNOMED
+2,Oral Hypoglycemic Agent,,,,,
+4,Diet,4056973,Dietary regime,Procedure,Procedure,SNOMED

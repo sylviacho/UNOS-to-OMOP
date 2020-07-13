@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,CABG,4336464,Coronary artery bypass graft,Procedure,Procedure,SNOMED
+2,Valve Replacement/Repair,,,,,
+4,Congenital,4116830,Congenital,Observation,Qualifier Value,SNOMED
+8,Left Ventricular Remodeling,4034869,Left ventricular recording,Procedure,Procedure,SNOMED
+16,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Definite Cognitive delay/impairment,45878929,Cognitive impairment,Meas Value,Answer,LOINC
+2,Probable Cognitive delay/impairment,,,,,
+3,Questionable Cognitive delay/impairment,,,,,
+4,No Cognitive delay/impairment,45884350,No impairment,Meas Value,Answer,LOINC
+998,Not Assessed,45881531,Not assessed,Meas Value,Answer,LOINC

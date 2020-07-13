@@ -1,0 +1,12 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+RKI,Right Kidney,4321753,Right kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+LKI,Left Kidney,4088232,Left kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+LLL,Left Lung Lobe,4165784,Entire lobe of left lung,Spec Anatomic Site,Body Structure,SNOMED
+PAS1,Pancreas Segment,4001209,Pancreas part,Spec Anatomic Site,Body Structure,SNOMED
+RLL,Right Lung Lobe,4157864,Entire lobe of right lung,Spec Anatomic Site,Body Structure,SNOMED
+LIS1,Liver Segment,4080276,Liver segment,Spec Anatomic Site,Body Structure,SNOMED
+INS1,Intestine Segment,,,,,
+HR,Living Donor Heart Transplant,,,,,
+LUR,Right Single Lung,4141610,Right lung structure,Spec Anatomic Site,Body Structure,SNOMED
+LUL,Left Single Lung,4195613,Left lung structure,Spec Anatomic Site,Body Structure,SNOMED
+LIWD,Domino Whole Liver,,,,,

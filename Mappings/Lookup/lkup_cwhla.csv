@@ -1,0 +1,24 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,0,,,,,
+1,1,3010373,HLA-Cw1 [Presence] in donor,Measurement,Lab Test,LOINC
+2,2,3020217,HLA-Cw2 [Presence] in donor,Measurement,Lab Test,LOINC
+3,3,3005649,HLA-Cw3 [Presence] in donor,Measurement,Lab Test,LOINC
+4,4,3002835,HLA-Cw4 [Presence] in donor,Measurement,Lab Test,LOINC
+5,5,3000698,HLA-Cw5 [Presence] in donor,Measurement,Lab Test,LOINC
+6,6,3005150,HLA-Cw6 [Presence] in donor,Measurement,Lab Test,LOINC
+7,7,3003089,HLA-Cw7 [Presence] in donor,Measurement,Lab Test,LOINC
+8,8,3001209,HLA-Cw8 [Presence] in donor,Measurement,Lab Test,LOINC
+9,9,3034521,HLA-Cw9(w3) [Presence] in donor,Measurement,Lab Test,LOINC
+10,10,3019562,HLA-Cw10(w3) [Presence] in donor,Measurement,Lab Test,LOINC
+11,11,3005454,HLA-Cw11 [Presence] in donor,Measurement,Lab Test,LOINC
+12,12,,,,,
+13,13,,,,,
+14,14,,,,,
+15,15,,,,,
+16,16,,,,,
+17,17,,,,,
+18,18,,,,,
+97,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+98,No second antigen detected,,,,,
+100,No antigen detected,45878602,Not tested,Meas Value,Answer,LOINC
+99,Not Tested,45880296,Not detected,Meas Value,Answer,LOINC

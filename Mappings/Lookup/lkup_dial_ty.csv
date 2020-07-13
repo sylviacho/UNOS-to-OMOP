@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No dialysis,,,,,
+2,Hemodialysis,4120120,Hemodialysis,Procedure,Procedure,SNOMED
+3,Peritoneal Dialysis,4324124,Peritoneal dialysis,Procedure,Procedure,SNOMED
+998,Dialysis Status Unknown,4270455,Procedure status unknown,Observation,Context-dependent,SNOMED
+999,Dialysis-Unknown Type was performed,4270455,Procedure status unknown,Observation,Context-dependent,SNOMED

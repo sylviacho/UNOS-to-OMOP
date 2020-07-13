@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,ANOXIA,313601,Oxygen supply absent,Condition,Clinical Finding,SNOMED
+2,CEREBROVASCULAR/STROKE,381591,Cerebrovascular disease,Condition,Clinical Finding,SNOMED
+3,HEAD TRAUMA,45880367,Head trauma,Meas Value,Answer,LOINC
+4,CNS TUMOR,4100553,Central nervous system tumor morphology,Observation,Morph Abnormality,SNOMED
+999,OTHER SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC

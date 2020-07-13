@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Bile Leak,4340400,Leakage of bile,Condition,Clinical Finding,SNOMED
+2,Hepatic Resection,4030150,Liver excision,Procedure,Procedure,SNOMED
+4,Abscess,444202,Abscess,Condition,Clinical Finding,SNOMED
+8,Liver Failure,4245975,Hepatic failure,Condition,Clinical Finding,SNOMED
+16,Added to UNOS TX candidate waiting list,43020581,On waiting list for organ transplant,Observation,Clinical Finding,SNOMED
+64,Incisional hernia due to donation surgery,,,,,
+32,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

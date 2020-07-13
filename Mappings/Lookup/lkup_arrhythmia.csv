@@ -1,0 +1,3 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Medical therapy,4073634,Medical therapy,Procedure,Procedure,SNOMED
+2,Cardioversion,4353741,Cardioversion,Procedure,Procedure,SNOMED

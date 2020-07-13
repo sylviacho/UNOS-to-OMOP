@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No,45877950,No test,Meas Value,Answer,LOINC
+2,"Yes, normal",45884153,Normal,Meas Value,Answer,LOINC
+3,"Yes, not normal",45878745,Abnormal,Meas Value,Answer,LOINC

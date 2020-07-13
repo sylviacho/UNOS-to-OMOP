@@ -1,0 +1,22 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+601,Too old on pump,,,,,
+602,Too old on ice,,,,,
+603,Vascular damage,443784,Vascular disorder,Condition,Clinical Finding,SNOMED
+604,Ureteral damage,194995,Disorder of ureter,Condition,Clinical Finding,SNOMED
+605,Inadequate urine output,,,,,
+606,Donor Medical history,,,,,
+607,Donor social history,,,,,
+608,Positive CMV,40483773,Cytomegalovirus serostatus positive,Measurement,Clinical Finding,SNOMED
+609,Positive HIV,4013106,HIV positive,Condition,Clinical Finding,SNOMED
+610,Positive Hepatitis,45876624,Hepatitis,Meas Value,Answer,LOINC
+611,Warm ischemic time too long,,,,,
+612,Organ trauma,,,,,
+613,Organ not as described,,,,,
+614,Biopsy findings,4268703,Biopsy finding,Measurement,Clinical Finding,SNOMED
+616,Poor organ function,,,,,
+617,Infection,432250,Disorder due to infection,Condition,Clinical Finding,SNOMED
+618,Diseased organ,,,,,
+619,Anatomical abnormalities,,,,,
+620,No recipient located - list exhausted,,,,,
+699,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC
+615,Recipient determined to be unsuitable for TX in OR,45765434,Patient unsuitable for procedure,Condition,Clinical Finding,SNOMED

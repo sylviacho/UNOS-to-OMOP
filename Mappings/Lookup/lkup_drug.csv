@@ -1,0 +1,50 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+49,"Steroids (prednisone, methylprednisolone, Solumedrol, Medrol, Decadron)",4024511,Steroid,Observation,Substance,SNOMED
+14,Atgam,19014173,Lymphocyte immune globulin 50 MG/ML [ATGAM],Drug,Branded Drug Comp,RxNorm
+50,"Campath (alemtuzumab, anti-CD52)",46275831,alemtuzumab 30 MG/ML Injection [Campath],Drug,Branded Drug,RxNorm
+10,Cytoxan (cyclophosphamide),40028482,Cyclophosphamide Oral Tablet [Cytoxan],Drug,Branded Drug Form,RxNorm
+11,"Methotrexate (Folex PFS, Mexate-AQ, Rheumatrex)",1305058,Methotrexate,Drug,Ingredient,RxNorm
+16,"OKT3 (Orthoclone, muromonab)",40062305,Muromonab-CD3 Injectable Solution [Orthoclone OKT3],Drug,Branded Drug Form,RxNorm
+52,Rituxan (rituximab),46275078,rituximab Injection [Rituxan],Drug,Branded Drug Form,RxNorm
+43,Simulect (basiliximab),46275839,basiliximab Injection [Simulect],Drug,Branded Drug Form,RxNorm
+41,Thymoglobulin,19136207,"Lymphocyte Immune Globulin, Anti-Thymocyte Globulin",Drug,Ingredient,RxNorm
+46,- EON (generic cyclosporine),40028534,Cyclosporine Oral Capsule,Drug,Clinical Drug Form,RxNorm
+44,- Gengraf (Abbott cyclosporine),40028536,Cyclosporine Oral Capsule [Gengraf],Drug,Branded Drug Form,RxNorm
+4,- Neoral (CyA-NOF),40028537,Cyclosporine Oral Capsule [Neoral],Drug,Branded Drug Form,RxNorm
+48,"- Other generic cyclosporine, specify brand:",,,,,
+3,- Sandimmune (cyclosporine A),40028538,Cyclosporine Oral Capsule [Sandimmune],Drug,Branded Drug Form,RxNorm
+8,"Imuran (azathioprine, AZA)",40012757,Azathioprine Oral Tablet [Imuran],Drug,Branded Drug Form,RxNorm
+7,Leflunomide (LFL),40058561,leflunomide Oral Tablet,Drug,Clinical Drug Form,RxNorm
+9,- CellCept (MMF),40130964,mycophenolate mofetil Oral Tablet [Cellcept],Drug,Branded Drug Form,RxNorm
+55,- Generic MMF (generic CellCept),40130964,mycophenolate mofetil Oral Tablet [Cellcept],Drug,Branded Drug Form,RxNorm
+47,- Myfortic (mycophenolate acid),40130896,Mycophenolic Acid Delayed Release Oral Tablet [Myfortic],Drug,Branded Drug Form,RxNorm
+56,Nulojix (belatacept),40220981,belatacept Injection [Nulojix],Drug,Branded Drug Form,RxNorm
+6,"Rapamune (sirolimus, Rapamycin)",40083988,Sirolimus Oral Tablet [Rapamune],Drug,Branded Drug Form,RxNorm
+53,- Astagraf XL (extended release tacrolimus),43532782,Tacrolimus Extended Release Oral Capsule [Astagraf],Drug,Branded Drug Form,RxNorm
+54,- Generic tacrolimus (generic Prograf),35604551,Tacrolimus Injection [Prograf],Drug,Branded Drug Form,RxNorm
+5,- Prograf (FK506),,,,,
+45,Zortress (everolimus),40175824,everolimus Oral Tablet [Zortress],Drug,Branded Drug Form,RxNorm
+97,"Other immunosuppressive medication, specify:",,,,,
+98,"Other immunosuppressive medication, specify:",,,,,
+51,FTY 720,,,,,
+1,"Prednisone (Deltasone, Orasone)",1551099,Prednisone,Drug,Ingredient,RxNorm
+2,"Methylprednisolone (Solu-medrol, Medrol, A-Methapred)",40060728,Methylprednisolone Oral Tablet,Drug,Clinical Drug Form,RxNorm
+30,"Deoxyspergualin (DSG, 15-DSG, Gusperimus, Spanidin)",,,,,
+40,Sang Cy A,40028544,Cyclosporine Oral Solution [Sangcya],Drug,Branded Drug Form,RxNorm
+-2,Cyclosporin,40028540,Cyclosporine Oral Solution,Drug,Clinical Drug Form,RxNorm
+12,Brequinar Sodium (BQR),,,,,
+13,Mizoribine (Bredinin),,,,,
+28,T10B9 (Medimmune),,,,,
+20,DAB486 - IL -2,,,,,
+22,Anti - ICAM - 1,,,,,
+15,NRATG /NRATS,,,,,
+19,Xoma Zyme - CD5+,,,,,
+21,Anti - LFA -1,,,,,
+-1,ALG,,,,,
+-3,OKT4,,,,,
+23,IL - 1 Receptor Antagonist,,,,,
+24,Anti - IL - 6,,,,,
+25,Anti - TNF,,,,,
+26,Soluble IL - 1 Receptor,,,,,
+27,Aldesleukin (IL - 2),35603079,Aldesleukin Injection,Drug,Clinical Drug Form,RxNorm
+42,Zenapax - Daclizumab,40029993,Daclizumab Injectable Solution [Zenapax],Drug,Branded Drug Form,RxNorm

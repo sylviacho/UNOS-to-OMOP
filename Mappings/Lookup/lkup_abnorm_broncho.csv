@@ -1,0 +1,9 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No Bronchoscopy,45877950,No test,Meas Value,Answer,LOINC
+2,Bronchoscopy Results normal,45884153,Normal,Meas Value,Answer,LOINC
+3,"Bronchoscopy Results, Abnormal-purulent secretions",,,,,
+4,"Bronchoscopy Results, Abnormal-aspiration of foreign body",,,,,
+5,"Bronchoscopy Results, Abnormal-blood",,,,,
+6,"Bronchoscopy Results, Abnormal-anatomy/other lesion",,,,,
+7,"Bronchoscopy Results, Unknown",,,,,
+998,Unknown if bronchoscopy performed,45882798,Unknown if Recommended or Performed,Meas Value,Answer,LOINC

@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+3,Core,4321878,Core needle biopsy,Procedure,Procedure,SNOMED
+1,Needle,4044511,Needle biopsy,Procedure,Procedure,SNOMED
+2,Wedge,4069074,Wedge resection,Procedure,Procedure,SNOMED
+999,Other specify,45883153,"Other, specify",Meas Value,Answer,LOINC

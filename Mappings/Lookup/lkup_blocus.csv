@@ -1,0 +1,71 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,0,,,,,
+5,5,3024699,HLA-B5 [Presence] in donor,Measurement,Lab Test,LOINC
+7,7,3026079,HLA-B7 [Presence] in donor,Measurement,Lab Test,LOINC
+8,8,3009474,HLA-B8 [Presence] in donor,Measurement,Lab Test,LOINC
+12,12,3011609,HLA-B12 [Presence] in donor,Measurement,Lab Test,LOINC
+13,13,3017413,HLA-B13 [Presence] in donor,Measurement,Lab Test,LOINC
+14,14,3018494,HLA-B14 [Presence] in donor,Measurement,Lab Test,LOINC
+15,15,3011955,HLA-B15 [Presence] in donor,Measurement,Lab Test,LOINC
+16,16,3018312,HLA-B16 [Presence] in donor,Measurement,Lab Test,LOINC
+17,17,3014176,HLA-B17 [Presence] in donor,Measurement,Lab Test,LOINC
+18,18,3007443,HLA-B18 [Presence] in donor,Measurement,Lab Test,LOINC
+21,21,3022967,HLA-B21 [Presence] in donor,Measurement,Lab Test,LOINC
+22,22,3014489,HLA-B22 [Presence] in donor,Measurement,Lab Test,LOINC
+27,27,3015140,HLA-B27 [Presence] in donor,Measurement,Lab Test,LOINC
+35,35,3007711,HLA-B35 [Presence] in donor,Measurement,Lab Test,LOINC
+37,37,3023285,HLA-B37 [Presence] in donor,Measurement,Lab Test,LOINC
+38,38,3027230,HLA-B38(16) [Presence] in donor,Measurement,Lab Test,LOINC
+39,39,3028360,HLA-B39(16) [Presence] in donor,Measurement,Lab Test,LOINC
+40,40,3006098,HLA-B40 [Presence] in donor,Measurement,Lab Test,LOINC
+41,41,3008000,HLA-B41 [Presence] in donor,Measurement,Lab Test,LOINC
+42,42,3022349,HLA-B42 [Presence] in donor,Measurement,Lab Test,LOINC
+44,44,3027884,HLA-B44(12) [Presence] in donor,Measurement,Lab Test,LOINC
+45,45,3024054,HLA-B45(12) [Presence] in donor,Measurement,Lab Test,LOINC
+46,46,3026055,HLA-B46 [Presence] in donor,Measurement,Lab Test,LOINC
+47,47,3007652,HLA-B47 [Presence] in donor,Measurement,Lab Test,LOINC
+48,48,3022696,HLA-B48 [Presence] in donor,Measurement,Lab Test,LOINC
+49,49,3011503,HLA-B49(21) [Presence] in donor,Measurement,Lab Test,LOINC
+50,50,3028065,HLA-B50(21) [Presence] in donor,Measurement,Lab Test,LOINC
+51,51,3014030,HLA-B51(5) [Presence] in donor,Measurement,Lab Test,LOINC
+52,52,3009899,HLA-B52(5) [Presence] in donor,Measurement,Lab Test,LOINC
+53,53,3027579,HLA-B53 [Presence] in donor,Measurement,Lab Test,LOINC
+54,54,3028640,HLA-B54(22) [Presence] in donor,Measurement,Lab Test,LOINC
+55,55,3010577,HLA-B55(22) [Presence] in donor,Measurement,Lab Test,LOINC
+56,56,3018953,HLA-B56(22) [Presence] in donor,Measurement,Lab Test,LOINC
+57,57,3023190,HLA-B57(17) [Presence] in donor,Measurement,Lab Test,LOINC
+58,58,3011148,HLA-B58(17) [Presence] in donor,Measurement,Lab Test,LOINC
+59,59,3009416,HLA-B59 [Presence] in donor,Measurement,Lab Test,LOINC
+60,60,3019267,HLA-B60(40) [Presence] in donor,Measurement,Lab Test,LOINC
+61,61,3004623,HLA-B61(40) [Presence] in donor,Measurement,Lab Test,LOINC
+62,62,3003190,HLA-B62(15) [Presence] in donor,Measurement,Lab Test,LOINC
+63,63,3020152,HLA-B63(15) [Presence] in donor,Measurement,Lab Test,LOINC
+64,64,3005516,HLA-B64(14) [Presence] in donor,Measurement,Lab Test,LOINC
+65,65,3002775,HLA-B65(14) [Presence] in donor,Measurement,Lab Test,LOINC
+67,67,3000643,HLA-B67 [Presence] in donor,Measurement,Lab Test,LOINC
+70,70,3003034,HLA-B70 [Presence] in donor,Measurement,Lab Test,LOINC
+71,71,3000592,HLA-B71(70) [Presence] in donor,Measurement,Lab Test,LOINC
+72,72,3034160,HLA-B72(70) [Presence] in donor,Measurement,Lab Test,LOINC
+73,73,3019938,HLA-B73 [Presence] in donor,Measurement,Lab Test,LOINC
+75,75,3012281,HLA-B75(15) [Presence] in donor,Measurement,Lab Test,LOINC
+76,76,3038148,HLA-B76(15) [Presence] in donor,Measurement,Lab Test,LOINC
+77,77,3021836,HLA-B77(15) [Presence] in donor,Measurement,Lab Test,LOINC
+78,78,,,,,
+81,81,,,,,
+82,82,,,,,
+703,703,4123316,Human leukocyte antigen B703,Observation,Substance,SNOMED
+804,804,,,,,
+1304,1304,,,,,
+1522,1522,,,,,
+2708,2708,,,,,
+3901,3901,4124122,Human leukocyte antigen B3901,Observation,Substance,SNOMED
+3902,3902,4126367,Human leukocyte antigen B3902,Observation,Substance,SNOMED
+3905,3905,,,,,
+4005,4005,4123319,Human leukocyte antigen B4005,Observation,Substance,SNOMED
+5102,5102,4127339,Human leukocyte antigen B5102,Observation,Substance,SNOMED
+5103,5103,4124124,Human leukocyte antigen B5103,Observation,Substance,SNOMED
+7801,7801,4124128,Human leukocyte antigen B7801,Observation,Substance,SNOMED
+8201,8201,,,,,
+97,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+98,No second antigen detected,45878003,None detected,Meas Value,Answer,LOINC
+99,Not Tested,45878602,Not tested,Meas Value,Answer,LOINC

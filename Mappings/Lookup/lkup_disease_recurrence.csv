@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No recurrence,45878245,No,Meas Value,Answer,LOINC
+2,Suspected recurrence (not confirmed or unknown if confirmed by biopsy),45884696,Suspected,Meas Value,Answer,LOINC
+3,Biopsy confirmed recurrence,,,,,
+998,Unknown,45877986,Unknown,Meas Value,Answer,LOINC

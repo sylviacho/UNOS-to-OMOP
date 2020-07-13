@@ -1,0 +1,10 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,0-2 months,,,,,
+2,3-12 months,,,,,
+3,13-24 months,,,,,
+4,25-36 months,,,,,
+5,37-48 months,,,,,
+6,49-60 months,,,,,
+7,>60 months,,,,,
+8,Continues To Smoke,40766945,Current smoker,Measurement,Clinical Observation,LOINC
+998,Unknown duration,45877986,Unknown,Meas Value,Answer,LOINC

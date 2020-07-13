@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,0-10,,,,,
+2,11-20,,,,,
+3,21-30,,,,,
+4,31-40,,,,,
+5,41-50,,,,,
+6,>50,45884714,More than 50,Meas Value,Answer,LOINC
+998,Unknown pack years,45877986,Unknown,Meas Value,Answer,LOINC

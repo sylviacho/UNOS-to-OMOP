@@ -1,0 +1,14 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,0,,,,,
+1,1,4037957,HLA-DQ1 antigen,Observation,Substance,SNOMED
+2,2,4036194,HLA-DQ2 antigen,Observation,Substance,SNOMED
+3,3,,,,,
+4,4,4126385,Human leukocyte antigen DQ4,Observation,Substance,SNOMED
+5,5,4128469,Human leukocyte antigen DQ5(1),Observation,Substance,SNOMED
+6,6,4124134,Human leukocyte antigen DQ6(1),Observation,Substance,SNOMED
+7,7,4123331,Human leukocyte antigen DQ7(3),Observation,Substance,SNOMED
+8,8,4124135,Human leukocyte antigen DQ8(3),Observation,Substance,SNOMED
+9,9,4123332,Human leukocyte antigen DQ9(3),Observation,Substance,SNOMED
+97,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+98,No second antigen detected,,,,,
+99,Not Tested,45878602,Not tested,Meas Value,Answer,LOINC

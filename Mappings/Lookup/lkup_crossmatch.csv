@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,Indeterminate,45884091,Indeterminate,Meas Value,Answer,LOINC
+1,Negative,45878583,Negative,Meas Value,Answer,LOINC
+2,Positive,45884084,Positive,Meas Value,Answer,LOINC
+3,Weak Positive,45878592,Weak positive,Meas Value,Answer,LOINC

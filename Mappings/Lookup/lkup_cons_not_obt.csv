@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+100,EMOTIONAL,45882225,Emotional,Meas Value,Answer,LOINC
+101,CULTURAL BELIEFS,45767016,Cultural belief conflict,Condition,Clinical Finding,SNOMED
+102,RELIGIOUS BELIEFS,4031696,Spiritual or religious belief,Observation,Social Context,SNOMED
+103,FAMILY CONFLICT,4217622,Family conflict,Observation,Clinical Finding,SNOMED
+199,OTHER SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC

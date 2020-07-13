@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Cytotoxicity No AHG,,,,,
+2,Cytotoxicity AHG,,,,,
+4,Flow Cytometry,4276031,Flow cytometry,Procedure,Procedure,SNOMED
+8,Solid Phase,,,,,
+16,Not tested,45878602,Not tested,Meas Value,Answer,LOINC

@@ -1,0 +1,16 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,DROWNING,442329,Drowning,Observation,Clinical Finding,SNOMED
+2,SEIZURE,377091,Seizure,Condition,Clinical Finding,SNOMED
+3,DRUG INTOXICATION,438028,Poisoning by drug AND/OR medicinal substance,Condition,Clinical Finding,SNOMED
+4,ASPHYXIATION,4279614,Asphyxiation,Observation,Clinical Finding,SNOMED
+5,CARDIOVASCULAR,134057,Disorder of cardiovascular system,Condition,Clinical Finding,SNOMED
+6,ELECTRICAL,4121027,Electrical,Observation,Qualifier Value,SNOMED
+7,GUNSHOT WOUND,4153697,Gunshot wound,Condition,Clinical Finding,SNOMED
+8,STAB,4322407,Stab wound,Condition,Clinical Finding,SNOMED
+9,BLUNT INJURY,4314728,Blunt injury,Condition,Clinical Finding,SNOMED
+10,SIDS,435937,Sudden infant death syndrome,Condition,Clinical Finding,SNOMED
+11,INTRACRANIAL HEMORRHAGE/STROKE,439847,Intracranial hemorrhage,Condition,Clinical Finding,SNOMED
+997,NONE OF THE ABOVE,45878802,None of the above,Meas Value,Answer,LOINC
+995,995-Gunshot/stab wound (Pre-OTIS),,,,,
+12,DEATH FROM NATURAL CAUSES,4297089,Natural death,Observation,Clinical Finding,SNOMED
+998,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC

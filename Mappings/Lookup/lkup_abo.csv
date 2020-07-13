@@ -1,0 +1,10 @@
+UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+O,O,4237761,Blood group O,Measurement,Clinical Finding,SNOMED
+A,A,4008253,Blood group A,Measurement,Clinical Finding,SNOMED
+B,B,4009006,Blood group B,Measurement,Clinical Finding,SNOMED
+AB,AB,4013993,Blood group AB,Measurement,Clinical Finding,SNOMED
+Z,Z (In Utero Only),,,,,
+A1,A1,4037194,Blood group A>1<,Measurement,Clinical Finding,SNOMED
+A1B,A1B,4193771,Blood group A>1<B,Measurement,Clinical Finding,SNOMED
+A2,A2,4036674,Blood group A>2<,Measurement,Clinical Finding,SNOMED
+A2B,A2B,4228214,Blood group A>2<B,Measurement,Clinical Finding,SNOMED

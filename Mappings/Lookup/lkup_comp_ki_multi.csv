@@ -1,0 +1,3 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Added to UNOS TX candidate waiting list,43020581,On waiting list for organ transplant,Observation,Clinical Finding,SNOMED
+2,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

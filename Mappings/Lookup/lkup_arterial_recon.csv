@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,CELIAC WITH PANCREAS,,,,,
+2,Y-GRAFT TO SPA & SMA,,,,,
+5,SPA ALONE,,,,,
+3,SPA TO SMA DIRECT,,,,,
+4,SPA TO SMA WITH INTERPOSITION,,,,,
+999,OTHER SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC

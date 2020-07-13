@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,NO BOS,45878245,No,Meas Value,Answer,LOINC
+2,"Yes, Grade OP",,,,,
+3,"Yes, Grade 1",,,,,
+4,"Yes, Grade 2",,,,,
+5,"Yes, Grade 3",,,,,
+6,"Yes, Grade UNK",,,,,
+998,Unknown,45877986,Unknown,Meas Value,Answer,LOINC

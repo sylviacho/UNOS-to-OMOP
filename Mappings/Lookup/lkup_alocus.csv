@@ -1,0 +1,35 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,0,,,,,
+1,1,3037379,HLA-A1 [Presence] in donor,Measurement,Lab Test,LOINC
+2,2,3021824,HLA-A2 [Presence] in donor,Measurement,Lab Test,LOINC
+3,3,3007900,HLA-A3 [Presence] in donor,Measurement,Lab Test,LOINC
+9,9,3017999,HLA-A9 [Presence] in donor,Measurement,Lab Test,LOINC
+10,10,3001513,HLA-A10 [Presence] in donor,Measurement,Lab Test,LOINC
+11,11,3036028,HLA-A11 [Presence] in donor,Measurement,Lab Test,LOINC
+19,19,3022166,HLA-A19 [Presence] in donor,Measurement,Lab Test,LOINC
+23,23,3009213,HLA-A23(9) [Presence] in donor,Measurement,Lab Test,LOINC
+24,24,3036659,HLA-A24(9) [Presence] in donor,Measurement,Lab Test,LOINC
+25,25,3037189,HLA-A25(10) [Presence] in donor,Measurement,Lab Test,LOINC
+26,26,3020880,HLA-A26(10) [Presence] in donor,Measurement,Lab Test,LOINC
+28,28,3015086,HLA-A28 [Presence] in donor,Measurement,Lab Test,LOINC
+29,29,3016464,HLA-A29(19) [Presence] in donor,Measurement,Lab Test,LOINC
+30,30,3015992,HLA-A30(19) [Presence] in donor,Measurement,Lab Test,LOINC
+31,31,3017357,HLA-A31(19) [Presence] in donor,Measurement,Lab Test,LOINC
+32,32,3018193,HLA-A32(19) [Presence] in donor,Measurement,Lab Test,LOINC
+33,33,3023477,HLA-A33(19) [Presence] in donor,Measurement,Lab Test,LOINC
+34,34,3003784,HLA-A34(10) [Presence] in donor,Measurement,Lab Test,LOINC
+36,36,3018986,HLA-A36 [Presence] in donor,Measurement,Lab Test,LOINC
+43,43,3005232,HLA-A43 [Presence] in donor,Measurement,Lab Test,LOINC
+66,66,3003580,HLA-A66(10) [Presence] in donor,Measurement,Lab Test,LOINC
+68,68,3001310,HLA-A68(28) [Presence] in donor,Measurement,Lab Test,LOINC
+69,69,3035157,HLA-A69(28) [Presence] in donor,Measurement,Lab Test,LOINC
+74,74,3003760,HLA-A74(19) [Presence] in donor,Measurement,Lab Test,LOINC
+80,80,,,,,
+203,203,4126365,Human leukocyte antigen A203,Observation,Substance,SNOMED
+210,210,4123315,Human leukocyte antigen A210,Observation,Substance,SNOMED
+2403,2403,4124121,Human leukocyte antigen A2403,Observation,Substance,SNOMED
+6601,6601,4106770,A*6601,Observation,Substance,SNOMED
+6602,6602,4104419,A*6602,Observation,Substance,SNOMED
+97,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+98,No second antigen detected,45878003,None detected,Meas Value,Answer,LOINC
+99,Not Tested,45878602,Not tested,Meas Value,Answer,LOINC

@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,NO,45878245,No,Meas Value,Answer,LOINC
+2,"YES, MYOCARDITIS",,,,,
+3,"YES, NEGATIVE BIOPSY RESULT",45877738,"Yes, negative",Meas Value,Answer,LOINC
+4,"YES, OTHER DIAGNOSIS SPECIFY",,,,,

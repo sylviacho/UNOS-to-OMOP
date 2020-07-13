@@ -1,0 +1,25 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+13,1,,,,,
+1,1:03,,,,,
+2,1:04,,,,,
+3,1:05,,,,,
+14,1:06,,,,,
+7,1:07,,,,,
+8,1:08,,,,,
+9,1:09,,,,,
+10,1:10,,,,,
+11,1:11,,,,,
+12,1:12,,,,,
+20,2,,,,,
+4,2:01,40760210,HLA-DQB1*02:01 [Presence],Measurement,Lab Test,LOINC
+5,2:02,,,,,
+23,2:03,,,,,
+24,2:04,,,,,
+30,3,,,,,
+31,3:01,40762021,HLA-DQA1*03:01 [Presence],Measurement,Lab Test,LOINC
+32,3:02,40762022,HLA-DQB1*03:02 [Presence],Measurement,Lab Test,LOINC
+33,3:03,,,,,
+40,4,,,,,
+6,4:01,,,,,
+98,No second antigen detected,,,,,
+99,Not tested,45878602,Not tested,Meas Value,Answer,LOINC

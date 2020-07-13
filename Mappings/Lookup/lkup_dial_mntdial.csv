@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+2,"YES, RESUMED MAINTENANCE DIALYSIS",,,,,
+3,"YES, NO MAINTENANCE RESUMPTION",,,,,
+4,"YES, MAINTENANCE RESUMPTION UNKNOWN",,,,,
+998,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC
+1,NO,45878245,No,Meas Value,Answer,LOINC
+5,"Yes, returned to chronic maintenance dialysis (ESRD)",,,,,
+6,"Yes, returned to (or continued on) temporary dialysis",,,,,

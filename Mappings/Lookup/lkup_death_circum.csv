@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,MVA,440897,Motor vehicle accident victim,Observation,Clinical Finding,SNOMED
+2,SUICIDE,440925,Suicide,Observation,Clinical Finding,SNOMED
+3,HOMICIDE,4101415,Homicide,Observation,Clinical Finding,SNOMED
+4,CHILD-ABUSE,437449,Victim of child abuse,Observation,Clinical Finding,SNOMED
+5,"Accident, Non-MVA",,,,,
+6,DEATH FROM NATURAL CAUSES,4297089,Natural death,Observation,Clinical Finding,SNOMED
+997,NONE OF THE ABOVE,45878802,None of the above,Meas Value,Answer,LOINC

@@ -1,0 +1,13 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+10,DONOR AGE,4265453,Age,Observation,Qualifier Value,SNOMED
+11,NON-HEART BEATING DONOR,,,,,
+12,HISTORY OF PREVIOUS CARDIAC SURGERY (valid only for HR),4060080,H/O cardiac surgery,Observation,Context-dependent,SNOMED
+13,HISTORY OF SEVERE CARDIAC DISEASE (valid only for HR),4144290,H/O: cardiovascular disease,Observation,Context-dependent,SNOMED
+14,HISTORY OF LUNG DISEASE (valid only for LU),,,,,
+15,HISTORY OF GASTRO-INTESTINAL DISEASE (valid only for IN),4144291,H/O: gastrointestinal disease,Observation,Context-dependent,SNOMED
+16,HISTORY OF DIABETES MELLITUS (valid only for PA),4058709,H/O: diabetes mellitus,Observation,Context-dependent,SNOMED
+17,PANCREATITIS (valid only for PA),4192640,Pancreatitis,Condition,Clinical Finding,SNOMED
+18,ACUTE/CHRONIC RENAL FAILURE,4128067,Acute-on-chronic renal failure,Condition,Clinical Finding,SNOMED
+21,Donor Quality,4138598,Quality,Observation,Attribute,SNOMED
+22,Donor ABO,44789898,ABO incompatible donor,Observation,Qualifier Value,SNOMED
+99,OTHER SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC

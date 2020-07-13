@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Within One Grade Level of Peers,,,,,
+2,Delayed Grade Level,4038523,Failure to maintain previous academic level,Observation,Clinical Finding,SNOMED
+3,Special Education,4027464,Special educational needs,Observation,Clinical Finding,SNOMED
+996,Not Applicable < 5 years old/ High School graduate or GED,,,,,
+998,Status Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+,,,,,,

@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No,45878245,No,Meas Value,Answer,LOINC
+2,Type I,201254,Type 1 diabetes mellitus,Condition,Clinical Finding,SNOMED
+3,Type II,201826,Type 2 diabetes mellitus,Condition,Clinical Finding,SNOMED
+4,Type Other,45882318,Neither type,Meas Value,Answer,LOINC
+5,Type Unknown,,,,,
+998,Diabetes Status Unknown,,,,,

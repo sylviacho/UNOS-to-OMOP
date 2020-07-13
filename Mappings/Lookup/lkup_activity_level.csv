@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No change in activity level,45878896,No change,Meas Value,Answer,LOINC
+2,Mild decrease in activity level,,,,,
+3,Moderate decrease in activity level,,,,,
+4,Severe decrease in activity level,,,,,
+5,Increase in activity level,45881719,Increases,Meas Value,Answer,LOINC
+6,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
