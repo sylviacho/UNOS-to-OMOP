@@ -1,0 +1,152 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1000,DILATED MYOPATHY: IDIOPATHIC,4203149,Primary idiopathic dilated cardiomyopathy,Condition,Clinical Finding,SNOMED
+1001,DILATED MYOPATHY: ADRIAMYCIN,4240233,Dilated cardiomyopathy secondary to amyloidosis,Condition,Clinical Finding,SNOMED
+1002,DILATED MYOPATHY: POST PARTUM,,,,,
+1003,DILATED MYOPATHY: FAMILIAL,4178584,Primary familial dilated cardiomyopathy,Condition,Clinical Finding,SNOMED
+1004,DILATED MYOPATHY: MYOCARDITIS,,,,,
+1005,DILATED MYOPATHY: ALCOHOLIC,318773,Dilated cardiomyopathy secondary to alcohol,Condition,Clinical Finding,SNOMED
+1006,DILATED MYOPATHY: VIRAL,,,,,
+1007,DILATED MYOPATHY: ISCHEMIC,,,,,
+1049,DILATED MYOPATHY: OTHER SPECIFY,,,,,
+1050,RESTRICTIVE MYOPATHY: IDIOPATHIC,4274635,Primary idiopathic restrictive cardiomyopathy,Condition,Clinical Finding,SNOMED
+1051,RESTRICTIVE MYOPATHY: AMYLOIDOSIS,4197087,Restrictive cardiomyopathy secondary to amyloidosis,Condition,Clinical Finding,SNOMED
+1052,RESTRICTIVE MYOPATHY: ENDOCARDIAL FIBROS,4162674,Restrictive cardiomyopathy with endomyocardial fibrosis,Condition,Clinical Finding,SNOMED
+1053,RESTRICTIVE MYOPATHY: SARCOIDOSIS,4191606,Restrictive cardiomyopathy secondary to sarcoidosis,Condition,Clinical Finding,SNOMED
+1054,RESTRICTIVE MYOPATHY: SEC TO RADIAT/CHEM,,,,,
+1099,RESTRICTIVE MYOPATHY: OTHER SPECIFY,4190773,Restrictive cardiomyopathy,Condition,Clinical Finding,SNOMED
+1100,HEART RE-TX/GF: HYPERACUTE REJECTION,,,,,
+1101,HEART RE-TX/GF: ACUTE REJECTION,,,,,
+1102,HEART RE-TX/GF: CORONARY ARTERY DISEASE,,,,,
+1103,HEART RE-TX/GF: NON-SPECIFIC,,,,,
+1104,HEART RE-TX/GF: RESTRICTIVE/CONSTRICTIVE,,,,,
+1105,HEART RE-TX/GF: CHRONIC REJECTION,,,,,
+1106,HEART RE-TX/GF: PRIMARY FAILURE,,,,,
+1199,HEART RE-TX/GF: OTHER SPECIFY,,,,,
+1200,CORONARY ARTERY DISEASE,317576,Coronary arteriosclerosis,Condition,Clinical Finding,SNOMED
+1201,HYPERTROPHIC CARDIOMYOPATHY,4124693,Hypertrophic cardiomyopathy,Condition,Clinical Finding,SNOMED
+1202,VALVULAR HEART DISEASE,4281749,Heart valve disorder,Condition,Clinical Finding,SNOMED
+1203,CONGENITAL HEART DEFECT - PRIOR SURGERY UNKNOWN,,,,,
+1204,CANCER,443392,Malignant neoplastic disease,Condition,Clinical Finding,SNOMED
+1700,HEART/LUNG RE-TX/GF: PRIMARY FAILURE,,,,,
+1497,CARDIAC DISEASE: OTHER SPECIFY,,,,,
+1500,EISENMENGER'S SYN: ATRIAL SEPTAL DEFECT,,,,,
+1501,EISENMENGER'S SYN: VSD,,,,,
+1502,EISENMENGER'S SYN: PDA,,,,,
+1548,EISENMENGER'S SYN: MULTI CONGENITAL ANOMALIES,,,,,
+1549,EISENMENGER'S SYN: OTHER SPECIFY,40493243,Eisenmenger's syndrome,Condition,Clinical Finding,SNOMED
+1550,LUNG RE-TX/GF: NON-SPECIFIC,,,,,
+1551,LUNG RE-TX/GF: OBLITERATIVE BRONCHIOLITI,,,,,
+1552,LUNG RE-TX/GF: RESTRICTIVE,,,,,
+1553,LUNG RE-TX/GF: ACUTE REJECTION,,,,,
+1554,LUNG RE-TX/GF: OBSTRUCTIVE,,,,,
+1555,LUNG RE-TX/GF: PRIMARY GRAFT FAILURE,,,,,
+1599,LUNG RE-TX/GF: OTHER SPECIFY,,,,,
+1600,CONGENITAL: OTHER SPECIFY,440508,Congenital disease,Condition,Clinical Finding,SNOMED
+1601,PULMONARY HYPERTENSION/PULMONARY ARTERIAL HYPERTENSION,4013643,Pulmonary arterial hypertension,Condition,Clinical Finding,SNOMED
+1602,CYSTIC FIBROSIS,441267,Cystic fibrosis,Condition,Clinical Finding,SNOMED
+1603,INHALATION BURNS/TRAUMA,,,,,
+1604,IIP: IDIOPATHIC PULMONARY FIBROSIS (IPF),45763750,Idiopathic pulmonary fibrosis,Condition,Clinical Finding,SNOMED
+1605,SARCOIDOSIS,438688,Sarcoidosis,Condition,Clinical Finding,SNOMED
+1606,ALPHA - 1 - ANTITRYPSIN DEFICIENCY,192275,Alpha-1-antitrypsin deficiency,Condition,Clinical Finding,SNOMED
+1607,COPD/EMPHYSEMA,255573,Chronic obstructive lung disease,Condition,Clinical Finding,SNOMED
+1608,BRONCHIECTASIS,256449,Bronchiectasis,Condition,Clinical Finding,SNOMED
+1609,RHEUMATOID DISEASE,80809,Rheumatoid arthritis,Condition,Clinical Finding,SNOMED
+1610,OCCUPATIONAL LUNG DISEASE OTHER SPECIFY,,,,,
+1611,LYMPHANGIOLEIOMYOMATOSIS,4174275,Pulmonary lymphangioleiomyomatosis,Condition,Clinical Finding,SNOMED
+1612,OBLITERATIVE BRONCHIOLITIS (NON-RETRANSPLANT),,,,,
+1613,PULMONARY FIBROSIS OTHER SPECIFY CAUSE,,,,,
+1614,PULMONARY VASCULAR DISEASE,,,,,
+1498,HEART: OTHER SPECIFY,,,,,
+1997,LUNG DISEASE: OTHER SPECIFY,,,,,
+999,OTHER - SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC
+1999,UNKNOWN / CONVERTED RECORDS ONLY,,,,,
+1205,CONGENITAL HEART DEFECT - HYPOPLASTIC LEFT HEART SYNDROME - UNOPERATED,,,,,
+1206,CONGENITAL HEART DEFECT - WITHOUT SURGERY,,,,,
+1207,CONGENITAL HEART DEFECT - WITH SURGERY,,,,,
+1615,SECONDARY PULMONARY HYPERTENSION,4339214,Secondary pulmonary hypertension,Condition,Clinical Finding,SNOMED
+100,ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS,257583,Allergic bronchopulmonary aspergillosis,Condition,Clinical Finding,SNOMED
+103,BRONCHOPULMONARY DYSPLASIA,4283942,Bronchopulmonary dysplasia of newborn,Condition,Clinical Finding,SNOMED
+105,CILIARY DYSKINESIS SYNDROME,4313982,Immotile cilia syndrome,Condition,Clinical Finding,SNOMED
+106,CONSTRICTIVE BRONCHIOLITIS,4072309,Constriction of bronchioles,Condition,Clinical Finding,SNOMED
+107,DYSMOTILE CILIA SYNDROME,4313982,Immotile cilia syndrome,Condition,Clinical Finding,SNOMED
+109,GRANULOMATOUS LUNG DISEASE,4029363,Granulomatous disorder,Condition,Clinical Finding,SNOMED
+111,KARTAGENER'S SYNDROME,4173466,Kartagener syndrome,Condition,Clinical Finding,SNOMED
+113,OBSTRUCTIVE LUNG DISEASE,255573,Chronic obstructive lung disease,Condition,Clinical Finding,SNOMED
+114,PRIMARY CILIARY DYSKINESIA,4313982,Immotile cilia syndrome,Condition,Clinical Finding,SNOMED
+116,TUBEROUS SCLEROSIS,380839,Tuberous sclerosis syndrome,Condition,Clinical Finding,SNOMED
+200,CONGENITAL MALFORMATION,4079975,Congenital malformation,Condition,Clinical Finding,SNOMED
+202,PERIPHERAL PULM ARTERY STENOSIS & 2° PULM HTN,,,,,
+203,PORTOPULMONARY HYPERTENSION,40482858,Pulmonary arterial hypertension associated with portal hypertension,Condition,Clinical Finding,SNOMED
+205,PULMONARY AV MALFORMATION CONGENITAL HEART DISEASE,,,,,
+206,PULMONARY THROMBOEMBOLIC DISEASE,4121618,Pulmonary thromboembolism,Condition,Clinical Finding,SNOMED
+208,PULMONARY VENO-OCCLUSIVE DISEASE,4232485,Pulmonary veno-occlusive disease,Condition,Clinical Finding,SNOMED
+209,PULMONIC STENOSIS,4209011,Pulmonic valve stenosis,Condition,Clinical Finding,SNOMED
+210,RIGHT HYPOPLASTIC LUNG,,,,,
+212,THROMBOEMBOLIC PULMONARY HYPERTENSION,4120094,Chronic thromboembolic pulmonary hypertension,Condition,Clinical Finding,SNOMED
+300,COMMON VARIABLE IMMUNE DEFICIENCY,435228,Common variable agammaglobulinemia,Condition,Clinical Finding,SNOMED
+302,FIBROCAVITARY LUNG DISEASE,,,,,
+303,HYPOGAMMAGLOBULINEMIA,440072,Hypogammaglobulinemia,Measurement,Clinical Finding,SNOMED
+305,SCHWACKMAN-DIAMOND SYNDROME,4232178,Shwachman syndrome,Condition,Clinical Finding,SNOMED
+400,ALVEOLAR PROTEINOSIS,435853,Pulmonary alveolar proteinosis,Condition,Clinical Finding,SNOMED
+401,AMYLOIDOSIS,432595,Amyloidosis,Condition,Clinical Finding,SNOMED
+402,ARDS/PNEUMONIA,255848,Pneumonia,Condition,Clinical Finding,SNOMED
+403,IIP: BOOP/COP,4045260,Bronchiolitis obliterans organizing pneumonia,Condition,Clinical Finding,SNOMED
+404,BRONCHIOLOALVEOLAR CARCINOMA (BAC),4162448,Bronchioloalveolar carcinoma - disorder,Condition,Clinical Finding,SNOMED
+405,CARCINOID TUMORLETS,,,,,
+406,CHRONIC PNEUMONITIS OF INFANCY,45769386,Chronic pneumonitis of infancy,Condition,Clinical Finding,SNOMED
+407,COLLAGEN VASCULAR DISEASES,4134867,Mixed collagen vascular disease,Condition,Clinical Finding,SNOMED
+408,CONNECTIVE TISSUE DISEASE,253549,Disorder of connective tissue,Condition,Clinical Finding,SNOMED
+409,CREST,4135937,CREST syndrome,Condition,Clinical Finding,SNOMED
+410,CUTIS LAXA,4242416,Cutis laxa,Condition,Clinical Finding,SNOMED
+411,DESQUAMATIVE INTERSTITIAL PNEUMONITIS (DIP),4311555,Desquamative interstitial pneumonia,Condition,Clinical Finding,SNOMED
+412,EHLERS-DANLOS SYNDROME,79145,Ehlers-Danlos syndrome,Condition,Clinical Finding,SNOMED
+413,EOSINOPHILIC GRANULOMA,4044708,"Langerhans cell histiocytosis, unifocal",Condition,Clinical Finding,SNOMED
+414,EOSINOPHILIC GRANULOMATOSIS,,,,,
+415,EOSINOPHILIC PNEUMONIAL CHRONIC GRANULOMATOSIS,,,,,
+416,FIBROSING MEDIASTINITIS,4249898,Sclerosing mediastinitis,Condition,Clinical Finding,SNOMED
+417,GRAFT-VS-HOST DISEASE (GVHD),443216,Graft versus host disease,Condition,Clinical Finding,SNOMED
+418,HERMANSKY PUDLAK SYNDROME,4245912,Hermansky-Pudlak syndrome,Condition,Clinical Finding,SNOMED
+419,HISTIOCYTOSIS X,4278365,Langerhans cell histiocytosis,Condition,Clinical Finding,SNOMED
+420,HYPERSENSITIVITY PNEUMONITIS,444084,Extrinsic allergic alveolitis,Condition,Clinical Finding,SNOMED
+422,IDIOPATHIC PULMONARY HEMOSIDEROSIS,438782,Idiopathic pulmonary hemosiderosis,Condition,Clinical Finding,SNOMED
+423,INTERSTITIAL PNEUMONITIS,4273378,Interstitial pneumonia,Condition,Clinical Finding,SNOMED
+424,IIP: LYMPHOCYTIC INTERSTITIAL PNEUMONIA (LIP),4195014,Lymphoid interstitial pneumonia,Condition,Clinical Finding,SNOMED
+432,LUPUS,255891,Lupus erythematosus,Condition,Clinical Finding,SNOMED
+433,MACLEOD SYNDROME,4163244,Unilateral emphysema,Observation,Clinical Finding,SNOMED
+434,MIXED CONNECTIVE TISSUE DISEASE,4134867,Mixed collagen vascular disease,Condition,Clinical Finding,SNOMED
+437,PARANEOPLASTIC PEMPHIGUS ASSOCIATED CASTLEMAN'S DISEASE,,,,,
+438,POLYMYOSITIS,80800,Polymyositis,Condition,Clinical Finding,SNOMED
+440,PULMONARY HYALINIZING GRANULOMA,4119928,Pulmonary hyalinizing granuloma,Condition,Clinical Finding,SNOMED
+441,PULMONARY LANGERHANS CELL GRANULOMATOSIS,4213396,Langerhans cell histiocytosis of lung,Condition,Clinical Finding,SNOMED
+442,PULMONARY TELENGECTASIA,,,,,
+444,RESTRICTIVE LUNG DISEASE,4266931,Restrictive lung disease,Condition,Clinical Finding,SNOMED
+446,SCLERODERMA,134442,Systemic sclerosis,Condition,Clinical Finding,SNOMED
+447,SJOGREN'S SYNDROME,254443,Sjogren's syndrome,Condition,Clinical Finding,SNOMED
+448,SILICOSIS,442125,Pneumoconiosis due to silica,Condition,Clinical Finding,SNOMED
+449,SURFACTANT PROTEIN B DEFICIENCY,,,,,
+450,SWYER JAMES SYNDROME,4163244,Unilateral emphysema,Observation,Clinical Finding,SNOMED
+451,TERATOMA,4185523,Teratoma,Observation,Morph Abnormality,SNOMED
+452,TRACHEOPATHIA OSTEOPLASTICA,4182866,Tracheopathia osteoplastica,Condition,Clinical Finding,SNOMED
+453,USUAL INTERSTITIAL PNEUMONITIS,4025168,Diffuse interstitial pulmonary fibrosis,Condition,Clinical Finding,SNOMED
+454,WEGENER'S GRANULOMA,313223,Granulomatosis with polyangiitis,Condition,Clinical Finding,SNOMED
+213,WEGENER'S GRANULOMA - RESTRICTIVE,,,,,
+214,WEGENER'S GRANULOMA - BRONCHIECTASIS,,,,,
+215,CREST - RESTRICTIVE,,,,,
+216,CREST - PULMONARY HYPERTENSION,,,,,
+217,PULMONARY TELANGIECTASIA - RESTRICTIVE,,,,,
+218,PULMONARY TELANGIECTASIA - PULMONARY HYPERTENSION,,,,,
+219,SCLERODERMA - RESTRICTIVE,,,,,
+220,SCLERODERMA - PULMONARY HYPERTENSION,,,,,
+1556,LUNG RE-TX/GF: OBLITERATIVE BRONCHIOLITIS-RESTRICTIVE,,,,,
+1557,LUNG RE-TX/GF: OBLITERATIVE BRONCHIOLITIS-OBSTRUCTIVE,,,,,
+1517,PULMONARY CAPILLARY HEMANGIOMATOSIS,4121621,Pulmonary capillary hemangiomatosis,Condition,Clinical Finding,SNOMED
+1518,ABCA3 TRANSPORTER MUTATION,,,,,
+1519,SECONDARY PULMONARY FIBROSIS (SPECIFY CAUSE),,,,,
+1520,SURFACTANT PROTEIN C DEFICIENCY,,,,,
+1521,IIP: NONSPECIFIC INTERSTITIAL PNEUMONIA,4044215,Nonspecific interstitial pneumonia,Condition,Clinical Finding,SNOMED
+1522,IIP: RESPIRATORY BRONCHIOLITIS,4045227,Respiratory bronchiolitis associated interstitial lung disease,Condition,Clinical Finding,SNOMED
+1523,IIP: DESQUAMATIVE INTERSTITIAL PNEUMONIA,4311555,Desquamative interstitial pneumonia,Condition,Clinical Finding,SNOMED
+1524,IIP: ACUTE INTERSTITIAL PNEUMONIA,4341520,Acute interstitial pneumonia,Condition,Clinical Finding,SNOMED
+1525,PULMONARY LYMPHANGIECTASIA (PL),4163099,Congenital pulmonary lymphangiectasis,Condition,Clinical Finding,SNOMED
+1208,ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA/CARDIOMYOPATHY,4101624,Arrhythmogenic right ventricular dysplasia,Condition,Clinical Finding,SNOMED
+1209,MUSCULAR DYSTROPHY: OTHER SPECIFY,,,,,

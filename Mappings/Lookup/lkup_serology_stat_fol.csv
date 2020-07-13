@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+P,Positive,45884084,Positive,Meas Value,Answer,LOINC
+N,Negative,45878583,Negative,Meas Value,Answer,LOINC
+U,UKN/Cannot Disclose,45877986,Unknown,Meas Value,Answer,LOINC
+ND,Not Done,45878559,Not done,Meas Value,Answer,LOINC

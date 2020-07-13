@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Squamous Cell,4103543,Squamous cell carcinoma,Observation,Morph Abnormality,SNOMED
+2,Basal Cell,4028320,Basal cell carcinoma,Observation,Morph Abnormality,SNOMED
+3,Melanoma,4049499,Malignant melanoma,Observation,Morph Abnormality,SNOMED
+4,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+999,Other specify,45883153,"Other, specify",Meas Value,Answer,LOINC

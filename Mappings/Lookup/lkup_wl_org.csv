@@ -1,0 +1,10 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+HR,Heart,4121143,Entire heart,Spec Anatomic Site,Body Structure,SNOMED
+HL,Heart/Lung,4004169,"Heart and lung, CS",Spec Anatomic Site,Body Structure,SNOMED
+IN,Intestine,4104286,Entire intestine,Spec Anatomic Site,Body Structure,SNOMED
+KI,Kidney,4056077,Entire kidney,Spec Anatomic Site,Body Structure,SNOMED
+KP,Kidney-Pancreas,,,,,
+LI,Liver,4009105,Liver structure,Spec Anatomic Site,Body Structure,SNOMED
+LU,Lung,4111459,Entire lung,Spec Anatomic Site,Body Structure,SNOMED
+PA,Pancreas,4049768,Pancreatic structure,Spec Anatomic Site,Body Structure,SNOMED
+PI,Pancreas Islets,4301372,Endocrine pancreatic structure,Spec Anatomic Site,Body Structure,SNOMED

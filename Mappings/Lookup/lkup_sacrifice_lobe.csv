@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,RML,4247919,Structure of right middle lobe of lung,Spec Anatomic Site,Body Structure,SNOMED
+2,RUL,4174862,Structure of right upper lobe of lung,Spec Anatomic Site,Body Structure,SNOMED
+3,LUL,4259129,Structure of left upper lobe of lung,Spec Anatomic Site,Body Structure,SNOMED
+4,Lingular,4178296,Structure of lingula of left lung,Spec Anatomic Site,Body Structure,SNOMED

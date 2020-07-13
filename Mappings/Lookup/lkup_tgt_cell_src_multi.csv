@@ -1,0 +1,9 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Peripheral Blood,4001219,Peripheral blood,Observation,Substance,SNOMED
+2,Lymph Nodes,4241958,Structure of lymph node,Spec Anatomic Site,Body Structure,SNOMED
+4,Spleen,4302605,Splenic structure,Spec Anatomic Site,Body Structure,SNOMED
+8,Thymocytes,,,,,
+16,Cell lines/clonal cells,,,,,
+32,Solid Matrix,,,,,
+64,Multiple,4112104,Multiple,Observation,Qualifier Value,SNOMED
+128,Buccal Swab or Other,,,,,

@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Working Full Time,4053118,Full-time employment,Observation,Clinical Finding,SNOMED
+3,Working Part Time due to Disability,,,,,
+4,Working Part Time due to Insurance Conflict,,,,,
+5,Working Part Time due to Inability to Find Full Time Work,,,,,
+6,Working Part Time due to Donor Choice,,,,,
+7,Working Part Time Reason Unknown,,,,,
+998,"Working, Part Time vs. Full Time Unknown",,,,,

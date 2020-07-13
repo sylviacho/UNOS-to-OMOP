@@ -1,0 +1,4 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,None,45878582,None,Meas Value,Answer,LOINC
+2,Microvascular,4135530,Microvascular,Observation,Qualifier Value,SNOMED
+3,Macrovascular,,,,,

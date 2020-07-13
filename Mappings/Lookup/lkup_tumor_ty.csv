@@ -1,0 +1,26 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,"Skin (Squamous, Basal Cell)",4152725,Skin cell,Spec Anatomic Site,Body Structure,SNOMED
+2,Skin - Melanoma,141232,Malignant melanoma of skin,Condition,Clinical Finding,SNOMED
+3,Genitourinary - Bladder,4232481,Urinary bladder structure,Spec Anatomic Site,Body Structure,SNOMED
+4,Genitourinary - Uterine Cervix,4325271,Cervix uteri structure,Spec Anatomic Site,Body Structure,SNOMED
+5,Genitourinary-Uterine Body (endometrial & choriocarcinoma),,,,,
+6,Genitourinary - Vulva,4166066,Vulval structure,Spec Anatomic Site,Body Structure,SNOMED
+7,Genitourinary - Ovarian,4049448,Ovarian structure,Spec Anatomic Site,Body Structure,SNOMED
+8,Genitourinary - Testicular,4238088,Testis structure,Spec Anatomic Site,Body Structure,SNOMED
+9,Genitourinary - Prostate,4165732,Prostatic structure,Spec Anatomic Site,Body Structure,SNOMED
+10,Genitourinary - Kidney,4271678,Kidney structure,Spec Anatomic Site,Body Structure,SNOMED
+11,Gastrointestinal-Stomach,4288283,Stomach structure,Spec Anatomic Site,Body Structure,SNOMED
+12,Gastrointestinal-Small Intestine,4146765,Small intestinal structure,Spec Anatomic Site,Body Structure,SNOMED
+13,Gastrointestinal-Carcinoid,443565,Carcinoid tumor of gastrointestinal tract,Condition,Clinical Finding,SNOMED
+14,Gastrointestinal-Colo-Rectal,4141331,Colorectal,Observation,Qualifier Value,SNOMED
+15,Gastrointestinal-Liver/Biliary Tract(incidental time of hepatectomy),,,,,
+16,"Gastrointestinal-Liver/Biliary tract, not incidental",,,,,
+17,Gastrointestinal-Pancreas,4049768,Pancreatic structure,Spec Anatomic Site,Body Structure,SNOMED
+18,Thyroid,4321375,Thyroid structure,Spec Anatomic Site,Body Structure,SNOMED
+19,Breast,4298444,Breast structure,Spec Anatomic Site,Body Structure,SNOMED
+20,"Tongue/Mouth,Pharynx",4193450,Mouth and/or pharynx structures,Spec Anatomic Site,Body Structure,SNOMED
+21,Larynx,4262229,Laryngeal structure,Spec Anatomic Site,Body Structure,SNOMED
+22,Lung (include bronchial),4248032,Bronchopulmonary segment structure,Spec Anatomic Site,Body Structure,SNOMED
+23,Leukemia,4030289,Leukemia,Observation,Morph Abnormality,SNOMED
+24,Lymphoma,4071676,Malignant lymphoma,Observation,Morph Abnormality,
+25,"Other Cancer, Specify",45883153,"Other, specify",Meas Value,Answer,LOINC

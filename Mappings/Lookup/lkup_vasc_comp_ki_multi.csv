@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Renal Vein,4208703,Structure of renal vein,Spec Anatomic Site,Body Structure,SNOMED
+2,Renal Artery,4154880,Structure of renal artery,Spec Anatomic Site,Body Structure,SNOMED
+4,Aorta,4049896,Aortic structure,Spec Anatomic Site,Body Structure,SNOMED
+8,Vena Cava,4149003,Vena caval structure,Spec Anatomic Site,Body Structure,SNOMED
+16,Pulmonary Embolus,440417,Pulmonary embolism,Condition,Clinical Finding,SNOMED
+32,Deep Vein Thrombosis,4133004,Deep venous thrombosis,Condition,Clinical Finding,SNOMED
+64,"Other, specify",45883153,"Other, specify",Meas Value,Answer,LOINC

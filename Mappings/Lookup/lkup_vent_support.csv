@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,No,45878245,No,Meas Value,Answer,LOINC
+2,Ventilator support for <= 48 hours,,,,,
+3,Ventilator support for >48 hours but < 5 days,,,,,
+4,Ventilator support >= 5 days,,,,,
+5,"Ventilator support, duration unknown",,,,,
+998,Unknown Status,45877986,Unknown,Meas Value,Answer,LOINC

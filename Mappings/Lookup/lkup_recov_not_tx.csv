@@ -1,0 +1,11 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+507,Organ Exported Outside of U.S.,,,,,
+520,Recovered for Transplant: Pancreas sent for Technical Reasons (for DMS use only),,,,,
+503,Recovered for Transplant: Discarded Locally,,,,,
+504,Recovered for Transplant: Shared and Discarded,,,,,
+505,Recovered for Transplant: Submitted for Research,,,,,
+506,Recovered for Transplant: Sent for Heart Valves,,,,,
+523,"Exported, not transplanted or transplant unknown",,,,,
+508,"Recovered for Transplant: Whole PA/PI, processed for islets, not transplanted or transplant unknown",,,,,
+509,Recovered for Transplant: Sent for Ex-corp Liver,,,,,
+514,Recovered for Transplant: Sent for Hepatocytes,,,,,

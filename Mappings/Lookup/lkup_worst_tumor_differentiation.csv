@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,Well,45877705,Well,Meas Value,Answer,LOINC
+2,Moderate,45877983,Moderate,Meas Value,Answer,LOINC
+3,Poor,45876751,Poor,Meas Value,Answer,LOINC
+4,Complete Tumor Necrosis,,,,,

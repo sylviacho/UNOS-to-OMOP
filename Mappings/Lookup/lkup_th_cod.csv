@@ -1,0 +1,76 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+2000,GRAFT FAILURE: PRIMARY FAILURE,4087398,Primary graft failure,Condition,Clinical Finding,SNOMED
+2001,GRAFT FAILURE: REJECTION- HYPERACUTE,4131784,Hyperacute graft rejection,Condition,Clinical Finding,SNOMED
+2002,GRAFT FAILURE: REJECTION- ACUTE,,,,,
+2003,GRAFT FAILURE: REJECTION- CHRONIC,4337942,Chronic graft rejection,Condition,Clinical Finding,SNOMED
+2004,GRAFT FAILURE: TECHNICAL,,,,,
+2005,GRAFT FAILURE: GRAFT INFECTION,4170296,Graft infection,Condition,Clinical Finding,SNOMED
+2006,GRAFT FAILURE: RECURRENT DISEASE,4148383,Graft failure due to recurrent recipient disease,Condition,Clinical Finding,SNOMED
+2099,GRAFT FAILURE: NON-SPECIFIC,,,,,
+2100,INFECTION: BACTERIAL SEPTICEMIA,4000938,Bacterial sepsis,Condition,Clinical Finding,SNOMED
+2101,INFECTION: BACTERIAL PNEUMONIA,257315,Bacterial pneumonia,Condition,Clinical Finding,SNOMED
+2109,INFECTION: BACTERIAL- OTHER SPECIFY,,,,,
+2110,INFECTION: VIRAL- CYTOMEGALOVIRUS (CMV),440032,Cytomegalovirus infection,Condition,Clinical Finding,SNOMED
+2111,INFECTION: VIRAL- HEPATITIS,4291005,Viral hepatitis,Condition,Clinical Finding,SNOMED
+2112,INFECTION: VIRAL-SEPTICEMIA,133327,Viremia,Condition,Clinical Finding,SNOMED
+2119,INFECTION: VIRAL- OTHER SPECIFY,,,,,
+2120,INFECTION: FUNGAL- ASPERGILLUS,4274340,Infection by Aspergillus fumigatus,Condition,Clinical Finding,SNOMED
+2129,INFECTION: FUNGAL- OTHER SPECIFY,,,,,
+2130,INFECTION: PROTOZOAL,442176,Protozoan infection,Condition,Clinical Finding,SNOMED
+2198,INFECTION: MIXED OTHER SPECIFY,,,,,
+2199,INFECTION: OTHER SPECIFY,,,,,
+2200,CARDIOVASCULAR: MYOCARDIAL INFARCTION,4329847,Myocardial infarction,Condition,Clinical Finding,SNOMED
+2201,CARDIOVASCULAR: CARDIAC ARREST,321042,Cardiac arrest,Condition,Clinical Finding,SNOMED
+2202,CARDIOVASCULAR: ARTERIAL EMBOLISM,312339,Arterial embolism,Condition,Clinical Finding,SNOMED
+2203,CARDIOVASCULAR: VENTRICULAR FAILURE,4242669,Biventricular congestive heart failure,Condition,Clinical Finding,SNOMED
+2204,CARDIOVASCULAR: CORONARY ARTERY DISEASE,317576,Coronary arteriosclerosis,Condition,Clinical Finding,SNOMED
+2205,CARDIOVASCULAR: ATHEROSCLEROSIS,40481919,Coronary atherosclerosis,Condition,Clinical Finding,SNOMED
+2206,CARDIOVASCULAR: RHYTHM DISORDER,44784217,Cardiac arrhythmia,Condition,Clinical Finding,SNOMED
+2207,CARDIOVASCULAR: CARDITIS,4164489,Carditis,Condition,Clinical Finding,SNOMED
+2208,CARDIOVASCULAR: AORTIC ANEURYSM,317585,Aortic aneurysm,Condition,Clinical Finding,SNOMED
+2209,CARDIOVASCULAR: CARDIOGENIC SHOCK,198571,Cardiogenic shock,Condition,Clinical Finding,SNOMED
+2299,CARDIOVASCULAR: OTHER SPECIFY,,,,,
+2300,PULM: DEHISCENCE,4007471,Dehiscence,Observation,Morph Abnormality,SNOMED
+2301,PULM: BRONCHIOLITIS,4165112,Bronchiolitis,Condition,Clinical Finding,SNOMED
+2302,PULM: PRIMARY PULMONARY HYPERTENSION,,,,,
+2303,PULM: PULMONARY EMBOLISM,440417,Pulmonary embolism,Condition,Clinical Finding,SNOMED
+2304,PULM: RESPIRATORY FAILURE,4256228,Respiratory failure,Condition,Clinical Finding,SNOMED
+2305,PULM: ACUTE RESPIRATORY DISTRESS DISEASE,4191650,Acute respiratory distress,Condition,Clinical Finding,SNOMED
+2399,PULM: OTHER SPECIFY,,,,,
+2400,CEREBROVASCULAR: STROKE,381316,Cerebrovascular accident,Condition,Clinical Finding,SNOMED
+2401,CEREBROVASCULAR: HEMORRHAGE (NON-STROKE),,,,,
+2402,CEREBROVASCULAR: BRAIN ANOXIA,4306574,Anoxia of brain,Condition,Clinical Finding,SNOMED
+2403,CEREBROVASCULAR: DEGENERATIVE BRAIN DISEASE,4100231,Cerebral degeneration due to cerebrovascular disease,Condition,Clinical Finding,SNOMED
+2499,CEREBROVASCULAR: OTHER SPECIFY,,,,,
+2500,HEMORRHAGE: GASTROINTESTINAL,192671,Gastrointestinal hemorrhage,Condition,Clinical Finding,SNOMED
+2501,HEMORRHAGE: INTRAOPERATIVE,4308716,Intraoperative hemorrhage,Condition,Clinical Finding,SNOMED
+2502,HEMORRHAGE: DISSEMINATED INTRAVAS COAGULATION,436093,Disseminated intravascular coagulation,Condition,Clinical Finding,SNOMED
+2503,HEMORRHAGE: POST-OPERATIVE,4002836,Postoperative hemorrhage,Condition,Clinical Finding,SNOMED
+2504,HEMORRHAGE: RESPIRATORY,4317284,Respiratory tract hemorrhage,Condition,Clinical Finding,SNOMED
+2599,HEMORRHAGE: OTHER SPECIFY,,,,,
+2600,MALIG: METASTATIC OTHER SPECIFY,,,,,
+2601,MALIG: PRIMARY OTHER SPECIFY,,,,,
+2602,MALIG: POST-TX LYMPHOPROLIFERATIVE DISORDER,435514,Post-transplant lymphoproliferative disorder,Condition,Clinical Finding,SNOMED
+2603,MALIG: LYMPHOMA,45881968,Lymphoma,Meas Value,Answer,LOINC
+2604,MALIG: SKIN,4155297,Malignant neoplasm of skin,Condition,Clinical Finding,SNOMED
+2699,MALIG: OTHER SPECIFY,,,,,
+2700,DIABETES MELLITUS,201820,Diabetes mellitus,Condition,Clinical Finding,SNOMED
+2701,INTRAOP: NOT HEMORRHAGE - OTHER SPECIFY,,,,,
+2702,PANCREATITIS,4192640,Pancreatitis,Condition,Clinical Finding,SNOMED
+2703,RENAL FAILURE,192359,Renal failure syndrome,Condition,Clinical Finding,SNOMED
+2704,LIVER FAILURE,4245975,Hepatic failure,Condition,Clinical Finding,SNOMED
+2705,MULTIPLE ORGAN FAILURE,4212484,Multiple organ failure,Condition,Clinical Finding,SNOMED
+2706,FLUID/ELECTROLYTE DISORDER,441830,Disorder of fluid AND/OR electrolyte,Condition,Clinical Finding,SNOMED
+2707,ACID/BASE DISORDER,4096947,Disorder of acid-base balance,Condition,Clinical Finding,SNOMED
+2708,AMYLOIDOSIS,432595,Amyloidosis,Condition,Clinical Finding,SNOMED
+2709,HEMATOLOGIC OTHER SPECIFY,,,,,
+2710,IMMUNOSUPPRESSIVE DRUG RELATED - HEMATOLOGIC,,,,,
+2711,IMMUNOSUPPRESSIVE DRUG RELATED - NON-HEMATOLOGIC,,,,,
+2712,NON-IMMUNO DRUG RELATED - HEMATOLOGIC,,,,,
+2713,"NON-IMMUNO - NON-HEMATOLOGIC, SPECIFY DRUG",,,,,
+2800,MOTOR VEHICLE ACCIDENT,437165,Motor vehicle traffic accident,Observation,Clinical Finding,SNOMED
+2801,SUICIDE,440925,Suicide,Observation,Clinical Finding,SNOMED
+2802,NON-COMPLIANCE,4106639,Non-compliant,Observation,Qualifier Value,SNOMED
+2803,TRAUMA OTHER SPECIFY,,,,,
+998,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC
+999,OTHER SPECIFY,45883153,"Other, specify",Meas Value,Answer,LOINC

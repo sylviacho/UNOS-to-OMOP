@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,NONE,45878582,None,Meas Value,Answer,LOINC
+2,LVAD,4235161,Left ventricular assist device,Device,Physical Object,SNOMED
+3,RVAD,4235160,Right ventricular assist device,Device,Physical Object,SNOMED
+4,TAH,4263635,Prosthetic heart,Device,Physical Object,SNOMED
+5,LVAD+RVAD,4234444,Biventricular assist device,Device,Physical Object,SNOMED
+6,LVAD/RVAD/TAH Unspecified,45876258,Unspecified,Meas Value,Answer,LOINC

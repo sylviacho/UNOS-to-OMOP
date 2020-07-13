@@ -1,0 +1,5 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+Y,Yes,45877994,Yes,Meas Value,Answer,LOINC
+N,No,45878245,No,Meas Value,Answer,LOINC
+U,Unknown,45877986,Unknown,Meas Value,Answer,LOINC
+ND,Not Done,45878559,Not done,Meas Value,Answer,LOINC

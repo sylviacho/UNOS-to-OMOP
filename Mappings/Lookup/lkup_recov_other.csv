@@ -1,0 +1,7 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+516,Recovered Pancreas for Technical Reasons (for DMS use only),,,,,
+510,Recovered for Research,,,,,
+511,Recovered for Heart Valves,,,,,
+512,Recovered for Pancreas Islet Cells,,,,,
+513,Recovered for Extra-corporeal Liver,,,,,
+515,Recovered only for purpose Hepatocytes,,,,,

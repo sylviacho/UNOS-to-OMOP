@@ -1,0 +1,10 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,"Right lobe without middle hepatic vein (segments 5,6,7,8)",,,,,
+2,"Right lobe with middle hepatic vein (segments 4,5,6,7,8)",,,,,
+3,"Left lobe (segments 2,3,4)",,,,,
+4,"Left lateral segment (segments 2,3)",,,,,
+18,"Left trisegment (segments 1,2,3,4,5,8)",,,,,
+19,"Right Trisegment with middle hepatic vein (segments 1, 4, 5, 6)",,,,,
+5,PARTIAL LI RIGHT NOT INDICATED,,,,,
+20,"Left lobe with caudate in situ (segments 1,2,3,4)",,,,,
+21,"Left lobe with caudate on the bench (segments 1,2,3,4)",,,,,

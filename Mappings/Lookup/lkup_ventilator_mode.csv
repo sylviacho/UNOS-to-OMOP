@@ -1,0 +1,8 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+1,A/C,4055375,Assisted controlled mandatory ventilation,Procedure,Procedure,SNOMED
+2,CMV,40758408,Cytomegalovirus status,Measurement,Clinical Observation,LOINC
+3,SIMV,4245036,Synchronized intermittent mandatory ventilation,Procedure,Procedure,SNOMED
+4,PRVC,,,,,
+5,APRV,4072515,Airway pressure release ventilation,Procedure,Procedure,SNOMED
+6,HFOV,4074666,High frequency oscillatory ventilation,Procedure,Procedure,SNOMED
+999,Other specify,45883153,"Other, specify",Meas Value,Answer,LOINC

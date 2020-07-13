@@ -1,0 +1,6 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+0,NONE,45878582,None,Meas Value,Answer,LOINC
+1,1-5,,,,,
+2,6-10,46237723,6-10 times,Meas Value,Answer,LOINC
+3,GREATER THAN 10,46237301,More than 10 times,Meas Value,Answer,LOINC
+998,UNKNOWN,45877986,Unknown,Meas Value,Answer,LOINC

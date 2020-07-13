@@ -1,0 +1,13 @@
+﻿UNOS_ID,UNOS_Source_Concept,OMOP_Concept_ID,OMOP_Concept_Name,OMOP_Domain,OMOP_Concept_Class,OMOP_Vocabulary
+6,"Left lobe in situ (segments 2,3,4)",,,,,
+7,"Left lobe on the bench (segments 2,3,4)",,,,,
+8,"Left lobe with caudate in situ (segments 1,2,3,4)",,,,,
+9,"Left lobe with caudate on the bench (segments 1,2,3,4)",,,,,
+10,"Left lateral segment in situ (segments 2,3)",,,,,
+11,"Left lateral segment on the bench (segments 2,3)",,,,,
+12,"Right lobe without middle hepatic vein in situ (segments 5,6,7,8)",,,,,
+13,"Right lobe without middle hepatic vein on the bench (segments 5,6,7,8)",,,,,
+14,"Right lobe with middle hepatic vein in situ (segments 4,5,6,7,8)",,,,,
+15,"Right lobe with middle hepatic vein on the bench (segments 4,5,6,7,8)",,,,,
+16,REDUCED NOT INDICATED,,,,,
+17,SPLIT NOT INDICATED,,,,,
